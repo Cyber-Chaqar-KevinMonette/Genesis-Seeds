@@ -1,0 +1,1 @@
+/home/kmon/AA-Erebo/Genesis-Seeds/COMMERCIAL.md: This file contains commercial seed inventory data for Genesis Seeds, including varieties, quantities, and expected yields.

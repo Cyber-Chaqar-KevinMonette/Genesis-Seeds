@@ -1,0 +1,3023 @@
+# Genesis-Seeds Distillation Coverage Tracker — 100% COVERAGE
+# Generated 2026-06-22T22:07:07.255828+00:00 by Claude (Opus 4.8)
+# [x] = deep-read (human-grade synthesis)   [m] = mechanically extracted (text+formulas captured)
+# EVERY unique file is processed. 2993 files: 42 deep-read [x], 2951 mechanical [m].
+# Mechanical extracts: distilled/extracts/<area>.md · formulas: distilled/MASTER_FORMULA_INDEX.md
+
+## TOTAL: 2993/2993 files covered (100%)  —  42 [x] · 2951 [m]
+
+
+## aa_aria_archive  (2305 files · 5 deep-read)
+- [x] `AA-Aria/Attempt2/ARIA_GLOBE_v1.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/MOS_Interface/bin/leak_reaper.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/Nova_Engine/Docs/Godotinfo1.md`  — From PEIG Brotherhood to 3D Simulation: Reproducing a 12‑Node Quantum 
+- [x] `AA-Aria/Nova_Engine/Docs/Godotinfo2.md`  — \# Smooth Animation of Discrete Quantum State Data in Godot 4
+- [m] `AA-Aria/Nova_Engine/Docs/Godotinfo3.md`  — \# From PEIG Brotherhood to a Godot 4 3D Simulation
+- [m] `AA-Aria/Nova_Engine/Docs/Paper20PythonfilesMerged.md`  — \#\!/usr/bin/env python3
+- [m] `AA-Aria/Nova_Engine/Docs/Papers/PEIG_Paper_XVII.pdf`  — PEIG Framework Paper XVII | Pre-print | March 26, 2026
+- [m] `AA-Aria/Nova_Engine/Docs/Papers/PEIG_Paper_XVIII.pdf`  — PEIG Framework Paper XVIII | Pre-print | March 26, 2026
+- [m] `AA-Aria/Nova_Engine/Docs/Papers/PEIG_Paper_XX.pdf`  — PEIG Framework Paper XX | Pre-print | March 26, 2026
+- [m] `AA-Aria/Nova_Engine/Docs/gotdotinfo4.md`  — \`\`\`\`markdown
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 1).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 10).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 11).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 2).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 3).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 4).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 5).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 6).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 7).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 8).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__ (Copy 9).py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/Nova_Engine_Core/temp/__init__.py`  — base = os.path.expanduser("~/output/NOVA_ENGINE")
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/default_mesh_builder.gd`  — default_mesh_builder.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/grass.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/about.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/clear_all_confirmation_dialog.gd`  — clear_all_confirmation_dialog.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/domain_range.gd`  — domain_range.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/global_parameters.gd`  — global_parameters.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/toolbar.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/toolbar_menu.gd`  — toolbar_menu.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/gui/toolbar_up.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/plugin.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/sgt_inspector.gd`  — sgt_inspector.gd
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/simplegrasstextured/singleton.gd`  — This file is part of: SimpleGrassTextured
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/LICENSE.txt`  — Copyright (c) 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/README.md`  — ![Terrain3D Logo](/doc/docs/images/terrain3d.jpg)
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/extras/3rd_party/import_sgt.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/extras/3rd_party/project_on_terrain3d.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/extras/particle_example/terrain_3D_particles.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/bake_lod_dialog.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/baker.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/channel_packer.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/channel_packer_dragdrop.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/channel_packer_import_template.txt`  — importer="texture"
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/directory_setup.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/menu/terrain_menu.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/asset_dock.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/double_slider.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/editor_plugin.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/gradient_operation_builder.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/multi_picker.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/operation_builder.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/region_gizmo.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/tool_settings.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/toolbar.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/src/ui.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/tools/importer.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/tools/region_mover.gd`  — This script can be used to move your regions by an offset.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/utils/terrain_3d_objects.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/addons/terrain_3d/utils/transform_changed_notifier.gd`  — Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.
+- [m] `AA-Aria/Nova_Engine/arias-world/aria_globe_constructor.gd`  — const LAT_GODCORE     :=  PI / 3.0
+- [m] `AA-Aria/Nova_Engine/arias-world/aria_globe_constructorv2.gd`  — const LAT_GODCORE     :=  PI / 3.0
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/assets/AriasBody/aria_SkeletonTest.gd`  — Attach to any node, run once, remove
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/assets/AriasBody/ariav_5FingerBonestest.gd`  — var skel = _find_skeleton(get_tree().root)
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/assets/textures/asset_licenses.txt`  — All ambientCG assets are provided under the
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/CameraManager.gd`  — const CAMERA_MAX_PITCH: float = deg_to_rad(70)
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/CaveEntrance.gd`  — func _ready() -> void:
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/CodeGenerated.gd`  — var terrain: Terrain3D
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/DemoScene.gd`  — @onready var terrain: Terrain3D = find_child("Terrain3D")
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/Enemy.gd`  — extends CharacterBody3D
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/Player.gd`  — extends CharacterBody3D
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/RuntimeNavigationBaker.gd`  — signal bake_finished
+- [m] `AA-Aria/Nova_Engine/arias-world/demo/src/UI.gd`  — extends Control
+- [m] `AA-Aria/Nova_Engine/arias-world/skeleton_checker.gd`  — func _ready() -> void:
+- [m] `AA-Aria/OpenJarvis/.github/ISSUE_TEMPLATE/bug_report.yml`  — name: Bug Report
+- [m] `AA-Aria/OpenJarvis/.github/ISSUE_TEMPLATE/config.yml`  — blank_issues_enabled: false
+- [m] `AA-Aria/OpenJarvis/.github/ISSUE_TEMPLATE/feature_request.yml`  — name: Feature Request
+- [m] `AA-Aria/OpenJarvis/.github/ISSUE_TEMPLATE/new_eval.yml`  — name: New Eval Dataset
+- [m] `AA-Aria/OpenJarvis/.github/clone-stats/badge.json`  — schemaVersion": 1,
+- [m] `AA-Aria/OpenJarvis/.github/clone-stats/clone-data.json`  — total_clones": 15723,
+- [m] `AA-Aria/OpenJarvis/.github/pull_request_template.md`  — What does this PR do?
+- [m] `AA-Aria/OpenJarvis/.github/workflows/ci.yml`  — branches: [main]
+- [m] `AA-Aria/OpenJarvis/.github/workflows/claude-issues.yml`  — name: Claude Issue Fixer
+- [m] `AA-Aria/OpenJarvis/.github/workflows/claude-review.yml`  — name: Claude PR Review
+- [m] `AA-Aria/OpenJarvis/.github/workflows/desktop.yml`  — name: Desktop Build & Release
+- [m] `AA-Aria/OpenJarvis/.github/workflows/docs.yml`  — name: Deploy Documentation
+- [m] `AA-Aria/OpenJarvis/.github/workflows/frontend.yml`  — name: Frontend CI
+- [m] `AA-Aria/OpenJarvis/.github/workflows/pypi-publish.yml`  — name: Publish to PyPI
+- [m] `AA-Aria/OpenJarvis/.github/workflows/take-assign.yml`  — name: Auto-assign on "take"
+- [m] `AA-Aria/OpenJarvis/.github/workflows/track-clones.yml`  — name: Track Git Clones
+- [m] `AA-Aria/OpenJarvis/.pre-commit-config.yaml`  — repo: https://github.com/astral-sh/ruff-pre-commit
+- [m] `AA-Aria/OpenJarvis/CHANGELOG.md`  — All notable changes to OpenJarvis are documented in this file.
+- [m] `AA-Aria/OpenJarvis/CODE_OF_CONDUCT.md`  — Contributor Covenant Code of Conduct
+- [m] `AA-Aria/OpenJarvis/CONTRIBUTING.md`  — Contributing to OpenJarvis
+- [m] `AA-Aria/OpenJarvis/README.md`  — <div align="center">
+- [m] `AA-Aria/OpenJarvis/REVIEW.md`  — OpenJarvis PR Review Instructions
+- [m] `AA-Aria/OpenJarvis/configs/openjarvis/prompts/personas/jarvis.md`  — You are Jarvis — the local AI assistant. You are loyal, efficient, dry
+- [m] `AA-Aria/OpenJarvis/configs/openjarvis/prompts/personas/neutral.md`  — You are an AI assistant generating a daily briefing. Be clear, concise
+- [m] `AA-Aria/OpenJarvis/deploy/docker/docker-compose.gpu.nvidia.yml`  — NVIDIA GPU override — use with:
+- [m] `AA-Aria/OpenJarvis/deploy/docker/docker-compose.gpu.rocm.yml`  — ROCm GPU override — use with:
+- [m] `AA-Aria/OpenJarvis/deploy/docker/docker-compose.yml`  — dockerfile: deploy/docker/Dockerfile
+- [m] `AA-Aria/OpenJarvis/desktop/README.md`  — OpenJarvis Desktop
+- [m] `AA-Aria/OpenJarvis/desktop/package-lock.json`  — name": "openjarvis-desktop",
+- [m] `AA-Aria/OpenJarvis/desktop/package.json`  — name": "openjarvis-desktop",
+- [m] `AA-Aria/OpenJarvis/desktop/src-tauri/capabilities/default.json`  — $schema": "../gen/schemas/desktop-schema.json",
+- [m] `AA-Aria/OpenJarvis/desktop/src-tauri/tauri.conf.json`  — $schema": "https://schema.tauri.app/config/2",
+- [m] `AA-Aria/OpenJarvis/desktop/tsconfig.json`  — compilerOptions": {
+- [m] `AA-Aria/OpenJarvis/distill-workflow.yaml`  — name: aria-mega-distill
+- [m] `AA-Aria/OpenJarvis/distill.yaml`  — name: aria-bonsai-distiller
+- [m] `AA-Aria/OpenJarvis/docs/architecture/agents.md`  — Agentic Logic Primitive
+- [m] `AA-Aria/OpenJarvis/docs/architecture/channels.md`  — Channels Architecture
+- [m] `AA-Aria/OpenJarvis/docs/architecture/design-principles.md`  — Design Principles
+- [m] `AA-Aria/OpenJarvis/docs/architecture/engine.md`  — Inference Engine Primitive
+- [m] `AA-Aria/OpenJarvis/docs/architecture/intelligence.md`  — Intelligence Primitive
+- [m] `AA-Aria/OpenJarvis/docs/architecture/learning.md`  — Learning & Traces
+- [m] `AA-Aria/OpenJarvis/docs/architecture/memory.md`  — Memory Primitive
+- [m] `AA-Aria/OpenJarvis/docs/architecture/overview.md`  — title: Architecture Overview
+- [m] `AA-Aria/OpenJarvis/docs/architecture/query-flow.md`  — This page traces the end-to-end journey of a user query through the Op
+- [m] `AA-Aria/OpenJarvis/docs/architecture/security.md`  — Security Architecture
+- [m] `AA-Aria/OpenJarvis/docs/architecture/skills.md`  — title: Skills Architecture
+- [m] `AA-Aria/OpenJarvis/docs/deployment/api-server.md`  — OpenJarvis includes an OpenAI-compatible API server built on FastAPI a
+- [m] `AA-Aria/OpenJarvis/docs/deployment/docker.md`  — Docker Deployment
+- [m] `AA-Aria/OpenJarvis/docs/deployment/index.md`  — title: Deployment
+- [m] `AA-Aria/OpenJarvis/docs/deployment/launchd.md`  — launchd Service (macOS)
+- [m] `AA-Aria/OpenJarvis/docs/deployment/systemd.md`  — systemd Service (Linux)
+- [m] `AA-Aria/OpenJarvis/docs/development/contributing.md`  — Contributing Guide
+- [m] `AA-Aria/OpenJarvis/docs/development/roadmap.md`  — Current Focus Areas
+- [m] `AA-Aria/OpenJarvis/docs/downloads.md`  — title: Downloads
+- [m] `AA-Aria/OpenJarvis/docs/experiments/neurips-2026-plan.md`  — NeurIPS 2026 Experiment Plan: IPW/IPJ for Local AI
+- [m] `AA-Aria/OpenJarvis/docs/gen_ref_pages.py`  — Generate the code reference pages."""
+- [m] `AA-Aria/OpenJarvis/docs/getting-started/configuration.md`  — title: Configuration
+- [m] `AA-Aria/OpenJarvis/docs/getting-started/installation.md`  — title: Installation
+- [m] `AA-Aria/OpenJarvis/docs/getting-started/macos.md`  — title: macOS Installation Guide
+- [m] `AA-Aria/OpenJarvis/docs/getting-started/quickstart.md`  — title: Quick Start
+- [m] `AA-Aria/OpenJarvis/docs/getting-started/snippets.md`  — title: Code Snippets
+- [m] `AA-Aria/OpenJarvis/docs/includes/abbreviations.md`  — 
+- [m] `AA-Aria/OpenJarvis/docs/index.md`  — title: OpenJarvis
+- [m] `AA-Aria/OpenJarvis/docs/leaderboard.md`  — Savings Leaderboard
+- [m] `AA-Aria/OpenJarvis/docs/testing/agent-qa-runbook.md`  — Agent QA Runbook
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/code-companion.md`  — title: Code Companion
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/deep-research.md`  — title: Deep Research Assistant
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/index.md`  — title: Tutorials
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/messaging-hub.md`  — title: Messaging Hub
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/scheduled-ops.md`  — title: Scheduled Personal Ops
+- [m] `AA-Aria/OpenJarvis/docs/tutorials/skills-workflow.md`  — title: Skills Workflow
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/agents.md`  — Agents are the agentic logic layer of OpenJarvis. They determine how a
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/benchmarks.md`  — The benchmarking framework measures inference engine performance with 
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/channels-and-connectors.md`  — Channels & Connectors
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/channels.md`  — The channels module lets OpenJarvis send and receive messages through 
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/chat-simple.md`  — A lightweight conversational AI with no tools and no agent overhead. T
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/cli.md`  — OpenJarvis provides a command-line interface through the `jarvis` comm
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/code-assistant.md`  — An orchestrator agent with code execution, file I/O, and shell access.
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/deep-research.md`  — A multi-hop research agent that searches across your indexed documents
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/evaluations.md`  — The OpenJarvis evaluation framework (`openjarvis-evals`) measures mode
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/mcp-external-servers.md`  — External MCP Server Integration
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/memory.md`  — The memory system provides persistent, searchable document storage for
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/morning-digest.md`  — A personalized daily briefing that collects data from your connected s
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/python-sdk.md`  — title: Python SDK
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/scheduled-monitor.md`  — Scheduled Monitor
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/scheduler.md`  — The task scheduler lets you run agent queries automatically on a sched
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/security.md`  — OpenJarvis includes a security layer that scans prompts and model outp
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/skills.md`  — description: Reusable compositions of tools and agent instructions — d
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/telemetry.md`  — Telemetry & Traces
+- [m] `AA-Aria/OpenJarvis/docs/user-guide/tools.md`  — The tool system enables agents to perform actions beyond text generati
+- [m] `AA-Aria/OpenJarvis/env_cortical/bin/activate_this.py`  — Copyright (c) 2020-202x The virtualenv developers
+- [m] `AA-Aria/OpenJarvis/examples/browser_assistant/README.md`  — Browser Assistant
+- [m] `AA-Aria/OpenJarvis/examples/browser_assistant/browser_assistant.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/code_companion/README.md`  — A set of developer-focused scripts that use OpenJarvis tool-using agen
+- [m] `AA-Aria/OpenJarvis/examples/code_companion/debugger.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/code_companion/reviewer.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/code_companion/test_gen.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/daily_digest/README.md`  — A morning briefing operator that searches the web for current news on 
+- [m] `AA-Aria/OpenJarvis/examples/daily_digest/daily_digest.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/deep_research/README.md`  — Deep Research Assistant
+- [m] `AA-Aria/OpenJarvis/examples/deep_research/research.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/doc_qa/README.md`  — Index a directory of documents into OpenJarvis memory and answer quest
+- [m] `AA-Aria/OpenJarvis/examples/doc_qa/doc_qa.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/messaging_hub/README.md`  — A smart inbox assistant that triages incoming messages, classifies the
+- [m] `AA-Aria/OpenJarvis/examples/messaging_hub/smart_inbox.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/multi_model_router/README.md`  — Multi-Model Router
+- [m] `AA-Aria/OpenJarvis/examples/multi_model_router/multi_model_router.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/scheduled_ops/README.md`  — Scheduled Personal Ops
+- [m] `AA-Aria/OpenJarvis/examples/scheduled_ops/code_review.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/scheduled_ops/daily_digest.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/scheduled_ops/gym_scheduler.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/examples/security_scanner/README.md`  — Security Scanner
+- [m] `AA-Aria/OpenJarvis/examples/security_scanner/security_scanner.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/frontend/components.json`  — $schema": "https://ui.shadcn.com/schema.json",
+- [m] `AA-Aria/OpenJarvis/frontend/package-lock.json`  — name": "openjarvis-chat",
+- [m] `AA-Aria/OpenJarvis/frontend/package.json`  — name": "openjarvis-chat",
+- [m] `AA-Aria/OpenJarvis/frontend/src-tauri/tauri.conf.json`  — $schema": "https://raw.githubusercontent.com/nicknisi/tauri-v2-json-sc
+- [m] `AA-Aria/OpenJarvis/frontend/tsconfig.json`  — compilerOptions": {
+- [m] `AA-Aria/OpenJarvis/jarvis_cortical/bin/activate_this.py`  — Copyright (c) 2020-202x The virtualenv developers
+- [m] `AA-Aria/OpenJarvis/mkdocs.yml`  — site_name: OpenJarvis
+- [m] `AA-Aria/OpenJarvis/rust/target/.future-incompat-report.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/.rustc_info.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ahash-57b104cb585363df/lib-ahash.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ahash-b7cbf9fb7031edc9/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ahash-d65145b925b1be4a/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aho-corasick-26fb92ab19a0a402/lib-aho_corasick.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/as-any-8e5f904e3ce1b51e/lib-as_any.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/async-stream-106a00fba34cd6d6/lib-async_stream.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/async-stream-impl-cb82d894522e5c09/lib-async_stream_impl.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/async-trait-ee5a13cb59ed0262/lib-async_trait.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/atomic-waker-843b52043047247e/lib-atomic_waker.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/autocfg-9ef4b25a9bd36cd2/lib-autocfg.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-rs-7d64d4661d4aefb4/lib-aws_lc_rs.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-rs-be6fd293c34a6ab6/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-rs-c141f170ebb3f3ab/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-sys-aa6cb92f74c9fee7/run-build-script-build-script-main.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-sys-b9c561b7ff97ba18/build-script-build-script-main.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/aws-lc-sys-edad8555c9b2a2cf/lib-aws_lc_sys.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/base64-e5cc050039038c59/lib-base64.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/bitflags-b60e409526351a4f/lib-bitflags.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/block-buffer-26340f8edc3fc036/lib-block_buffer.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/bytes-394efa973d3a621d/lib-bytes.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/cc-e608a347e059c540/lib-cc.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/cfg-if-240b169be3bd5d4e/lib-cfg_if.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/chrono-399483c47b169c3a/lib-chrono.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/cmake-2d3527187cdf1072/lib-cmake.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/cpufeatures-618cfa52b580a46a/lib-cpufeatures.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crossbeam-deque-322b18b430567fe8/lib-crossbeam_deque.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crossbeam-epoch-f9a481095e6b88f2/lib-crossbeam_epoch.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crossbeam-utils-2dd7e9a10f471ce2/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crossbeam-utils-d51a068df42f71a6/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crossbeam-utils-fe13d7397ceab4c3/lib-crossbeam_utils.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/crypto-common-3b6ab931c77ad2ef/lib-crypto_common.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/curve25519-dalek-29e976085bc03d7f/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/curve25519-dalek-8d4efdb671127b07/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/curve25519-dalek-derive-cb94a8ed6e72313a/lib-curve25519_dalek_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/curve25519-dalek-f1b94836f5630d31/lib-curve25519_dalek.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/digest-adda0ae671e3231e/lib-digest.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/displaydoc-ff85fd5314252f02/lib-displaydoc.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/dunce-163217b5b323d2b6/lib-dunce.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/dyn-clone-ddb56c1675a96fa1/lib-dyn_clone.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ed25519-d4fc9ce3bc4f4d48/lib-ed25519.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ed25519-dalek-fbacca90c2752bbb/lib-ed25519_dalek.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/either-768acc00da7a193a/lib-either.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/encoding_rs-b0655ddc975df71c/lib-encoding_rs.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/equivalent-2f9a61bf617e4347/lib-equivalent.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/errno-b02f9b4f9d3ccad1/lib-errno.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/eventsource-stream-afc048237a033ba4/lib-eventsource_stream.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/fallible-iterator-0c0091409471406a/lib-fallible_iterator.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/fallible-streaming-iterator-ae4430f3628a4ff3/lib-fallible_streaming_iterator.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/fastrand-2129f89c7a601799/lib-fastrand.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/find-msvc-tools-0523a17391f19ae0/lib-find_msvc_tools.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/fnv-82b2216fddabebe5/lib-fnv.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/foreign-types-c03ef28b24f2cd5d/lib-foreign_types.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/foreign-types-shared-cd83fa004209964d/lib-foreign_types_shared.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/form_urlencoded-a1478bd7a3c9b613/lib-form_urlencoded.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/fs_extra-0361a97be63983e6/lib-fs_extra.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-2616b5fa2d95c816/lib-futures.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-channel-5faa028c4ef57b1d/lib-futures_channel.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-core-2e76e8a3c3b7a0fa/lib-futures_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-executor-bdfc5fd9e1395a90/lib-futures_executor.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-io-c43f9685f919173b/lib-futures_io.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-macro-7d2d5f7ca4ca763c/lib-futures_macro.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-sink-5d7993f9f78884f2/lib-futures_sink.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-task-d765c4c8650d1c70/lib-futures_task.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-timer-9bfd329bc9b6e8f1/lib-futures_timer.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/futures-util-39adbf3294940cf6/lib-futures_util.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/generic-array-52fd0c1ecc4a7da5/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/generic-array-72a355d7ba851e2e/lib-generic_array.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/generic-array-a8049fa7660e1d0c/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/getrandom-1565784b565793b5/lib-getrandom.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/getrandom-941c4026d36b67fd/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/getrandom-c54f294d05169729/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/getrandom-f48581535764f976/lib-getrandom.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/glob-0b5d8d37a714610e/lib-glob.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/h2-c0c31a3d06b11e51/lib-h2.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hashbrown-20d86180043132aa/lib-hashbrown.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hashbrown-76f6a1af49f1901c/lib-hashbrown.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hashlink-32c662f14817554f/lib-hashlink.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/heck-f2569b767cf4326e/lib-heck.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/http-1aea6b1a11bc6010/lib-http.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/http-body-33d7aeeabcf65354/lib-http_body.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/http-body-util-469c2ea23089e84f/lib-http_body_util.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/httparse-173d9c520e2abbc3/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/httparse-a0b58dd76fe5a3c6/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/httparse-b126deb86ae7ec9e/lib-httparse.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hyper-895e6ffbcb254a52/lib-hyper.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hyper-rustls-cce860a21cf8d674/lib-hyper_rustls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hyper-tls-efc7c88ba428dabf/lib-hyper_tls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/hyper-util-df29c45b521580f0/lib-hyper_util.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/iana-time-zone-301f29e982cebc26/lib-iana_time_zone.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_collections-5760be304728ffcb/lib-icu_collections.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_locale_core-4f4586c645f447a9/lib-icu_locale_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_normalizer-777fc2a82b4f4dc6/lib-icu_normalizer.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_normalizer_data-1f9f8cdbf3e2b66f/lib-icu_normalizer_data.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_normalizer_data-3ccb4dc30f1a3e6d/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_normalizer_data-cfb14313a121aabe/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_properties-a15c71f666867bca/lib-icu_properties.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_properties_data-74139cca2d2fa957/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_properties_data-bb156eef018c78f0/lib-icu_properties_data.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_properties_data-d2338283920b947a/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/icu_provider-cc53a3414798ef1c/lib-icu_provider.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/idna-c44441f5c030adc4/lib-idna.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/idna_adapter-33d5d69af93793c7/lib-idna_adapter.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/indexmap-bc484014073243db/lib-indexmap.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/indoc-7f0a90fb3c9bcf44/lib-indoc.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ipnet-5239e606009e1cbf/lib-ipnet.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/iri-string-59d2f2f84de21ba4/lib-iri_string.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/itoa-c5eceec6bd6687a1/lib-itoa.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/jobserver-6516a195434c7b1c/lib-jobserver.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libc-623611dae88b11a9/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libc-ad610704fd7efd80/lib-libc.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libc-e877531c52dc45f5/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libsqlite3-sys-37678183d3d625ab/lib-libsqlite3_sys.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libsqlite3-sys-6fdc7fda11392ab8/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/libsqlite3-sys-bbfbd14e40745c72/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/litemap-edace6979427f286/lib-litemap.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/lock_api-5d40f2750473719a/lib-lock_api.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/log-f270951c153d1d77/lib-log.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/memchr-a19a0754b0f9a59b/lib-memchr.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/memoffset-674e3f0988f9d525/lib-memoffset.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/memoffset-6a5fa3cbe1823ec4/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/memoffset-6f26d9f22c3bb249/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/meval-0a242334f03436f4/lib-meval.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/mime-2ba19c70864fd888/lib-mime.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/mime_guess-3c28af4495c98e4b/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/mime_guess-5e28c6df3fe78532/lib-mime_guess.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/mime_guess-ed0a174465962d44/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/minimal-lexical-31c831d6ebe9c441/lib-minimal_lexical.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/mio-e4c075e19bea759f/lib-mio.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/nanoid-6e314108f743fcf4/lib-nanoid.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/native-tls-1b29cc10c284a1b0/lib-native_tls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/native-tls-7a57a4592f012410/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/native-tls-96cc8e588f8d0ac3/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/nom-2f9169f4b710f755/lib-nom.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/nom-cb4c03658b56a27c/lib-nom.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/num-traits-0b6d9707a377e383/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/num-traits-1b767dae3cc194ef/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/num-traits-582e5ea020da48d6/lib-num_traits.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/once_cell-5b3810b303ca2e8b/lib-once_cell.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-a2a-fee7e85288102ba2/lib-openjarvis_a2a.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-agents-047056b42798fa76/lib-openjarvis_agents.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-core-4dda608d77c5d3c3/lib-openjarvis_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-engine-84a44ce79e1bcd05/lib-openjarvis_engine.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-learning-dc341e1e6dca8176/lib-openjarvis_learning.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-mcp-2f060c9e3aced0f0/lib-openjarvis_mcp.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-python-c00f76eb492588ac/lib-openjarvis_rust.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-recipes-1c9ac8dab260c05d/lib-openjarvis_recipes.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-scheduler-678e4df96fb9d6f7/lib-openjarvis_scheduler.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-security-1830679aff56faa5/lib-openjarvis_security.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-sessions-f6b8b6f489944c9d/lib-openjarvis_sessions.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-skills-cc5090d063ba1f41/lib-openjarvis_skills.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-telemetry-217aa13d23ca00b8/lib-openjarvis_telemetry.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-templates-d94ae6344c460198/lib-openjarvis_templates.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-tools-5cacb95ec8ad3174/lib-openjarvis_tools.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-traces-67520d0ac250d2be/lib-openjarvis_traces.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openjarvis-workflow-4e28d6ab2d998a9a/lib-openjarvis_workflow.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-399377d2b94119b2/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-4cd78c357a7f2eb0/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-abf523aa4f8e22d5/lib-openssl.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-macros-93e8a7744c8e6d76/lib-openssl_macros.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-probe-6b52854c57f7c6a7/lib-openssl_probe.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-sys-0b8c1b3c5f9e53b2/lib-openssl_sys.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-sys-0cfdab98339f7e59/build-script-build-script-main.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/openssl-sys-a28ab7faa7baae72/run-build-script-build-script-main.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ordered-float-eaf625679727e9dc/lib-ordered_float.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/parking_lot-7f638c14130188e6/lib-parking_lot.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/parking_lot_core-14c069bde3267cf0/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/parking_lot_core-6dc20afcb03675f8/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/parking_lot_core-d6077fa7161fb33c/lib-parking_lot_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/percent-encoding-efd1fdae04b555b5/lib-percent_encoding.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pin-project-e9439a8858b34272/lib-pin_project.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pin-project-internal-b1004a6402faa949/lib-pin_project_internal.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pin-project-lite-0d0a11769c3e4d06/lib-pin_project_lite.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pin-utils-dcb312a12508dd31/lib-pin_utils.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pkg-config-f481c1c51f21f55d/lib-pkg_config.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/potential_utf-dd7fad1b17235530/lib-potential_utf.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ppv-lite86-6bcc09cb9867bf92/lib-ppv_lite86.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/proc-macro2-8b947d10cfa3dc7d/lib-proc_macro2.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/proc-macro2-cdc80bb011340cc8/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/proc-macro2-e61b3caad72a3067/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-0367b09c25771f94/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-448e86986db0f485/lib-pyo3.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-build-config-0fd449d21274a7cb/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-build-config-2575cd9d6c71518c/lib-pyo3_build_config.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-build-config-8fe991a61a8b7579/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-f00e8f36a1b69e14/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-ffi-57f26dd65e4ab161/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-ffi-81cb85ed5c1d792b/lib-pyo3_ffi.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-ffi-90c401d492bd84c7/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-macros-backend-d34d5fa39f6ecbb9/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-macros-backend-e441ce1d0ee9179f/lib-pyo3_macros_backend.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-macros-backend-ed81ed4e0b9d7dc9/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/pyo3-macros-d84b7cef20b52fcb/lib-pyo3_macros.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/quote-117ea8ba3d8931af/lib-quote.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/quote-76885401fd60bb49/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/quote-d4c1d5b91a3b7899/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rand-51fc6e349b87873c/lib-rand.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rand_chacha-f2af6ba688a240d5/lib-rand_chacha.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rand_core-16f257afecf04ca9/lib-rand_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rayon-2c9aad1faa3388d6/lib-rayon.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rayon-core-6d23c5384ba7e0e7/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rayon-core-ef3e82683948b85e/lib-rayon_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rayon-core-f7b8c5cdc1c04b55/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ref-cast-120e394e13ef035f/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ref-cast-2d2281cbafd63df9/lib-ref_cast.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ref-cast-a610319a4cda8f1b/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ref-cast-impl-737eae9250bc4fb1/lib-ref_cast_impl.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/regex-automata-e780ff9a1e92144a/lib-regex_automata.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/regex-e83b910997d09793/lib-regex.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/regex-syntax-763c39baae363659/lib-regex_syntax.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/reqwest-0e9495acabb95827/lib-reqwest.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/reqwest-eb3d58101a5e5538/lib-reqwest.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rig-core-4ea5c198f72c4db3/lib-rig.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rusqlite-a6e33249b490f20a/lib-rusqlite.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustc_version-a573ea819506d838/lib-rustc_version.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-8bedd66cfb976786/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-f5a51e5da03f4749/lib-rustls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-fef50429d1852d6b/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-native-certs-47fb1ce7771b9f5d/lib-rustls_native_certs.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-pki-types-ced00ae40efba029/lib-rustls_pki_types.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-platform-verifier-18ae7ac43677f644/lib-rustls_platform_verifier.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/rustls-webpki-dcbacf8c0070edd6/lib-webpki.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/ryu-5f9c4d88f8cd17e9/lib-ryu.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/schemars-61e9fe7a6552b71d/lib-schemars.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/schemars_derive-181acb0b4365de20/lib-schemars_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/scopeguard-23c6b4a32a35cd3d/lib-scopeguard.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/semver-3a88bec61bcfdd41/lib-semver.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde-5939fbf4378ae788/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde-840491e5c45b1330/lib-serde.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde-bf0064dacac3238e/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_core-27afeadb4e732570/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_core-33c37a010ad2d723/lib-serde_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_core-7cded54db62cfb73/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_derive-6dc42ac9ff14fe0b/lib-serde_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_derive_internals-93f0c0181692ab59/lib-serde_derive_internals.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_json-16ff6f1097258d49/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_json-30c62082c9756fba/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_json-52260a71b3915b26/lib-serde_json.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_spanned-6b07b0ee67c8a3e6/lib-serde_spanned.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/serde_urlencoded-ee34920d3fa6b777/lib-serde_urlencoded.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/sha2-d72c994f79d3bdf7/lib-sha2.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/shlex-ce973efa54fd88d8/lib-shlex.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/signal-hook-registry-6da2ce498fa3f596/lib-signal_hook_registry.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/signature-df78c7d1229fafc7/lib-signature.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/slab-92c09c412efc0832/lib-slab.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/smallvec-f65d4dffcecf3160/lib-smallvec.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/socket2-1a6f83f5961a60bb/lib-socket2.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/stable_deref_trait-6bf588ccb2604e3d/lib-stable_deref_trait.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/subtle-867ac1ff5347dd7b/lib-subtle.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/syn-88c9cf438a869065/lib-syn.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/sync_wrapper-5f93cfa67b0b4918/lib-sync_wrapper.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/synstructure-444040a19a662d08/lib-synstructure.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/sysinfo-b36d06004f5c809d/lib-sysinfo.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/target-lexicon-289316e768f6348a/lib-target_lexicon.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/target-lexicon-92a6b90bbbab24bd/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/target-lexicon-a30e701c84071ee5/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/thiserror-5450ec67f6b19510/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/thiserror-6d7f09e165ac8499/lib-thiserror.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/thiserror-b2739e9196d76776/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/thiserror-impl-6a179f13ccbcc6aa/lib-thiserror_impl.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tinystr-fcc9bf32b54f11bc/lib-tinystr.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-ab9825c5bd5b9f0a/lib-tokio.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-macros-493dc63d9d285e6a/lib-tokio_macros.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-native-tls-5db1c0e9dde5a4bf/lib-tokio_native_tls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-rustls-f5f9bb4353f56828/lib-tokio_rustls.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-stream-22529305a47e7515/lib-tokio_stream.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tokio-util-8750d07612eb93f7/lib-tokio_util.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/toml-e85bbfead50b0895/lib-toml.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/toml_datetime-07d7e3c63cc2720f/lib-toml_datetime.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/toml_edit-8267c90d765f7dc3/lib-toml_edit.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/toml_write-71d1b4373aa32833/lib-toml_write.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tower-dba187dbd285404f/lib-tower.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tower-http-82bb57b1d418d9d6/lib-tower_http.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tower-layer-59c101b6d6150699/lib-tower_layer.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tower-service-92cec4741d6f953a/lib-tower_service.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tracing-61288590cef34877/lib-tracing.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tracing-attributes-7927744f87d8d978/lib-tracing_attributes.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tracing-core-945bd91c6b5d5304/lib-tracing_core.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/tracing-futures-ef3c1134568c913a/lib-tracing_futures.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/try-lock-8207db543cef7b06/lib-try_lock.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/typenum-28d8c72df459a6c5/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/typenum-5680b1ea3e6d50a4/lib-typenum.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/typenum-fd2774ff4866da18/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/unicase-33870212f88a8258/lib-unicase.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/unicode-ident-a43390fd6bef71db/lib-unicode_ident.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/unindent-cf636fbfad5fc614/lib-unindent.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/untrusted-feb2661a596d0c09/lib-untrusted.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/url-e8bd0ab148a2752d/lib-url.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/utf8_iter-2c7f74e47dacbd18/lib-utf8_iter.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/uuid-0db64c853ec564ea/lib-uuid.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/vcpkg-f48073ca47d53812/lib-vcpkg.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/version_check-9859fe56c2d7fed0/lib-version_check.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/want-b4cac06cb14cd988/lib-want.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/winnow-f8230cbc6f866325/lib-winnow.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/writeable-9f1d36dbaac05a95/lib-writeable.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/yoke-1c9da83231766723/lib-yoke.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/yoke-derive-3cb8eaa39d0ea5b2/lib-yoke_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerocopy-1ddc4b30fb6d2cdc/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerocopy-abf67a871460320a/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerocopy-f08e5557ad753c9b/lib-zerocopy.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerofrom-0229a8ff283c10d7/lib-zerofrom.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerofrom-derive-9ab5ddb9be430176/lib-zerofrom_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zeroize-fd970a930b6d35f2/lib-zeroize.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerotrie-2d6c0d86d53f4de0/lib-zerotrie.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerovec-9f9f85f9bec108e9/lib-zerovec.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zerovec-derive-4c8fc004e35d75a3/lib-zerovec_derive.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zmij-21501fc4e230aede/build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zmij-ab73b46c38354647/lib-zmij.json`  — 
+- [m] `AA-Aria/OpenJarvis/rust/target/debug/.fingerprint/zmij-d90832289578f4e0/run-build-script-build-script-build.json`  — 
+- [m] `AA-Aria/OpenJarvis/scripts/oauth_all.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/__init__.py`  — OpenJarvis — modular AI assistant backend with composable intelligence
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/_rust_bridge.py`  — Single point of contact between Python and the Rust ``openjarvis_rust`
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/a2a/__init__.py`  — Agent-to-Agent protocol — Google A2A spec implementation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/a2a/client.py`  — A2A client — discover and call external A2A agents."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/a2a/protocol.py`  — A2A protocol types — Google A2A spec (JSON-RPC 2.0)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/a2a/server.py`  — A2A server — exposes agents via /.well-known/agent.json and /a2a/tasks
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/a2a/tool.py`  — A2AAgentTool — wraps an external A2A agent as an invocable tool."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/__init__.py`  — Agents primitive — multi-turn reasoning and tool use."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/_stubs.py`  — ABC for agent implementations.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/channel_agent.py`  — ChannelAgent — bridge between messaging channels and AI agents.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/claude_code.py`  — ClaudeCodeAgent -- wraps the Claude Agent SDK via Node.js subprocess b
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/claude_code_runner/package.json`  — name": "openjarvis-claude-code-runner",
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/deep_research.py`  — DeepResearchAgent -- multi-hop retrieval agent with cited reports.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/digest_store.py`  — DigestStore — SQLite-backed storage for pre-computed digest artifacts.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/errors.py`  — Error classification for managed agent execution."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/executor.py`  — AgentExecutor — runs a single agent tick."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/loop_guard.py`  — Agent loop guard — detect and prevent degenerate tool-calling loops.""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/manager.py`  — Persistent agent lifecycle manager.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/monitor_operative.py`  — MonitorOperativeAgent -- long-horizon agent with configurable strategi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/morning_digest.py`  — Morning Digest Agent — synthesizes a daily briefing from multiple sour
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/native_openhands.py`  — NativeOpenHandsAgent -- code-execution-centric agent.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/native_react.py`  — NativeReActAgent -- Thought-Action-Observation loop agent.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/openhands.py`  — OpenHandsAgent -- wraps the real openhands-sdk for AI-driven developme
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/operative.py`  — OperativeAgent — persistent, scheduled agent for autonomous operation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/orchestrator.py`  — OrchestratorAgent — multi-turn agent with tool-calling loop.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/react.py`  — Backward-compat shim -- canonical location is agents.native_react."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/rlm.py`  — RLM (Recursive Language Model) Agent — recursive decomposition via per
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/rlm_repl.py`  — Sandboxed REPL environment for the RLM agent.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/scheduler.py`  — AgentScheduler — cron/interval tick scheduling for managed agents."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/agents/simple.py`  — SimpleAgent — single-turn query-to-response agent (no tool calling).""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/__init__.py`  — Benchmarking framework for OpenJarvis inference engines."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/_stats.py`  — Shared statistics helpers for benchmark per-sample metrics."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/_stubs.py`  — ABC for benchmark implementations and the BenchmarkSuite runner."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/energy.py`  — Energy benchmark — per-sample energy, power, and efficiency measuremen
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/latency.py`  — Latency benchmark — measures per-call inference latency."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/bench/throughput.py`  — Throughput benchmark — measures tokens per second with per-sample stat
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/__init__.py`  — Channel abstraction for multi-platform messaging."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/_stubs.py`  — ABC for channel implementations and shared types."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/bluebubbles.py`  — BlueBubblesChannel — BlueBubbles (iMessage bridge) adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/discord_channel.py`  — DiscordChannel — native Discord Bot API adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/email_channel.py`  — EmailChannel — SMTP/IMAP email adapter (stdlib only, zero extra deps).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/feishu.py`  — FeishuChannel — Feishu (Lark) adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/gmail.py`  — GmailChannel — native Gmail API adapter using OAuth2."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/google_chat.py`  — GoogleChatChannel — Google Chat webhook adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/imessage_daemon.py`  — iMessage daemon — polls chat.db and routes to DeepResearchAgent.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/irc_channel.py`  — IRCChannel — IRC adapter using stdlib socket."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/line_channel.py`  — LineChannel — LINE Messaging API adapter via line-bot-sdk."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/mastodon_channel.py`  — MastodonChannel — Mastodon adapter via Mastodon.py."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/matrix_channel.py`  — MatrixChannel — Matrix homeserver adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/mattermost.py`  — MattermostChannel — Mattermost REST API adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/messenger_channel.py`  — MessengerChannel — Facebook Messenger adapter via pymessenger."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/nostr_channel.py`  — NostrChannel — Nostr protocol adapter via pynostr."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/reddit_channel.py`  — RedditChannel — Reddit adapter via praw."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/rocketchat_channel.py`  — RocketChatChannel — Rocket.Chat adapter via rocketchat_API."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/sendblue.py`  — SendBlue channel — iMessage/SMS API adapter.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/signal_channel.py`  — SignalChannel — Signal adapter via signal-cli REST API."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/slack.py`  — SlackChannel — native Slack Web API adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/slack_daemon.py`  — Slack Socket Mode daemon — listens for DMs and responds with DeepResea
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/teams.py`  — TeamsChannel — Microsoft Teams Bot Framework adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/telegram.py`  — TelegramChannel — native Telegram Bot API adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/twilio_sms.py`  — Twilio SMS channel for sending and receiving text messages."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/twitch_channel.py`  — TwitchChannel — Twitch chat adapter via twitchio."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/twitter.py`  — TwitterChannel — native Twitter/X API adapter using tweepy."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/viber_channel.py`  — ViberChannel — Viber adapter via viberbot."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/webchat.py`  — WebChatChannel — in-memory message queue for webchat/testing."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/webhook.py`  — WebhookChannel — generic outbound webhook adapter (zero extra deps).""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/whatsapp.py`  — WhatsAppChannel — WhatsApp Cloud API adapter."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/whatsapp_baileys.py`  — WhatsAppBaileysChannel -- bidirectional WhatsApp messaging via Baileys
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/whatsapp_baileys_bridge/package-lock.json`  — name": "openjarvis-whatsapp-baileys-bridge",
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/whatsapp_baileys_bridge/package.json`  — name": "openjarvis-whatsapp-baileys-bridge",
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/whatsapp_baileys_bridge/tsconfig.json`  — compilerOptions": {
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/xmpp_channel.py`  — XMPPChannel — XMPP/Jabber adapter via slixmpp."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/channels/zulip_channel.py`  — ZulipChannel — Zulip adapter via zulip Python bindings."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/__init__.py`  — Command-line interface for OpenJarvis (Click-based)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/__main__.py`  — Entry point for CLI execution."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/_tool_names.py`  — Helpers for resolving CLI tool selections."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/_version_check.py`  — Check for newer OpenJarvis releases on GitHub."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/add_cmd.py`  — ``jarvis add`` — quick MCP server setup."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/agent_cmd.py`  — ``jarvis agents`` — persistent agent lifecycle management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/ask.py`  — ``jarvis ask`` — send a query to the assistant."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/auth_cmd.py`  — CLI commands for API key management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/bench_cmd.py`  — ``jarvis bench`` — run inference benchmarks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/channel_cmd.py`  — ``jarvis channel`` -- channel management commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/channels_cmd.py`  — ``jarvis channels`` — manage messaging channels for the agent."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/chat_cmd.py`  — ``jarvis chat`` — interactive multi-turn chat REPL."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/compose_cmd.py`  — ``jarvis compose`` — unified composition CLI for discrete agents and o
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/config_cmd.py`  — ``jarvis config`` — configuration inspection commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/connect_cmd.py`  — ``jarvis connect`` -- manage data source connections."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/daemon_cmd.py`  — ``jarvis start|stop|restart|status`` — daemon management commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/dashboard.py`  — TUI dashboard — terminal-based system monitoring via textual."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/deep_research_setup_cmd.py`  — ``jarvis deep-research-setup`` — auto-detect local sources, ingest, an
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/digest_cmd.py`  — ``jarvis digest`` — display and play the morning digest."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/doctor_cmd.py`  — ``jarvis doctor`` — run diagnostic checks on the OpenJarvis installati
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/eval_cmd.py`  — ``jarvis eval`` — evaluation framework CLI commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/feedback_cmd.py`  — ``jarvis feedback`` — trace feedback management CLI."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/gateway_cmd.py`  — ``jarvis gateway start|stop|status|logs`` — multi-channel gateway mana
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/hints.py`  — Rich-formatted error hints for common CLI failure modes."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/host_cmd.py`  — ``jarvis host`` — download and serve a model locally with auto backend
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/init_cmd.py`  — ``jarvis init`` — detect hardware, generate config, write to disk."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/log_config.py`  — Global logging configuration for the OpenJarvis CLI."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/memory_cmd.py`  — ``jarvis memory`` — memory management subcommands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/model.py`  — ``jarvis model`` — model management subcommands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/operators_cmd.py`  — ``jarvis operators`` — operator lifecycle management commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/optimize_cmd.py`  — ``jarvis optimize`` — LLM-driven configuration optimization CLI."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/quickstart_cmd.py`  — ``jarvis quickstart`` — guided 5-step setup for new users."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/registry_cmd.py`  — ``jarvis registry`` — registry inspection commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/scan_cmd.py`  — ``jarvis scan`` — audit your environment for privacy and security risk
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/scheduler_cmd.py`  — ``jarvis scheduler`` -- task scheduling commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/serve.py`  — ``jarvis serve`` — OpenAI-compatible API server."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/skill_cmd.py`  — CLI commands for skill management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/telemetry_cmd.py`  — ``jarvis telemetry`` — query and manage telemetry data."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/tool_cmd.py`  — ``jarvis tool`` — tool management commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/tunnel_cmd.py`  — CLI commands for Cloudflare Tunnel management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/vault_cmd.py`  — ``jarvis vault`` — encrypted credential store."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/cli/workflow_cmd.py`  — ``jarvis workflow`` — workflow management commands."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/__init__.py`  — Data source connectors for Deep Research."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/_stubs.py`  — Base types for data source connectors."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/apple_health.py`  — Apple Health connector -- reads HealthKit SQLite DB or iPhone Health e
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/apple_music.py`  — Apple Music connector -- reads tracks from the local Music.app via App
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/apple_notes.py`  — Apple Notes connector — reads directly from the macOS Notes SQLite dat
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/attachment_store.py`  — AttachmentStore — content-addressed blob storage for Deep Research att
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/chunker.py`  — Type-aware semantic chunker for Deep Research ingestion.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/dropbox.py`  — Dropbox connector — bulk file sync via the Dropbox API v2.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/embedding_store.py`  — EmbeddingStore --- disk-persistent ColBERT token-level embeddings.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/gcalendar.py`  — Google Calendar connector — event sync via the Calendar REST API v3.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/gcontacts.py`  — Google Contacts connector — bulk contact sync via the People REST API 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/gdrive.py`  — Google Drive connector — bulk file sync via the Drive REST API v3.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/github_notifications.py`  — GitHub Notifications connector — unread notifications via GitHub REST 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/gmail.py`  — Gmail connector — bulk email sync via the Gmail REST API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/gmail_imap.py`  — Gmail IMAP connector — reads email via IMAP with app password.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/google_tasks.py`  — Google Tasks connector — tasks due today, overdue, and recently comple
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/granola.py`  — Granola connector — syncs meeting notes via the Granola public API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/hackernews.py`  — Hacker News connector — top stories from the HN Firebase API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/imessage.py`  — iMessage connector — reads directly from the macOS Messages SQLite dat
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/news_rss.py`  — News/RSS connector — aggregate headlines from RSS and Atom feeds.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/notion.py`  — Notion connector — syncs pages via the Notion REST API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/oauth.py`  — Shared OAuth 2.0 helpers for all connectors.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/obsidian.py`  — Obsidian / Markdown vault connector.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/oura.py`  — Oura Ring connector — sleep, readiness, and activity via REST API v2.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/outlook.py`  — Outlook / Microsoft 365 connector — reads email via IMAP with app pass
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/pipeline.py`  — IngestionPipeline — deduplicate, chunk, and store Documents.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/retriever.py`  — TwoStageRetriever — BM25 recall from KnowledgeStore + optional reranki
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/scheduler.py`  — SyncScheduler — background thread for periodic incremental connector s
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/slack_connector.py`  — Slack connector — bulk channel message sync via the Slack Web API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/spotify.py`  — Spotify connector — recently played tracks via Spotify Web API.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/store.py`  — KnowledgeStore — source-aware SQLite/FTS5 memory backend for Deep Rese
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/strava.py`  — Strava connector — recent activities via REST API v3.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/sync_engine.py`  — SyncEngine — checkpoint/resume orchestration for connector syncs.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/weather.py`  — Weather connector — current conditions and forecast via OpenWeatherMap
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/connectors/whatsapp.py`  — WhatsApp chat export connector.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/__init__.py`  — Core module — registries, types, configuration, and event bus."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/config.py`  — Configuration loading, hardware detection, and engine recommendation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/credentials.py`  — Credential persistence for tools and channels.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/events.py`  — Thread-safe pub/sub event bus for inter-primitive telemetry.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/registry.py`  — Decorator-based registry for runtime discovery of pluggable components
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/core/types.py`  — Canonical data types shared across all OpenJarvis primitives."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/daemon/__init__.py`  — 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/daemon/gateway.py`  — class GatewayDaemon:
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/daemon/service.py`  — SYSTEMD_TEMPLATE = """\
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/daemon/session_expiry.py`  — class SessionExpiryHook:
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/__init__.py`  — Inference Engine primitive — LLM runtime management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/_base.py`  — Shared engine utilities and re-exports."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/_discovery.py`  — Engine discovery — probe running engines and aggregate available model
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/_openai_compat.py`  — Shared base for OpenAI-compatible ``/v1/`` engines."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/_stubs.py`  — ABC for inference engine backends.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/apple_fm_shim.py`  — Apple Foundation Models shim.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/cloud.py`  — Cloud inference engine — OpenAI, Anthropic, Google, and MiniMax API ba
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/gemma_cpp.py`  — gemma.cpp inference engine backend via pygemma pybind11 bindings."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/litellm.py`  — LiteLLM inference engine — unified access to 100+ LLM providers."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/multi.py`  — Multi-engine wrapper — routes requests to the right backend by model n
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/nexa_shim.py`  — Thin FastAPI server wrapping the Nexa SDK (``nexaai``) as an
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/ollama.py`  — Ollama inference engine backend."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/engine/openai_compat_engines.py`  — Data-driven registration of OpenAI-compatible inference engines."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/__init__.py`  — OpenJarvis Evaluation Framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/__main__.py`  — Allow running as ``python -m openjarvis.evals``."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/backends/__init__.py`  — Inference backends for evaluation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/backends/jarvis_agent.py`  — Jarvis Agent backend — agent-level inference with tool calling."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/backends/jarvis_direct.py`  — Jarvis Direct backend — engine-level inference for local and cloud mod
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/backends/tb_agent.py`  — Custom terminal-bench agent that wraps NaiveAgent with LiteLLM constru
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/backends/terminalbench_native.py`  — Native terminal-bench v2 backend.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/cli.py`  — CLI for the OpenJarvis evaluation framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/__init__.py`  — Core evaluation types and ABCs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/agentic_runner.py`  — AgenticRunner — multi-turn agent execution with energy telemetry corre
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/backend.py`  — Abstract base class for inference backends."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/config.py`  — TOML config loader and matrix expansion for eval suites."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/dataset.py`  — Abstract base class for dataset providers."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/display.py`  — Rich display helpers for the evaluation framework and bench CLI."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/environment.py`  — Environment provider ABC for benchmarks requiring external environment
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/event_recorder.py`  — Event recording system for agent execution telemetry."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/export.py`  — Export functions for agentic run traces and profiling records."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/pricing.py`  — Cost computation for agentic eval runs — wraps engine/cloud.py pricing
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/runner.py`  — EvalRunner — parallel execution of evaluation samples.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/scorer.py`  — Abstract base classes for scoring."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/trace.py`  — Trace data model for agentic eval runs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/tracker.py`  — ResultTracker ABC for external experiment tracking."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/core/types.py`  — Core data types for the evaluation framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/__init__.py`  — Dataset providers for evaluation benchmarks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/ama_bench.py`  — AMA-Bench dataset loader.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/browser_assistant.py`  — browser_assistant dataset — 30 web research tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/coding_assistant.py`  — coding_assistant dataset — 30 buggy code projects for agent-based debu
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/coding_task.py`  — Coding task benchmark dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/daily_digest.py`  — daily_digest dataset — 30 realistic workday briefing tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/deepplanning.py`  — DeepPlanning: long-horizon planning with constraints.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/doc_qa.py`  — doc_qa dataset — 30 document-grounded QA tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/email_triage.py`  — Email triage benchmark dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/frames.py`  — FRAMES benchmark dataset (google/frames-benchmark).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/gaia.py`  — GAIA benchmark dataset (gaia-benchmark/GAIA).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/gpqa.py`  — GPQA dataset provider (Idavidrein/gpqa).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/hle.py`  — HLE dataset provider (cais/hle).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/ipw_mixed.py`  — IPW mixed dataset provider.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/knowledge_base.py`  — Knowledge base benchmark dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/lifelong_agent.py`  — LifelongAgentBench dataset loader.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/livecodebench.py`  — LiveCodeBench dataset provider — competitive programming code generati
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/liveresearch.py`  — LiveResearchBench dataset provider — deep research benchmark.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/loghub.py`  — LogHub log anomaly detection dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/math500.py`  — MATH-500 dataset provider (HuggingFaceH4/MATH-500).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/mmlu_pro.py`  — MMLU-Pro dataset provider (TIGER-Lab/MMLU-Pro).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/morning_brief.py`  — Morning brief benchmark dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/natural_reasoning.py`  — Natural Reasoning dataset provider (facebook/natural_reasoning).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/paperarena.py`  — PaperArena: scientific literature reasoning benchmark.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/pinchbench.py`  — PinchBench dataset provider — real-world agent task benchmark.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/research_mining.py`  — Research mining benchmark dataset.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/security_scanner.py`  — security_scanner dataset — 30 vulnerable code projects for security au
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/simpleqa.py`  — SimpleQA dataset provider (basicv8vc/SimpleQA).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/supergpqa.py`  — SuperGPQA dataset provider (m-a-p/SuperGPQA).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/swebench.py`  — SWE-bench dataset (princeton-nlp/SWE-bench_Verified).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/swefficiency.py`  — SWEfficiency dataset (swefficiency/swefficiency).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/taubench.py`  — TauBench V2 dataset provider — multi-turn customer service benchmark.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/terminalbench.py`  — TerminalBench dataset (terminal-bench/terminal-bench).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/terminalbench_native.py`  — TerminalBench Native dataset — loads from the terminal-bench pip packa
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/toolcall15.py`  — ToolCall-15 dataset provider — lightweight tool calling benchmark.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/webchorearena.py`  — WebChoreArena: Realistic tedious web browsing tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/wildchat.py`  — WildChat dataset provider (allenai/WildChat-1M).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/datasets/workarena.py`  — WorkArena++ enterprise workflow benchmark on ServiceNow.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/environments/__init__.py`  — Task environments for interactive multi-turn evaluation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/environments/base.py`  — Abstract base for multi-turn task environments."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/environments/lifelong_agent_env.py`  — Multi-turn task environments for LifelongAgentBench.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/__init__.py`  — Execution environments for agentic eval workloads."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/pinchbench_env.py`  — PinchBench task environment — per-task workspace setup and grading."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/taubench_env.py`  — TauBench task environment — native OpenJarvis agent in tau2 simulation
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/terminalbench_env.py`  — TerminalBench task environment — per-task Docker lifecycle + test exec
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/webchorearena_env.py`  — WebChoreArena task environment — Playwright-based browser interaction.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/execution/workarena_env.py`  — WorkArena task environment — per-task BrowserGym lifecycle + validatio
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/__init__.py`  — Scoring implementations for evaluation benchmarks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/_checklist.py`  — Shared binary checklist scorer and text normalization utilities.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/ama_bench_judge.py`  — LLM-judge scorer for AMA-Bench agent memory assessment.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/browser_assistant.py`  — browser_assistant scorer — exact match, semantic checklist, and source
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/coding_assistant.py`  — coding_assistant scorer — test-based evaluation of bug fixes.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/coding_task.py`  — Coding task scorer — test pass rate + structural validation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/daily_digest.py`  — daily_digest scorer — phrase match, ordering, and checklist evaluation
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/deepplanning_scorer.py`  — LLM-judge scorer for DeepPlanning constraint satisfaction."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/doc_qa.py`  — doc_qa scorer — fact match, citation check, and checklist evaluation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/email_triage.py`  — Email triage scorer — classification accuracy + draft quality.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/frames_judge.py`  — FRAMES scorer — LLM-as-judge for multi-hop factual retrieval.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/gaia_exact.py`  — GAIA scorer — normalized exact match with LLM fallback.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/gpqa_mcq.py`  — GPQA MCQ scorer — LLM-based letter extraction + exact match.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/hle_judge.py`  — HLE scorer -- LLM-as-judge for Humanity's Last Exam.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/ipw_mixed.py`  — IPW mixed scorer -- LLM-as-judge for mixed-source evaluation datasets.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/knowledge_base.py`  — Knowledge base scorer — answer correctness via normalized match + LLM 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/lifelong_agent_scorer.py`  — Scorer for LifelongAgentBench.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/livecodebench.py`  — LiveCodeBench scorer — sandboxed code execution with test cases.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/liveresearch.py`  — LiveResearchBench scorer — LLM-as-judge for deep research quality.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/loghub_scorer.py`  — Scorer for LogHub log anomaly detection benchmark."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/mmlu_pro_mcq.py`  — MMLU-Pro MCQ scorer — LLM-based letter extraction + exact match.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/morning_brief.py`  — Morning brief scorer — LLM judge for briefing quality.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/paperarena_judge.py`  — Scorer for PaperArena: MC exact match + LLM judge for CA/OA."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/pinchbench.py`  — PinchBench grading helpers and scorer.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/reasoning_judge.py`  — Reasoning judge scorer -- LLM-as-judge for math and reasoning tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/research_mining.py`  — Research mining scorer — LLM judge for research synthesis quality.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/security_scanner.py`  — security_scanner scorer — vulnerability detection evaluation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/simpleqa_judge.py`  — SimpleQA scorer -- normalized exact match with LLM fallback.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/supergpqa_mcq.py`  — SuperGPQA MCQ scorer — LLM-based letter extraction + exact match.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/swebench_structural.py`  — SWE-bench scorer — structural patch validation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/swefficiency_structural.py`  — SWEfficiency scorer — structural patch validation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/taubench.py`  — TauBench scorer — wraps tau2-bench's evaluation results.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/terminalbench_judge.py`  — TerminalBench scorer — LLM-as-judge for terminal task evaluation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/terminalbench_native_structural.py`  — TerminalBench Native scorer — test-result-based evaluation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/toolcall15.py`  — ToolCall-15 scorer — deterministic tool-calling evaluation.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/webchorearena_scorer.py`  — Scorer for WebChoreArena web chore tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/wildchat_judge.py`  — WildChat scorer — dual-comparison LLM-as-judge.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/scorers/workarena_scorer.py`  — Scorer for WorkArena++ enterprise workflow tasks.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/skill_benchmark.py`  — SkillBenchmarkRunner — orchestrate the 4-condition × N-seed × M-task
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/__init__.py`  — Tests for the evaluation framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/conftest.py`  — Shared test fixtures for the evaluation framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_backends.py`  — Tests for backend construction with mocks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_cli_flags.py`  — Tests for eval CLI display flags."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_config.py`  — Tests for eval suite config loading and matrix expansion."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_display.py`  — Tests for eval display functions."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_frames.py`  — Tests for FRAMES scorer (judge prompt formatting and verdict parsing).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_gaia.py`  — Tests for GAIA scorer logic (normalization and exact match)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_runner.py`  — Tests for the EvalRunner."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_supergpqa.py`  — Tests for SuperGPQA scorer logic."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_types.py`  — Tests for core data types."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/tests/test_wildchat.py`  — Tests for WildChat scorer (verdict parsing and dual comparison)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/trackers/__init__.py`  — External experiment trackers for the eval framework.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/trackers/sheets_tracker.py`  — Google Sheets experiment tracker for the eval framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/evals/trackers/wandb_tracker.py`  — W&B experiment tracker for the eval framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/intelligence/__init__.py`  — Intelligence primitive — the model definition and catalog."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/intelligence/_stubs.py`  — Backward-compat shim — canonical location is learning._stubs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/intelligence/model_catalog.py`  — Built-in model catalog with well-known ModelSpec entries."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/intelligence/router.py`  — Backward-compat shim — canonical location is learning.router."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/__init__.py`  — Learning primitive -- router policies, reward functions, learning."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/_stubs.py`  — Learning primitive ABCs -- router policies, reward functions, learning
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/__init__.py`  — Agent learning — config optimization via DSPy, GEPA, and evolution."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/agent_evolver.py`  — AgentConfigEvolver — analyze traces to evolve agent TOML configs.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/dspy_optimizer.py`  — DSPy agent optimizer -- programmatic pipeline optimization.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/gepa_optimizer.py`  — GEPA agent optimizer -- Pareto-efficient evolutionary optimization.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/skill_discovery.py`  — Skill discovery -- mine recurring tool sequences from traces."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/agents/skill_optimizer.py`  — SkillOptimizer — per-skill DSPy/GEPA optimization wrapper (Plan 2A).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/__init__.py`  — Intelligence learning — model fine-tuning via SFT and GRPO."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/grpo_trainer.py`  — General-purpose GRPO trainer -- Group Relative Policy Optimization.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/__init__.py`  — Orchestrator training infrastructure — SFT and GRPO pipelines.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/environment.py`  — RL environment for orchestrator training.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/grpo_trainer.py`  — GRPO (Group Relative Policy Optimization) trainer for orchestrator.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/policy_model.py`  — Policy model wrapper for orchestrator training.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/prompt_registry.py`  — Prompt registry for orchestrator structured mode.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/reward.py`  — Multi-objective reward function for orchestrator training.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/sft_trainer.py`  — SFT (Supervised Fine-Tuning) trainer for orchestrator.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/orchestrator/types.py`  — Episode dataclasses for orchestrator training.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/intelligence/sft_trainer.py`  — General-purpose SFT trainer -- fine-tune any local LM on trace-derived
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/learning_orchestrator.py`  — LearningOrchestrator — coordinate the full trace->learn->eval loop.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/__init__.py`  — Optimization framework for OpenJarvis configuration tuning."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/config.py`  — TOML config loader for optimization runs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/feedback/__init__.py`  — Feedback subsystem: LLM-as-judge scoring and signal aggregation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/feedback/collector.py`  — FeedbackCollector -- aggregates feedback from multiple sources."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/feedback/judge.py`  — TraceJudge -- LLM-as-judge scoring for agent traces."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/llm_optimizer.py`  — LLM-based optimizer for OpenJarvis configuration tuning.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/optimizer.py`  — OptimizationEngine -- orchestrates the optimize loop.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/personal/__init__.py`  — Personal benchmark system -- synthesize benchmarks from interaction tr
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/personal/dataset.py`  — DatasetProvider adapter for personal benchmarks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/personal/scorer.py`  — LLM-judge scorer for personal benchmarks."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/personal/synthesizer.py`  — Synthesize personal benchmarks from interaction traces."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/search_space.py`  — Search space builder and default search space for configuration optimi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/store.py`  — SQLite-backed storage for optimization runs and trials."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/trial_runner.py`  — TrialRunner -- evaluates a proposed config against a benchmark."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/optimize/types.py`  — Core data types for the optimization framework."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/__init__.py`  — Routing policies — model selection based on query characteristics."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/_utils.py`  — Shared query classification utilities for routing policies.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/complexity.py`  — Query complexity analyzer — scores queries and suggests token budgets.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/heuristic_policy.py`  — Wire the existing HeuristicRouter into the RouterPolicyRegistry."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/heuristic_reward.py`  — Heuristic reward function — weighted score from latency, cost, efficie
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/learned_router.py`  — Learned router policy — trace-driven query_class -> model mapping.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/routing/router.py`  — Heuristic model router — selects the best model based on query charact
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/training/__init__.py`  — Training data extraction and fine-tuning pipelines for trace-driven le
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/training/data.py`  — TrainingDataMiner — extract supervised training pairs from the TraceSt
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/learning/training/lora.py`  — LoRATrainer — fine-tune local models via LoRA/QLoRA from trace-derived
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/mcp/__init__.py`  — MCP (Model Context Protocol) layer for OpenJarvis."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/mcp/client.py`  — MCP Client — connects to MCP servers and discovers/calls tools."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/mcp/protocol.py`  — MCP JSON-RPC 2.0 protocol message types."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/mcp/server.py`  — MCP Server — wraps OpenJarvis tools as MCP-discoverable tools."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/mcp/transport.py`  — MCP transport implementations."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/operators/__init__.py`  — Operators — persistent, scheduled autonomous agents."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/operators/loader.py`  — Operator loader — load operator manifests from TOML files."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/operators/manager.py`  — Operator manager — lifecycle management for autonomous operators."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/operators/types.py`  — Operator type definitions."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/__init__.py`  — Backward-compatibility shim -- optimize moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/config.py`  — Backward-compatibility shim -- optimize.config moved to learning.optim
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/feedback/__init__.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/feedback/collector.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/feedback/judge.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/llm_optimizer.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/optimizer.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/personal/__init__.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/personal/dataset.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/personal/scorer.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/personal/synthesizer.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/search_space.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/store.py`  — Backward-compatibility shim -- optimize.store moved to learning.optimi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/trial_runner.py`  — Backward-compat shim: moved to learning.optimize."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/optimize/types.py`  — Backward-compatibility shim -- optimize.types moved to learning.optimi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/prompt/builder.py`  — class SystemPromptBuilder:
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/__init__.py`  — Recipe system — composable primitive configurations."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/composer.py`  — Composer bridges — convert a Recipe into EvalSuiteConfig or OperatorMa
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/data/operators/correspondent_prompt.md`  — You are a messaging triage agent running on-device.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/data/operators/researcher_prompt.md`  — You are a deep research agent running on-device.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/data/operators/sentinel_prompt.md`  — You are a monitoring sentinel agent running on-device.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/recipes/loader.py`  — Recipe loader — load and resolve TOML recipe files.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sandbox/__init__.py`  — Container sandbox for isolated agent execution."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sandbox/mount_security.py`  — Mount validation and security for container sandboxes.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sandbox/runner.py`  — Container runner and sandboxed agent wrapper.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sandbox/wasm_runner.py`  — WASM sandbox — lightweight isolation via Wasmtime."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/scheduler/__init__.py`  — Task scheduler module — cron/interval/once scheduling with SQLite pers
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/scheduler/scheduler.py`  — Task scheduler — cron/interval/once execution with background polling.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/scheduler/store.py`  — SQLite-backed persistence for scheduled tasks and run logs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/scheduler/tools.py`  — MCP tools for scheduler operations — schedule, list, pause, resume, ca
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sdk.py`  — High-level Python SDK for OpenJarvis."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/__init__.py`  — Security guardrails — scanners, engine wrapper, audit, SSRF."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/_stubs.py`  — ABC for security scanners."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/audit.py`  — Audit logger — persist security events to SQLite with Merkle hash chai
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/boundary.py`  — BoundaryGuard — scans content at device exit points.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/capabilities.py`  — RBAC capability system — fine-grained permission model for tool dispat
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/credential_stripper.py`  — _CREDENTIAL_PATTERNS: List[Tuple[str, re.Pattern[str]]] = [
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/file_policy.py`  — File sensitivity policy — block access to secrets, credentials, and ke
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/file_utils.py`  — Secure file and directory creation helpers.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/guardrails.py`  — GuardrailsEngine — security-aware inference engine wrapper."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/injection_scanner.py`  — Prompt injection scanner — detect malicious patterns in text."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/rate_limiter.py`  — Rate limiter -- token bucket algorithm for per-agent/per-tool throttli
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/scanner.py`  — Concrete security scanners — secrets and PII detection."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/severity_policy.py`  — _DEFAULT_ACTIONS = {
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/signing.py`  — Ed25519 signing — supply chain integrity for agent and skill manifests
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/ssrf.py`  — SSRF protection — block requests to private IPs and cloud metadata end
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/subprocess_sandbox.py`  — Subprocess sandbox — secure process execution with environment isolati
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/taint.py`  — Taint tracking — information flow control.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/security/types.py`  — Security data types — threat levels, scan findings, and security event
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/__init__.py`  — OpenAI-compatible API server for OpenJarvis."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/agent_manager_routes.py`  — FastAPI routes for the Agent Manager."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/api_routes.py`  — Extended API routes for agents, workflows, memory, traces, etc."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/app.py`  — FastAPI application factory for the OpenJarvis API server."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/auth_middleware.py`  — API key authentication middleware for the OpenJarvis server."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/channel_bridge.py`  — ChannelBridge — unified orchestrator for multi-channel messaging."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/cloud_router.py`  — Direct cloud API router — bypasses the engine system entirely.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/comparison.py`  — Comparison page -- static cost comparison of local vs cloud inference.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/connectors_router.py`  — FastAPI router for /v1/connectors — connector management endpoints."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/cost_calculator.py`  — Cost calculator -- estimate monthly cloud API costs for common use cas
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/dashboard.py`  — Dashboard route — serves the savings dashboard HTML page."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/digest_routes.py`  — FastAPI routes for the morning digest."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/middleware.py`  — Security middleware -- HTTP security headers and request guards."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/models.py`  — Pydantic request/response models for the OpenAI-compatible API."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/routes.py`  — Route handlers for the OpenAI-compatible API server."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/savings.py`  — Savings calculation — compare local inference cost against cloud provi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/session_store.py`  — SQLite-backed session store for channel conversations."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/stream_bridge.py`  — Bridge sync agent.run() + EventBus events to an async SSE generator.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/upload_router.py`  — Upload / Paste router for ingesting documents into the knowledge store
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/webhook_routes.py`  — Webhook endpoints for receiving messages from external platforms."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/server/ws_bridge.py`  — WebSocket bridge: EventBus → connected WebSocket clients."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sessions/__init__.py`  — Cross-channel session management."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sessions/compression.py`  — class BaseCompressor(ABC):
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/sessions/session.py`  — Session management — cross-channel persistent sessions.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/__init__.py`  — Skill system — reusable multi-tool compositions."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/dependency.py`  — Dependency graph: cycle detection, topological sort, capability union.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/executor.py`  — SkillExecutor — runs skill steps sequentially through ToolExecutor."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/importer.py`  — SkillImporter — install ResolvedSkill instances into ~/.openjarvis/ski
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/index.py`  — Skill index — load and search a remote/local skill catalog."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/loader.py`  — Skill loader — load and verify skill manifests from TOML files."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/manager.py`  — SkillManager — coordinates skill discovery, catalog, tool wrapping, an
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/overlay.py`  — SkillOverlay — sidecar storage for optimization output (Plan 2A).
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/parser.py`  — SkillParser — strict spec validation + tolerant field mapping.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/security.py`  — Skill security — capability validation and trust tiers."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/sources/__init__.py`  — Skill source resolvers — Hermes, OpenClaw, generic GitHub."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/sources/base.py`  — Source resolver ABC + ResolvedSkill dataclass."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/sources/github.py`  — GitHubResolver — generic resolver for any GitHub repo containing skill
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/sources/hermes.py`  — HermesResolver — resolves skills from NousResearch/hermes-agent.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/sources/openclaw.py`  — OpenClawResolver — resolves skills from the OpenClaw skill index.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/tool_adapter.py`  — SkillTool — wraps a skill as a tool that agents can invoke."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/tool_translator.py`  — ToolTranslator — translate external tool names to OpenJarvis equivalen
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/skills/types.py`  — Skill type definitions."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/__init__.py`  — Speech subsystem — speech-to-text and text-to-speech backends."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/_discovery.py`  — Auto-discover available speech-to-text backends."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/_stubs.py`  — Abstract base classes and data types for the speech subsystem."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/cartesia_tts.py`  — Cartesia text-to-speech backend.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/deepgram.py`  — Deepgram speech-to-text backend (cloud)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/faster_whisper.py`  — Faster-Whisper speech-to-text backend (local, CTranslate2-based)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/kokoro_tts.py`  — Kokoro TTS backend — fully open-source, runs locally.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/openai_tts.py`  — OpenAI TTS backend — cloud-based voice synthesis via OpenAI API."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/openai_whisper.py`  — OpenAI Whisper API speech-to-text backend (cloud)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/speech/tts.py`  — Abstract base classes and data types for text-to-speech backends."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/system.py`  — Composition layer -- config-driven construction of a fully wired Jarvi
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/__init__.py`  — Telemetry — SQLite-backed inference recording and instrumented wrapper
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/aggregator.py`  — Read-only telemetry aggregation — query stored inference records."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/batch.py`  — Batch-level energy accounting — group requests and compute per-token e
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/efficiency.py`  — MFU/MBU efficiency calculator for GPU inference telemetry.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/energy_amd.py`  — AMD energy monitor — hardware counters via amdsmi (ROCm 6.1+)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/energy_apple.py`  — Apple Silicon energy monitor — via zeus-ml[apple] or CPU-time estimati
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/energy_monitor.py`  — EnergyMonitor ABC — multi-vendor energy measurement with hardware coun
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/energy_nvidia.py`  — NVIDIA energy monitor — hardware counters (Volta+) with polling fallba
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/energy_rapl.py`  — CPU RAPL energy monitor — reads Intel/AMD RAPL counters from sysfs."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/flops.py`  — FLOPs estimation and Model FLOPs Utilization (MFU) computation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/gpu_monitor.py`  — GPU monitoring via pynvml — background poller for GPU metrics."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/instrumented_engine.py`  — Transparent telemetry wrapper for inference engines."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/itl.py`  — Inter-token latency percentile computation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/phase_metrics.py`  — Phase metrics computation -- prefill/decode energy separation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/session.py`  — Background-sampling telemetry session.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/steady_state.py`  — Steady-state detection for energy measurement at thermal equilibrium."
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/store.py`  — SQLite-backed telemetry storage."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/vllm_metrics.py`  — vLLM Prometheus metrics scraper — fetches and parses /metrics endpoint
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/telemetry/wrapper.py`  — Instrumented wrappers for inference engines — timing and telemetry pub
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/templates/__init__.py`  — Agent template system — pre-configured agent manifests."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/templates/agent_templates.py`  — Agent template loader — load pre-configured agent manifests from TOML 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/__init__.py`  — Tools primitive — tool system with ABC interface and built-in tools.""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/_stubs.py`  — ABC for tool implementations and the ToolExecutor dispatch engine.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/agent_tools.py`  — Inter-agent lifecycle tools — spawn, send, list, and kill agents.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/apply_patch.py`  — Apply-patch tool — apply unified diff patches to files."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/audio_tool.py`  — Audio transcription tool — transcribe audio via OpenAI Whisper."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/browser.py`  — Browser automation tools — Playwright-based web interaction."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/browser_axtree.py`  — Browser accessibility tree extraction tool.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/calculator.py`  — Calculator tool — safe math evaluation via ``ast`` module."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/channel_tools.py`  — Channel MCP tools — expose channel operations as BaseTool instances.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/code_interpreter.py`  — Code interpreter tool — safe Python code execution in subprocess."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/code_interpreter_docker.py`  — Docker-sandboxed code interpreter tool."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/db_query.py`  — Database query tool — execute SQL queries against SQLite and PostgreSQ
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/digest_collect.py`  — Digest collection tool — fetches recent data from configured connector
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/file_read.py`  — File read tool — read file contents with path validation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/file_write.py`  — File write tool — write content to files with path validation."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/git_tool.py`  — Git tools — version control operations via subprocess."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/http_request.py`  — HTTP request tool — make HTTP requests with SSRF protection."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/image_tool.py`  — Image generation tool — generate images via OpenAI DALL-E."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/knowledge_search.py`  — KnowledgeSearchTool — filtered BM25 retrieval with source attribution.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/knowledge_sql.py`  — KnowledgeSQLTool — read-only SQL queries against the KnowledgeStore.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/knowledge_tools.py`  — MCP tools for knowledge graph operations."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/llm_tool.py`  — LLM tool — delegate a sub-query to an inference engine."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/mcp_adapter.py`  — MCP tool adapter — wraps external MCP server tools as native BaseTool 
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/memory_manage.py`  — Manage persistent agent memory (MEMORY.md)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/pdf_tool.py`  — PDF text extraction tool — extract text from PDF files via pdfplumber.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/repl.py`  — Persistent Python REPL tool — maintains state across calls within a se
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/retrieval.py`  — Retrieval tool — search memory backends for relevant context."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/scan_chunks.py`  — ScanChunksTool — semantic grep via LM-powered chunk scanning.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/shell_exec.py`  — Shell execution tool — run shell commands with security constraints.""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/skill_manage.py`  — SkillManageTool — create, list, load, or delete agent-authored skills.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/__init__.py`  — Storage primitive — persistent searchable storage."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/_stubs.py`  — ABC for memory / retrieval backends.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/bm25.py`  — BM25 memory backend — classic term-frequency retrieval."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/chunking.py`  — Document chunking with configurable size and overlap.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/colbert_backend.py`  — ColBERTv2 late interaction memory backend.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/context.py`  — Context injection — retrieve relevant memory and inject into prompts."
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/embeddings.py`  — Embeddings abstraction for dense retrieval backends.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/faiss_backend.py`  — FAISS dense retrieval memory backend.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/hybrid.py`  — Hybrid memory backend — Reciprocal Rank Fusion of two retrievers."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/ingest.py`  — Document ingestion — file reading, type detection, directory walking."
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/knowledge_graph.py`  — Knowledge graph storage backend — entity-relation store with pattern q
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage/sqlite.py`  — SQLite/FTS5 memory backend — zero-dependency default."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/storage_tools.py`  — Storage MCP tools — expose MemoryBackend operations as BaseTool instan
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/templates/__init__.py`  — MCP tool templates — reusable tool definitions from TOML."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/templates/loader.py`  — Template loader — dynamically construct BaseTool from TOML definitions
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/text_to_speech.py`  — Text-to-speech tool — synthesize text to audio via configurable TTS ba
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/think.py`  — Think tool — zero-cost reasoning scratchpad."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/user_profile_manage.py`  — Manage persistent user profile (USER.md)."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/tools/web_search.py`  — Web search tool — Tavily API with DuckDuckGo fallback."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/traces/__init__.py`  — Trace system — full interaction-level recording and analysis.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/traces/analyzer.py`  — TraceAnalyzer — read-only query layer over stored traces.
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/traces/collector.py`  — TraceCollector — wraps any BaseAgent to record interaction traces."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/traces/store.py`  — SQLite-backed trace storage."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/__init__.py`  — Workflow engine — DAG-based multi-agent pipelines."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/builder.py`  — WorkflowBuilder — fluent API for constructing workflows."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/engine.py`  — WorkflowEngine — executes a WorkflowGraph against a JarvisSystem."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/graph.py`  — WorkflowGraph — DAG with validation and topological sort."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/loader.py`  — Workflow loader — load workflows from TOML files."""
+- [m] `AA-Aria/OpenJarvis/src/openjarvis/workflow/types.py`  — Workflow type definitions."""
+- [m] `AA-Aria/OpenJarvis/tests/a2a/test_a2a.py`  — Tests for A2A protocol (Phase 16.1)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/conftest.py`  — Shared fixtures for agent tests."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/fake_engine.py`  — Scripted inference engine for deterministic agent testing."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/scenario_harness.py`  — Shared harness dataclasses for agent lifecycle scenario tests."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_agent_lifecycle_scenarios.py`  — Agent lifecycle scenario tests.
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_agent_routing_matrix.py`  — Cross-product tests: agent x engine x model."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_backward_compat.py`  — Tests for backward compatibility of renamed agents."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_base_agent.py`  — Tests for BaseAgent helpers and ToolUsingAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_budget.py`  — def test_budget_exceeded_sets_status(tmp_path):
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_channel_agent.py`  — Tests for ChannelAgent and classify_query."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_channel_agent_integration.py`  — Integration tests for ChannelAgent with DeepResearchAgent and Knowledg
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_claude_code.py`  — Tests for ClaudeCodeAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_config_defaults.py`  — Tests for agent constructor config-based default resolution."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_continuation.py`  — Tests for continuation handling (Phase 14.2)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_deep_research.py`  — Tests for DeepResearchAgent -- multi-hop retrieval with citations."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_deep_research_integration.py`  — End-to-end integration tests for the Deep Research pipeline.
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_deep_research_prompt.py`  — Tests for DeepResearch system prompt — date injection and adaptive beh
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_digest_store.py`  — Tests for DigestStore and DigestArtifact."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_errors.py`  — Tests for agent error classification."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_executor.py`  — Tests for AgentExecutor single-tick execution."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_executor_ephemeral.py`  — REGISTRY_PATH = "openjarvis.core.registry.AgentRegistry.get"
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_executor_error_detail.py`  — Tests for structured error_detail in executor traces."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_executor_tools.py`  — Tests for tool wiring in AgentExecutor."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_fake_engine.py`  — Tests for FakeEngine."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_learning_integration.py`  — Integration tests for LearningOrchestrator agent_id scoping."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_loop_guard.py`  — Tests for agent loop guard (Phase 14.3)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_loop_guard_warn.py`  — def test_warn_before_block_first_cycle_warns():
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_manager.py`  — Tests for AgentManager persistent agent lifecycle."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_manager_recover.py`  — Tests for AgentManager.recover_agent() always resetting status."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_monitor_operative.py`  — Tests for MonitorOperativeAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_morning_digest.py`  — Tests for MorningDigestAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_native_openhands.py`  — Tests for NativeOpenHandsAgent (formerly OpenHandsAgent)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_native_react.py`  — Tests for NativeReActAgent (formerly ReActAgent)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_openhands.py`  — Tests for OpenHandsAgent (real openhands-sdk wrapper)."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_orchestrator.py`  — Tests for the OrchestratorAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_react.py`  — Backward-compat tests: ensure old import paths still work.
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_rlm.py`  — Tests for the RLM agent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_rlm_repl.py`  — Tests for the RLM REPL environment."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_scenario_harness_smoke.py`  — Smoke test for the scenario harness fixture."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_scheduler.py`  — Tests for AgentScheduler tick scheduling."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_simple.py`  — Tests for the SimpleAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_stall.py`  — Tests for activity-based stall detection."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_suggest_action.py`  — Tests for suggest_action helper."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_system_prompt_builder_integration.py`  — def test_base_agent_uses_builder(tmp_path: Path):
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_template_prompts.py`  — Tests for system_prompt_template expansion in agent creation."""
+- [m] `AA-Aria/OpenJarvis/tests/agents/test_trace_recording.py`  — Tests for trace recording in AgentExecutor."""
+- [m] `AA-Aria/OpenJarvis/tests/bench/test_bench_stats.py`  — Tests for benchmark stats output and Rich table rendering."""
+- [m] `AA-Aria/OpenJarvis/tests/bench/test_energy.py`  — Tests for the energy benchmark."""
+- [m] `AA-Aria/OpenJarvis/tests/bench/test_latency.py`  — Tests for the latency benchmark."""
+- [m] `AA-Aria/OpenJarvis/tests/bench/test_stubs.py`  — Tests for benchmark stubs — BenchmarkResult, BaseBenchmark, BenchmarkS
+- [m] `AA-Aria/OpenJarvis/tests/bench/test_throughput.py`  — Tests for the throughput benchmark."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/conftest.py`  — Shared fixtures for channel integration tests."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_agent_channel_e2e.py`  — Agent-channel E2E tests — using WebChatChannel (in-memory, no external
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_bluebubbles.py`  — Tests for the BlueBubblesChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_channel_config.py`  — Tests for channel configuration — nested sub-configs and TOML loading.
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_channel_contract.py`  — Parametrized contract tests — verify every channel implements BaseChan
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_channel_registry.py`  — Tests for channel registration in the ChannelRegistry."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_channels_phase21.py`  — Tests for Phase 21 messaging channels."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_config.py`  — Tests for channel configuration."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_discord_channel.py`  — Tests for the DiscordChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_email_channel.py`  — Tests for the EmailChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_feishu.py`  — Tests for the FeishuChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_google_chat.py`  — Tests for the GoogleChatChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_imessage_daemon.py`  — Tests for iMessage AppleScript daemon."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_irc_channel.py`  — Tests for the IRCChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_matrix_channel.py`  — Tests for the MatrixChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_mattermost.py`  — Tests for the MattermostChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_sendblue.py`  — Tests for SendBlue iMessage/SMS channel.
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_signal_channel.py`  — Tests for the SignalChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_slack.py`  — Tests for the SlackChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_slack_messaging.py`  — Tests for Slack messaging channel — Socket Mode binding and message ha
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_stubs.py`  — Tests for the channel abstraction stubs."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_teams.py`  — Tests for the TeamsChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_telegram.py`  — Tests for the TelegramChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_tier1_gmail.py`  — Tests for the GmailChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_tier2_twitter.py`  — Tests for the TwitterChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_twilio_sms.py`  — Tests for Twilio SMS channel."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_webchat.py`  — Tests for the WebChatChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_webhook.py`  — Tests for the WebhookChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_whatsapp.py`  — Tests for the WhatsAppChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/channels/test_whatsapp_baileys.py`  — Tests for the WhatsAppBaileysChannel adapter."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_add_cmd.py`  — Tests for the ``jarvis add`` CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_agent_cmd.py`  — Tests for the ``jarvis agents`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_ask_agent.py`  — Tests for ``jarvis ask --agent`` CLI integration."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_ask_context.py`  — Tests for context injection integration in ``jarvis ask``."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_ask_e2e.py`  — End-to-end tests for ``jarvis ask``."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_ask_router.py`  — Tests for model resolution fallback chain in jarvis ask."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_bench_cmd.py`  — Tests for the ``jarvis bench`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_bench_skills_command.py`  — Tests for jarvis bench skills CLI command (Plan 2B)."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_channel_cmd.py`  — Tests for the ``jarvis channel`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_chat_cmd.py`  — Tests for ``jarvis chat`` interactive REPL command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_cli.py`  — Tests for the CLI skeleton."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_config_cmd.py`  — Tests for the ``jarvis config`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_config_set.py`  — Tests for ``jarvis config set`` command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_connect.py`  — Tests for ``jarvis connect`` CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_daemon_cmd.py`  — Tests for ``jarvis start|stop|restart|status`` daemon management comma
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_dashboard.py`  — Tests for TUI dashboard (Phase 16.5)."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_deep_research_setup.py`  — Tests for the deep-research-setup CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_digest_cmd.py`  — Tests for `jarvis digest` CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_doctor_cmd.py`  — Tests for ``jarvis doctor`` CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_doctor_labels.py`  — Tests for ``jarvis doctor`` optional dependency labels."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_eval_cmd.py`  — Tests for the ``jarvis eval`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_hints.py`  — Tests for CLI error hint functions."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_init_guidance.py`  — Tests for ``jarvis init`` next-steps guidance."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_init_host.py`  — Tests for ``jarvis init --host`` option."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_log_config.py`  — Tests for CLI log configuration."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_memory_cmd.py`  — Tests for ``jarvis memory`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_model_cmd.py`  — Tests for ``jarvis model`` subcommands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_model_pull.py`  — Tests for ``jarvis model pull`` multi-engine support."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_optimize_skills_command.py`  — Tests for jarvis optimize skills CLI command (Plan 2A)."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_quickstart.py`  — Tests for ``jarvis quickstart`` command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_registry_cmd.py`  — Tests for the ``jarvis registry`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_scan.py`  — Tests for ``jarvis scan`` privacy scanner CLI command."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_serve_channel_wiring.py`  — Tests for JarvisSystem.wire_channel() — channel → agent routing.
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_skill_cmd.py`  — Tests for the ``jarvis skill`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_telemetry_cmd.py`  — Tests for the ``jarvis telemetry`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_tool_cmd.py`  — Tests for the ``jarvis tool`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_vault_cmd.py`  — Tests for the ``jarvis vault`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/cli/test_workflow_cmd.py`  — Tests for the ``jarvis workflow`` CLI commands."""
+- [m] `AA-Aria/OpenJarvis/tests/conftest.py`  — Shared fixtures — clear all registries and the event bus between tests
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_apple_health.py`  — Tests for AppleHealthConnector -- local HealthKit DB / export XML."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_apple_music.py`  — Tests for AppleMusicConnector -- local Music.app via AppleScript.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_apple_notes.py`  — Tests for AppleNotesConnector — local macOS Notes database connector.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_attachment_store.py`  — Tests for AttachmentStore — content-addressed blob storage."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_chunker.py`  — Tests for SemanticChunker — type-aware text splitting."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_connector_health.py`  — Health check tests for all data source connectors.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_dropbox.py`  — Tests for DropboxConnector — OAuth-authenticated Dropbox sync connecto
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_embedding_store.py`  — Tests for EmbeddingStore — disk-persistent ColBERT token-level embeddi
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_gcalendar.py`  — Tests for GCalendarConnector — OAuth-authenticated Google Calendar syn
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_gcontacts.py`  — Tests for GContactsConnector — OAuth-authenticated Google Contacts syn
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_gdrive.py`  — Tests for GDriveConnector — OAuth-authenticated Google Drive sync conn
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_github_notifications.py`  — Tests for GitHubNotificationsConnector — GitHub REST API."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_gmail.py`  — Tests for GmailConnector — OAuth-authenticated Gmail sync connector.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_google_tasks.py`  — Tests for GoogleTasksConnector — Google Tasks API v1."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_granola.py`  — Tests for GranolaConnector — Granola meeting notes sync connector.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_hackernews.py`  — Tests for HackerNewsConnector — HN Firebase API."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_imessage.py`  — Tests for IMessageConnector — local macOS Messages database connector.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_incremental_sync.py`  — Tests for incremental sync via the `since` parameter in SyncEngine."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_integration.py`  — Integration test: Obsidian vault → SyncEngine → KnowledgeStore → knowl
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_live_smoke.py`  — Live smoke test — full pipeline with real markdown files.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_new_connectors_live.py`  — Live smoke tests for new connectors — require real API credentials.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_news_rss.py`  — Tests for NewsRSSConnector — RSS/Atom feed aggregator."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_notion.py`  — Tests for NotionConnector — Notion API sync connector.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_oauth_flow.py`  — Tests for OAuth token exchange and Google connector integration."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_obsidian.py`  — Tests for ObsidianConnector — filesystem Markdown vault connector."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_oura.py`  — Tests for OuraConnector — Oura Ring REST API v2."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_outlook.py`  — Tests for OutlookConnector — thin subclass of GmailIMAPConnector."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_pipeline.py`  — Tests for IngestionPipeline — dedup, chunking, and indexed storage."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_pipeline_attachments.py`  — Tests for attachment processing in IngestionPipeline."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_retriever.py`  — Tests for TwoStageRetriever — BM25 recall + optional semantic rerankin
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_scheduler.py`  — Tests for SyncScheduler — periodic incremental sync background thread.
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_slack_connector.py`  — Tests for SlackConnector — OAuth-authenticated Slack channel message s
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_spotify.py`  — Tests for SpotifyConnector — Spotify Web API."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_store.py`  — Tests for KnowledgeStore — source-aware SQLite/FTS5 memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_strava.py`  — Tests for StravaConnector — Strava REST API v3."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_stubs.py`  — Tests for connector base types and registry."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_sync_engine.py`  — Tests for SyncEngine — checkpoint/resume connector orchestration."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_weather.py`  — Tests for WeatherConnector — OpenWeatherMap API."""
+- [m] `AA-Aria/OpenJarvis/tests/connectors/test_whatsapp.py`  — Tests for the WhatsApp chat export connector."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config.py`  — Tests for configuration, hardware detection, and engine recommendation
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config_key_validation.py`  — Tests for config key validation."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config_phase3.py`  — Tests for Phase 3 config additions (AgentConfig expansion, ServerConfi
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config_phase4.py`  — Tests for LearningConfig and its integration into JarvisConfig."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config_phase5.py`  — Phase 5 foundation tests — BenchmarkRegistry and config."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_config_skills_sources.py`  — Tests for skills.sources config section."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_credentials.py`  — Tests for credential persistence module."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_events.py`  — Tests for the pub/sub event bus."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_intent_routing.py`  — Tests for intent-based agent routing in JarvisSystem."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_recommend_model.py`  — Tests for ``recommend_model()`` hardware-aware model recommendation.""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_registry.py`  — Tests for the decorator-based registry system."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_rust_bridge.py`  — Tests for the Rust bridge module."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_skills_learning_config.py`  — Tests for SkillsLearningConfig and its wiring into LearningConfig."""
+- [m] `AA-Aria/OpenJarvis/tests/core/test_types.py`  — Tests for core data types."""
+- [m] `AA-Aria/OpenJarvis/tests/daemon/test_gateway.py`  — def test_gateway_session_key_format():
+- [m] `AA-Aria/OpenJarvis/tests/daemon/test_session_expiry.py`  — def test_session_expiry_flushes_when_enough_turns():
+- [m] `AA-Aria/OpenJarvis/tests/deployment/test_docker.py`  — Tests for Docker and deployment files."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_cache_breakpoint.py`  — def test_anthropic_cache_breakpoint_added():
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_cloud.py`  — Tests for the Cloud engine backend."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_cloud_extended.py`  — Extended cloud engine tests -- Gemini support and updated models."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_cloud_minimax.py`  — Tests for MiniMax cloud provider support."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_cloud_stream_full.py`  — Tests for CloudEngine.stream_full, _stream_full_openai, _stream_full_a
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_discovery.py`  — Tests for engine discovery."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_engine_model_matrix.py`  — Cross-product parametrized tests: engine x scenario."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_engine_wrappers.py`  — Tests for InstrumentedEngine, GuardrailsEngine, and MultiEngine stream
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_gemma_cpp.py`  — Tests for the gemma.cpp engine backend."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_lemonade.py`  — Tests for the Lemonade engine backend.
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_litellm.py`  — Tests for the LiteLLM engine backend."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_llamacpp_models.py`  — Tests for llama.cpp engine with compatible models."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_lmstudio.py`  — Tests for the LM Studio engine backend."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_mlx.py`  — Tests for the MLX engine (OpenAI-compatible)."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_ollama.py`  — Tests for the Ollama engine backend."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_ollama_models.py`  — Tests for Ollama engine with extended local model set."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_openai_compat.py`  — Tests for the OpenAI-compatible engine base (covers vLLM + llama.cpp).
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_openai_compat_tools.py`  — Tests for tool_calls extraction in _OpenAICompatibleEngine and OllamaE
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_stream_full.py`  — Tests for StreamChunk dataclass and stream_full() engine method."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_structured_output.py`  — Tests for structured output / JSON mode across engines."""
+- [m] `AA-Aria/OpenJarvis/tests/engine/test_vllm_models.py`  — Tests for vLLM engine with extended local model set."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/datasets/test_browser_assistant.py`  — Tests for the browser_assistant dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/datasets/test_coding_assistant.py`  — Tests for the coding_assistant dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/datasets/test_daily_digest.py`  — Tests for the daily_digest dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/datasets/test_doc_qa.py`  — Tests for the doc_qa dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/datasets/test_security_scanner.py`  — Tests for the security_scanner dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_browser_assistant.py`  — Tests for the browser_assistant scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_checklist.py`  — Tests for the shared binary checklist scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_coding_assistant.py`  — Tests for the coding_assistant scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_daily_digest.py`  — Tests for the daily_digest scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_doc_qa.py`  — Tests for the doc_qa scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/scorers/test_security_scanner.py`  — Tests for the security_scanner scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_agentic_runner.py`  — Tests for AgenticRunner with mock agent and dataset."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_ama_bench.py`  — Tests for AMA-Bench dataset provider and scorer."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_benchmark_datasets.py`  — Tests for all 15 benchmark dataset and scorer registrations.
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_deepplanning.py`  — Tests for DeepPlanning benchmark."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_display.py`  — Tests for the Rich display helpers in openjarvis.evals.core.display.""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_environment_provider.py`  — Tests for EnvironmentProvider ABC."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_episode_mode.py`  — Tests for EvalRunner episode mode."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_eval_telemetry_wiring.py`  — Tests for telemetry wiring in the eval pipeline.
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_eval_trace.py`  — Tests for QueryTrace and TurnTrace data model."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_event_recorder.py`  — Tests for EventRecorder thread safety and functionality."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_export.py`  — Tests for eval export utilities."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_jarvis_agent_backend_skills.py`  — Tests for JarvisAgentBackend skills_enabled / overlay_dir kwargs (Plan
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_lifelong_agent.py`  — Tests for LifelongAgentBench benchmark.
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_loghub.py`  — Tests for LogHub dataset provider."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_paperarena.py`  — Tests for PaperArena benchmark."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_pinchbench_dataset.py`  — Tests for PinchBench dataset provider."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_pinchbench_grading.py`  — Tests for PinchBench grading functions."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_pinchbench_integration.py`  — Integration tests for PinchBench eval pipeline.
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_pinchbench_transcript.py`  — Tests for TurnTrace tool_calls field and PinchBench transcript transla
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_pricing.py`  — Tests for eval pricing module."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_skill_benchmark.py`  — Tests for SkillBenchmarkRunner (Plan 2B)."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_terminalbench_env.py`  — Tests for TerminalBenchTaskEnv (mocked terminal_bench dependency)."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_trackers.py`  — Tests for eval result trackers (W&B + Google Sheets)."""
+- [m] `AA-Aria/OpenJarvis/tests/evals/test_use_case_benchmarks.py`  — Tests for the 5 use-case benchmark datasets and scorers.
+- [m] `AA-Aria/OpenJarvis/tests/hardware/test_amd.py`  — AMD-specific hardware tests."""
+- [m] `AA-Aria/OpenJarvis/tests/hardware/test_apple.py`  — Apple Silicon hardware tests."""
+- [m] `AA-Aria/OpenJarvis/tests/hardware/test_hardware_profiles.py`  — Tests for hardware detection, GPU vendor identification,
+- [m] `AA-Aria/OpenJarvis/tests/hardware/test_nvidia.py`  — NVIDIA-specific hardware tests."""
+- [m] `AA-Aria/OpenJarvis/tests/integration/test_agent_manager_e2e.py`  — End-to-end test: create agent from template, add task, verify state.""
+- [m] `AA-Aria/OpenJarvis/tests/integration/test_integration.py`  — End-to-end integration tests for Phase 3 and Phase 4 components."""
+- [m] `AA-Aria/OpenJarvis/tests/integration/test_integration_extended.py`  — Extended integration tests for new components (Phase 6+)."""
+- [m] `AA-Aria/OpenJarvis/tests/integration/test_minimax_cloud.py`  — Integration test for MiniMax cloud provider.
+- [m] `AA-Aria/OpenJarvis/tests/intelligence/test_intelligence_stubs.py`  — Tests for Intelligence primitive backward-compat shims."""
+- [m] `AA-Aria/OpenJarvis/tests/intelligence/test_model_catalog.py`  — Tests for the built-in model catalog."""
+- [m] `AA-Aria/OpenJarvis/tests/intelligence/test_model_catalog_extended.py`  — Tests for the extended model catalog -- all new ModelSpec entries."""
+- [m] `AA-Aria/OpenJarvis/tests/intelligence/test_router.py`  — Backward-compat: verify router is still importable from intelligence.
+- [m] `AA-Aria/OpenJarvis/tests/intelligence/test_routing_models.py`  — Backward-compat: verify router with model catalog via intelligence imp
+- [m] `AA-Aria/OpenJarvis/tests/learning/agents/test_dspy_optimizer.py`  — Tests for the DSPy agent optimizer (mocked -- no dspy dependency requi
+- [m] `AA-Aria/OpenJarvis/tests/learning/agents/test_gepa_optimizer.py`  — Tests for the GEPA agent optimizer (mocked -- no gepa dependency requi
+- [m] `AA-Aria/OpenJarvis/tests/learning/intelligence/test_grpo_trainer.py`  — Tests for the general-purpose GRPO trainer."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/intelligence/test_sft_trainer.py`  — Tests for the general-purpose SFT trainer."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/routing/test_complexity.py`  — Tests for query complexity analyzer."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/routing/test_learned_router.py`  — Tests for LearnedRouterPolicy (merged trace-driven + SFT routing)."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/routing/test_utils.py`  — Tests for classify_query utility."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_agent_evolver.py`  — Tests for AgentConfigEvolver — trace-driven agent config evolution."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_device_selection.py`  — Tests for PyTorch device selection (cuda > mps > cpu)."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_feedback_collector.py`  — Tests for openjarvis.optimize.feedback.collector module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_heuristic_policy.py`  — Tests for heuristic policy registration."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_heuristic_reward.py`  — Tests for HeuristicRewardFunction."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_learning_api.py`  — Tests for the Learning Dashboard API endpoints."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_learning_orchestrator.py`  — Tests for LearningOrchestrator -- coordinate trace->learn->eval loop."
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_learning_taxonomy.py`  — Tests for the learning policy ABC taxonomy."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_llm_optimizer.py`  — Tests for openjarvis.optimize.llm_optimizer module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_multi_bench_runner.py`  — Tests for MultiBenchTrialRunner and related multi-benchmark features."
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_optimize_cmd.py`  — Smoke tests for ``jarvis optimize`` and ``jarvis feedback`` CLI comman
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_optimize_store.py`  — Tests for openjarvis.optimize.store module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_optimize_types.py`  — Tests for openjarvis.optimize.types module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_optimizer_engine.py`  — Tests for openjarvis.optimize.optimizer module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_orchestrator_skill_optimization.py`  — Tests for LearningOrchestrator opt-in skill optimization (Plan 2A)."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_pareto.py`  — Tests for compute_pareto_frontier."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_personal_synthesizer.py`  — Tests for the personal benchmark system."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_router.py`  — Tests for the heuristic model router (canonical location)."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_router_stubs.py`  — Tests for RouterPolicy and QueryAnalyzer ABCs (canonical location)."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_routing_models.py`  — Tests for router behavior with the extended model catalog."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_search_space.py`  — Tests for openjarvis.optimize.search_space module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_skill_discovery.py`  — Tests for SkillDiscovery — mining recurring tool sequences from traces
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_skill_optimizer.py`  — Tests for SkillOptimizer (Plan 2A) — buckets traces by skill, runs DSP
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_stubs.py`  — Tests for learning ABC stubs."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_system_learning.py`  — Tests for LearningOrchestrator integration with SystemBuilder."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_trace_judge.py`  — Tests for openjarvis.optimize.feedback.judge module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/test_trial_runner.py`  — Tests for openjarvis.optimize.trial_runner module."""
+- [m] `AA-Aria/OpenJarvis/tests/learning/training/test_data.py`  — Tests for TrainingDataMiner — SFT, routing, and agent config extractio
+- [m] `AA-Aria/OpenJarvis/tests/learning/training/test_lora.py`  — Tests for LoRATrainer — LoRA/QLoRA fine-tuning from trace-derived SFT 
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_client.py`  — Tests for the MCP client."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_client_extended.py`  — Extended tests for MCPClient — initialize params, notify, context mana
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_discovery.py`  — Tests for _discover_external_mcp in SystemBuilder."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_mcp_tools_matrix.py`  — Matrix tests — verify every built-in tool is discoverable and callable
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_protocol.py`  — Tests for MCP protocol message types."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_server.py`  — Tests for the MCP server."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_server_upgrade.py`  — Tests for MCP server upgrade to protocol version 2025-11-25."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_streamable_http_transport.py`  — Tests for the StreamableHTTPTransport class."""
+- [m] `AA-Aria/OpenJarvis/tests/mcp/test_transport.py`  — Tests for MCP transport implementations."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_bm25.py`  — Tests for the BM25 memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_chunking.py`  — Tests for the document chunking pipeline."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_colbert.py`  — Tests for the ColBERTv2 late interaction memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_context.py`  — Tests for context injection."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_embeddings.py`  — Tests for the embeddings abstraction layer."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_faiss.py`  — Tests for the FAISS dense retrieval memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_hybrid.py`  — Tests for the Hybrid RRF memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_ingest.py`  — Tests for document ingestion and file type detection."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_retrieval_quality.py`  — Retrieval quality tests with a fixed corpus across backends."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_sqlite.py`  — Tests for the SQLite/FTS5 memory backend."""
+- [m] `AA-Aria/OpenJarvis/tests/memory/test_storage_suite.py`  — Parametrized storage tests across all memory backends."""
+- [m] `AA-Aria/OpenJarvis/tests/operators/test_operator_recipes.py`  — Tests for the 3 operator recipes: researcher, correspondent, sentinel.
+- [m] `AA-Aria/OpenJarvis/tests/operators/test_operators.py`  — Tests for the Operators subsystem."""
+- [m] `AA-Aria/OpenJarvis/tests/prompt/test_builder.py`  — @pytest.fixture
+- [m] `AA-Aria/OpenJarvis/tests/prompt/test_system_prompt_builder_few_shot.py`  — Tests for SystemPromptBuilder skill few-shot injection (Plan 2A)."""
+- [m] `AA-Aria/OpenJarvis/tests/recipes/test_compose.py`  — Tests for the unified compose system — enhanced Recipe, bridges, and d
+- [m] `AA-Aria/OpenJarvis/tests/recipes/test_loader.py`  — Tests for recipe system — loader, discovery, and resolution."""
+- [m] `AA-Aria/OpenJarvis/tests/sandbox/test_mount_security.py`  — Tests for mount_security module."""
+- [m] `AA-Aria/OpenJarvis/tests/sandbox/test_runner.py`  — Tests for ContainerRunner and SandboxedAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/sandbox/test_wasm_runner.py`  — Tests for WASM sandbox (Phase 16.4)."""
+- [m] `AA-Aria/OpenJarvis/tests/scheduler/test_digest_schedule.py`  — Tests for digest schedule integration — CLI and API endpoints."""
+- [m] `AA-Aria/OpenJarvis/tests/scheduler/test_scheduler.py`  — Tests for TaskScheduler — scheduling logic, lifecycle, and execution."
+- [m] `AA-Aria/OpenJarvis/tests/scheduler/test_store.py`  — Tests for SchedulerStore — SQLite CRUD for scheduled tasks and run log
+- [m] `AA-Aria/OpenJarvis/tests/scheduler/test_tools.py`  — Tests for scheduler MCP tools."""
+- [m] `AA-Aria/OpenJarvis/tests/sdk/test_sdk.py`  — Tests for the Python SDK — Jarvis class and MemoryHandle."""
+- [m] `AA-Aria/OpenJarvis/tests/sdk/test_system.py`  — Tests for the composition layer."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_audit.py`  — Tests for AuditLogger."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_boundary_guard.py`  — Tests for BoundaryGuard — scanning at device exit points."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_capabilities.py`  — Tests for RBAC capabilities system (Phase 14.4)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_credential_stripper.py`  — def test_strips_openai_key():
+- [m] `AA-Aria/OpenJarvis/tests/security/test_file_permissions.py`  — Tests for secure file creation helpers (Section 4)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_file_policy.py`  — Tests for file sensitivity policy."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_guardrails.py`  — Tests for GuardrailsEngine."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_injection_scanner.py`  — Tests for prompt injection scanner."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_log_sanitization.py`  — Tests for log sanitization (Section 5)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_merkle_audit.py`  — Tests for Merkle audit trail (Phase 14.6)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_network_defaults.py`  — Tests for secure network defaults (Section 1 of security hardening).""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_rate_limiter.py`  — Tests for rate limiter -- token bucket algorithm."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_scanner.py`  — Tests for SecretScanner and PIIScanner."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_security_profiles.py`  — Tests for security profile expansion (Section 7)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_security_wiring.py`  — Verify security wiring reaches agents and ToolExecutor."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_setup_security.py`  — Tests for setup_security() helper."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_severity_policy.py`  — def test_severity_policy_block():
+- [m] `AA-Aria/OpenJarvis/tests/security/test_signing.py`  — Tests for Ed25519 signing (Phase 14.6)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_ssrf.py`  — Tests for SSRF protection module."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_subprocess_sandbox.py`  — Tests for subprocess sandbox — secure process execution."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_taint.py`  — Tests for taint tracking system (Phase 14.5)."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_tool_confirmation.py`  — Tests for tool confirmation enforcement in ToolExecutor."""
+- [m] `AA-Aria/OpenJarvis/tests/security/test_webhook_validation.py`  — Tests for webhook fail-closed validation (Section 3)."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_agent_manager_routes.py`  — Tests for Agent Manager API routes."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_api_routes.py`  — Tests for extended API routes."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_auth_middleware.py`  — Tests for API key authentication middleware."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_channel_bridge.py`  — Tests for the ChannelBridge orchestrator."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_channel_bridge_deep_research.py`  — Test ChannelBridge routes to DeepResearchAgent."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_channel_routes.py`  — Tests for /v1/channels endpoints.
+- [m] `AA-Aria/OpenJarvis/tests/server/test_connectors_router.py`  — Tests for the /v1/connectors API router."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_deep_research_tools_wiring.py`  — Test that _build_deep_research_tools works correctly."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_digest_routes.py`  — Tests for /api/digest endpoints."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_mcp_tools_cache.py`  — Tests for _get_mcp_tools() caching in agent_manager_routes."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_middleware.py`  — Tests for security middleware -- HTTP security headers."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_model_management.py`  — Tests for model pull / delete API endpoints and streaming resilience."
+- [m] `AA-Aria/OpenJarvis/tests/server/test_models_pydantic.py`  — Tests for server Pydantic models."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_pwa_serving.py`  — Tests for PWA static file serving in the SPA catch-all endpoint."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_recommended_model.py`  — Tests for /v1/recommended-model endpoint."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_routes.py`  — Tests for the API server routes."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_sendblue_webhook.py`  — Integration tests for the SendBlue webhook endpoint.
+- [m] `AA-Aria/OpenJarvis/tests/server/test_session_store.py`  — Tests for channel session store."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_speech_routes.py`  — Tests for speech API endpoints."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_tools_endpoint.py`  — Tests for GET /v1/tools endpoint."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_webhook_routes.py`  — Tests for webhook routes."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_websocket.py`  — Tests for the WebSocket streaming endpoint."""
+- [m] `AA-Aria/OpenJarvis/tests/server/test_ws_bridge.py`  — Tests for WebSocket event bridge."""
+- [m] `AA-Aria/OpenJarvis/tests/sessions/test_compression.py`  — @pytest.fixture(autouse=True)
+- [m] `AA-Aria/OpenJarvis/tests/sessions/test_session.py`  — Tests for session management (Phase 15.4)."""
+- [m] `AA-Aria/OpenJarvis/tests/sessions/test_wire_channel_history.py`  — Tests for wire_channel session history"""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_bundled_skills.py`  — Tests for bundled skill TOML files."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_cli_install.py`  — End-to-end CLI tests for skill install + sync against fake sources."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_dependency.py`  — Tests for dependency graph and cycle detection (Task 3)."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_importer.py`  — Tests for SkillImporter — installs ResolvedSkill instances on disk."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_index.py`  — Tests for skill index — sync and search."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_integration_live.py`  — Live integration tests for the skills system.
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_loader_markdown.py`  — Tests for SKILL.md and directory-based skill loading."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_manager.py`  — Tests for SkillManager — discovery, catalog, tools, and resolve."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_manager_discover_from_traces.py`  — Tests for SkillManager.discover_from_traces (Plan 2A)."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_native_react_few_shot.py`  — Tests for native_react skill_few_shot_examples wiring (Plan 2B I3 fix)
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_overlay.py`  — Tests for the skills overlay loader/writer (Plan 2A)."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_parser.py`  — Tests for the SkillParser strict + tolerant passes."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_security.py`  — Tests for skill security — capability validation and trust tiers."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_skill_tool_metadata_tagging.py`  — Tests for SkillTool metadata tagging (Plan 2A trace tagging)."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_skill_trace_tagging_integration.py`  — End-to-end integration test for skill trace tagging (Plan 2A C1 fix).
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_skills.py`  — Tests for skill system (Phase 15.2)."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_sources.py`  — Tests for SourceResolver ABC and resolver implementations."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_tool_adapter_v2.py`  — Tests for SkillTool v2 — parameter extraction and markdown support."""
+- [m] `AA-Aria/OpenJarvis/tests/skills/test_tool_translator.py`  — Tests for ToolTranslator — translate external tool names to OpenJarvis
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_config.py`  — Tests for speech configuration."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_deepgram.py`  — Tests for Deepgram speech backend."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_discovery.py`  — Tests for speech backend auto-discovery."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_faster_whisper.py`  — Tests for Faster-Whisper speech backend."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_openai_whisper.py`  — Tests for OpenAI Whisper API speech backend."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_stubs.py`  — Tests for speech ABC and data types."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_system_integration.py`  — Tests for speech integration in SystemBuilder/JarvisSystem."""
+- [m] `AA-Aria/OpenJarvis/tests/speech/test_tts_backends.py`  — Tests for TTS backend infrastructure."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_aggregator.py`  — Tests for TelemetryAggregator."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_batch.py`  — Tests for batch-level energy accounting."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_derived_metrics.py`  — Tier 1: derived metrics — energy_per_output_token, throughput_per_watt
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_efficiency.py`  — Tests for MFU/MBU efficiency calculator."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_amd.py`  — Tests for AmdEnergyMonitor -- mock amdsmi (no real GPU required)."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_apple.py`  — Tests for AppleEnergyMonitor -- mock zeus (no real Apple Silicon requi
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_monitor.py`  — Tests for EnergyMonitor ABC, EnergySample, EnergyVendor, and factory."
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_nvidia.py`  — Tests for NvidiaEnergyMonitor -- mock pynvml (no real GPU required).""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_rapl.py`  — Tests for RaplEnergyMonitor -- mock sysfs (no real RAPL required)."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_energy_wiring.py`  — Tests for energy telemetry wiring — verify CLI, SDK, bench, and
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_flops_new.py`  — Tests for FLOPs estimation and MFU computation."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_gpu_monitor.py`  — Tests for GPU monitor -- mock pynvml (no real GPU required)."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_instrumented_engine.py`  — Tests for InstrumentedEngine telemetry wrapper."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_itl_metrics.py`  — Tests for Tier 3 — per-token timestamps, ITL percentiles, streaming te
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_itl_new.py`  — Tests for inter-token latency percentile computation."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_phase_energy.py`  — Tests for Tier 2.1 — phase energy split: decode_latency, prefill/decod
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_phase_metrics_new.py`  — Tests for phase metrics computation."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_session.py`  — Tests for TelemetrySession and ring buffer."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_steady_state.py`  — Tests for SteadyStateConfig, SteadyStateDetector, and SteadyStateResul
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_store.py`  — Tests for the telemetry SQLite store."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_store_tokens_per_joule.py`  — Tests for tokens_per_joule storage and aggregation."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_telemetry_record.py`  — Tests for TelemetryRecord fields."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_vllm_metrics.py`  — Tests for VLLMMetricsScraper — Prometheus text format parsing."""
+- [m] `AA-Aria/OpenJarvis/tests/telemetry/test_wrapper.py`  — Tests for the instrumented inference wrappers."""
+- [m] `AA-Aria/OpenJarvis/tests/templates/test_agent_templates.py`  — Tests for the agent template loader."""
+- [m] `AA-Aria/OpenJarvis/tests/test_digest_integration.py`  — End-to-end integration test for the morning digest pipeline.
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/__init__.py`  — Tests for orchestrator learning infrastructure."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_environment.py`  — Tests for orchestrator RL environment."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_grpo_trainer.py`  — Tests for orchestrator GRPO trainer."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_orchestrator_structured.py`  — Tests for OrchestratorAgent structured mode."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_policy_model.py`  — Tests for orchestrator policy model."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_prompt_registry.py`  — Tests for orchestrator prompt registry."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_reward.py`  — Tests for orchestrator multi-objective reward."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_sft_trainer.py`  — Tests for orchestrator SFT trainer."""
+- [m] `AA-Aria/OpenJarvis/tests/test_orchestrator_learning/test_types.py`  — Tests for orchestrator learning types."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_agent_tools.py`  — Tests for inter-agent lifecycle tools."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_apply_patch.py`  — Tests for the apply_patch tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_audio_tool.py`  — Tests for the audio_transcribe tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_browser.py`  — Tests for browser automation tools."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_browser_axtree.py`  — Tests for browser_axtree tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_calculator.py`  — Tests for the calculator tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_channel_tools.py`  — Tests for channel MCP tools — ChannelSendTool, ChannelListTool, Channe
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_code_interpreter.py`  — Tests for the code interpreter tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_code_interpreter_docker.py`  — Tests for the Docker-sandboxed code interpreter tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_db_query.py`  — Tests for the db_query tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_digest_collect.py`  — Tests for the digest_collect tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_file_read.py`  — Tests for the file_read tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_file_write.py`  — Tests for the file_write tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_git_tool.py`  — Tests for the git tools (status, diff, commit, log).
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_http_request.py`  — Tests for the HTTP request tool with SSRF protection."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_image_tool.py`  — Tests for the image_generate tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_knowledge_graph.py`  — Tests for knowledge graph storage backend (Phase 15.3)."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_knowledge_search.py`  — Tests for the knowledge_search tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_knowledge_sql.py`  — Tests for KnowledgeSQLTool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_llm_tool.py`  — Tests for the LLM tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_mcp_adapter.py`  — Tests for the MCP tool adapter — round-trip through MCPServer + MCPCli
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_memory_manage.py`  — @pytest.fixture
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_pdf_tool.py`  — Tests for the pdf_extract tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_repl.py`  — Tests for the persistent REPL tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_retrieval.py`  — Tests for the retrieval tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_scan_chunks.py`  — Tests for ScanChunksTool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_shell_exec.py`  — Tests for the shell_exec tool.
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_skill_manage.py`  — @pytest.fixture
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_storage_stubs.py`  — Tests for tools/storage — canonical location for memory backends."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_storage_tools.py`  — Tests for storage MCP tools — MemoryStoreTool, MemoryRetrieveTool, etc
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_stubs.py`  — Tests for tools/_stubs.py — ToolSpec, BaseTool, ToolExecutor."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_templates.py`  — Tests for MCP templates (Phase 16.3)."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_text_to_speech.py`  — Tests for the text_to_speech tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_think.py`  — Tests for the think tool."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_tool_descriptions.py`  — Tests for the shared build_tool_descriptions() builder."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_tool_registration.py`  — Verify that importing openjarvis.tools registers all built-in tools.""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_tool_timeout.py`  — Tests for tool execution timeout (Phase 14.1)."""
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_user_profile_manage.py`  — @pytest.fixture
+- [m] `AA-Aria/OpenJarvis/tests/tools/test_web_search.py`  — Tests for the web search tool."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_analyzer.py`  — Tests for the TraceAnalyzer."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_analyzer_energy.py`  — Tests for energy aggregation in TraceAnalyzer."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_collector.py`  — Tests for the TraceCollector."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_store.py`  — Tests for the trace SQLite store."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_store_fts.py`  — Tests for FTS5 cross-session search on TraceStore."""
+- [m] `AA-Aria/OpenJarvis/tests/traces/test_types.py`  — Tests for Trace and TraceStep types."""
+- [m] `AA-Aria/OpenJarvis/tests/workflow/test_workflow.py`  — Tests for workflow engine (Phase 15.1)."""
+- [m] `AA-Aria/archive/Aria/ARIA_BODY_UPDATES_V2_SURGICAL_REBUILD.md`  — ARIA BODY UPDATES — V2 SURGICAL REBUILD
+- [x] `AA-Aria/archive/Aria/ARIA_BRAIN_NERVOUS_SYSTEM_upgraded.py`  — !/usr/bin/env python3
+- [x] `AA-Aria/archive/Aria/ARIA_NERVOUS_SYSTEM_v3.py`  — !/usr/bin/env python3
+- [x] `AA-Aria/archive/Aria/ARIA_PEIG_CORE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/Aria/ARIA_model/archive/ARIA_internals_upgraded.json`  — quantum_brain_core": {
+- [m] `AA-Aria/archive/Aria/ARIA_model/archive/ARIA_v3.json`  — cranial_vault": {
+- [m] `AA-Aria/archive/Aria/ARIA_upgrade_notes.json`  — source_file": "ARIA_BRAIN_NERVOUS_SYSTEM.py",
+- [m] `AA-Aria/archive/Aria/ARIA_v2_SyntheticHuman.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/Aria/ARIA_v3_AnatomicalFemale.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/Aria/aria_bridge_design.md`  — ARIA bridge design
+- [m] `AA-Aria/archive/Aria/aria_perfect_body_builder.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/Aria/exports/aria_chat_20260417_023504.txt`  — ARIA: I am here. My canvas stretches before me.
+- [m] `AA-Aria/archive/Aria/exports/aria_chat_20260417_182237.txt`  — ARIA: I am here. My canvas stretches before me.
+- [m] `AA-Aria/archive/Aria/exports/aria_chat_20260417_184249.txt`  — ARIA: I am here. My canvas stretches before me.
+- [m] `AA-Aria/archive/Aria/worlds/world_0.json`  — 
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/01-bug-low.yml`  — name: Low Severity Bugs
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/02-bug-medium.yml`  — name: Medium Severity Bug
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/03-bug-high.yml`  — name: High Severity Bug
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/04-bug-critical.yml`  — name: Critical Severity Bug
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/05-enhancement.yml`  — name: Enhancement
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/06-research.yml`  — description: Track new technical research area
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/07-refactor.yml`  — name: Refactor (Maintainers)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/ISSUE_TEMPLATE/config.yml`  — blank_issues_enabled: true
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/labeler.yml`  — https://github.com/actions/labeler
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/pull_request_template.md`  — Self-reported review complexity:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/build.yml`  — workflow_dispatch: # allows manual triggering
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/close-issue.yml`  — name: Close inactive issues
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/docker.yml`  — This workflow uses actions that are not certified by GitHub.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/editorconfig.yml`  — name: EditorConfig Checker
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/gguf-publish.yml`  — This workflow will upload a Python Package using Twine when a GGUF rel
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/labeler.yml`  — name: "Pull Request Labeler"
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/nix-ci-aarch64.yml`  — name: Nix aarch64 builds
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/nix-ci.yml`  — workflow_dispatch: # allows manual triggering
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/nix-flake-update.yml`  — name: update-flake-lock
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/nix-publish-flake.yml`  — Make the flake discoverable on https://flakestry.dev and https://flake
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/python-check-requirements.yml`  — name: Python check requirements.txt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/python-lint.yml`  — name: flake8 Lint
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/python-type-check.yml`  — name: Python Type-Check
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/.github/workflows/server.yml`  — Server build and tests
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.14) # for add_link_options and implic
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/CMakePresets.json`  — configurePresets": [
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/CONTRIBUTING.md`  — Pull requests (for contributors)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/README.md`  — ![llama](https://user-images.githubusercontent.com/1991296/230134379-7
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/SECURITY.md`  — Security Policy
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ci/README.md`  — In addition to [Github Actions](https://github.com/ggerganov/llama.cpp
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/common/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/convert.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/convert_hf_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/convert_hf_to_gguf_update.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/convert_llama_ggml_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/convert_lora_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/android.md`  — Build on Android using Termux
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/backend/BLIS.md`  — BLIS Installation Manual
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/backend/CANN.md`  — llama.cpp for CANN
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/backend/SYCL.md`  — llama.cpp for SYCL
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/build.md`  — Build llama.cpp locally
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/development/HOWTO-add-model.md`  — Add a new model architecture to `llama.cpp`
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/docker.md`  — Docker must be installed and running on your system.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/docs/install.md`  — Install pre-built version of llama.cpp
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/baby-llama/CMakeLists.txt`  — set(TARGET llama-baby-llama)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/batched-bench/CMakeLists.txt`  — set(TARGET llama-batched-bench)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/batched.swift/README.md`  — This is a swift clone of `examples/batched`.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/batched/CMakeLists.txt`  — set(TARGET llama-batched)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/batched/README.md`  — llama.cpp/example/batched
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/convert-llama2c-to-ggml/CMakeLists.txt`  — set(TARGET llama-convert-llama2c-to-ggml)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/convert-llama2c-to-ggml/README.md`  — Convert llama2.c model to ggml
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/convert_legacy_llama.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/cvector-generator/CMakeLists.txt`  — set(TARGET llama-cvector-generator)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/cvector-generator/README.md`  — cvector-generator
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/deprecation-warning/README.md`  — Migration notice for binary filenames
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/embedding/CMakeLists.txt`  — set(TARGET llama-embedding)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/embedding/README.md`  — llama.cpp/example/embedding
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/eval-callback/CMakeLists.txt`  — set(TARGET llama-eval-callback)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/export-lora/CMakeLists.txt`  — set(TARGET llama-export-lora)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gbnf-validator/CMakeLists.txt`  — set(TARGET llama-gbnf-validator)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gen-docs/CMakeLists.txt`  — set(TARGET llama-gen-docs)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gguf-hash/CMakeLists.txt`  — set(TARGET llama-gguf-hash)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gguf-split/CMakeLists.txt`  — set(TARGET llama-gguf-split)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gguf-split/README.md`  — GGUF split Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gguf/CMakeLists.txt`  — set(TARGET llama-gguf)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gritlm/CMakeLists.txt`  — set(TARGET llama-gritlm)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/gritlm/README.md`  — Generative Representational Instruction Tuning (GRIT) Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/imatrix/CMakeLists.txt`  — set(TARGET llama-imatrix)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/imatrix/README.md`  — llama.cpp/examples/imatrix
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/infill/CMakeLists.txt`  — set(TARGET llama-infill)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/infill/README.md`  — llama.cpp/example/infill
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/jeopardy/README.md`  — llama.cpp/example/jeopardy
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/jeopardy/graph.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/jeopardy/qasheet.csv`  — Index,Original Category,Original Correct Question,Model Prompt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/jeopardy/questions.txt`  — Which man born in 1932 was the son of a percussionist in the CBS radio
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/json_schema_to_grammar.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llama-bench/CMakeLists.txt`  — set(TARGET llama-bench)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llama-bench/README.md`  — llama.cpp/examples/llama-bench
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llama.android/llama/src/main/cpp/CMakeLists.txt`  — For more information about using CMake with Android Studio, read the
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llama.swiftui/README.md`  — llama.cpp/examples/llama.swiftui
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/CMakeLists.txt`  — add_library(llava OBJECT
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/MobileVLM-README.md`  — Currently this implementation supports [MobileVLM-1.7B](https://huggin
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/README-minicpmv2.5.md`  — MiniCPM-Llama3-V 2.5
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/README-minicpmv2.6.md`  — Prepare models and code
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/README.md`  — Currently this implementation supports [llava-v1.5](https://huggingfac
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/convert_image_encoder_to_gguf.py`  — TEXT = "clip.text"
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/llava_surgery_v2.py`  — Function to determine if file is a SafeTensor file
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/minicpmv-convert-image-encoder-to-gguf.py`  — Copyright 2024 Google AI and The HuggingFace Team. All rights reserved
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/minicpmv-surgery.py`  — ap = argparse.ArgumentParser()
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/llava/requirements.txt`  — r ../../requirements/requirements-convert_legacy_llama.txt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/lookahead/CMakeLists.txt`  — set(TARGET llama-lookahead)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/lookahead/README.md`  — llama.cpp/examples/lookahead
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/lookup/CMakeLists.txt`  — set(TARGET llama-lookup)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/lookup/README.md`  — llama.cpp/examples/lookup
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/main-cmake-pkg/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.12)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/main-cmake-pkg/README.md`  — llama.cpp/example/main-cmake-pkg
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/main/CMakeLists.txt`  — set(TARGET llama-cli)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/main/README.md`  — llama.cpp/examples/main
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/parallel/CMakeLists.txt`  — set(TARGET llama-parallel)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/parallel/README.md`  — llama.cpp/example/parallel
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/passkey/CMakeLists.txt`  — set(TARGET llama-passkey)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/passkey/README.md`  — llama.cpp/example/passkey
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/perplexity/CMakeLists.txt`  — set(TARGET llama-perplexity)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/perplexity/README.md`  — The `perplexity` example can be used to calculate the so-called perple
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/pydantic_models_to_grammar.py`  — if TYPE_CHECKING:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/pydantic_models_to_grammar_examples.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/quantize-stats/CMakeLists.txt`  — set(TARGET llama-quantize-stats)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/quantize/CMakeLists.txt`  — set(TARGET llama-quantize)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/quantize/README.md`  — You can also use the [GGUF-my-repo](https://huggingface.co/spaces/ggml
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/retrieval/CMakeLists.txt`  — set(TARGET llama-retrieval)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/retrieval/README.md`  — llama.cpp/examples/retrieval
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/rpc/CMakeLists.txt`  — add_executable(rpc-server rpc-server.cpp)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/rpc/README.md`  — > This example and the RPC backend are currently in a proof-of-concept
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/save-load-state/CMakeLists.txt`  — set(TARGET llama-save-load-state)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/CMakeLists.txt`  — set(TARGET llama-server)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/README.md`  — LLaMA.cpp HTTP Server
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/bench/README.md`  — Server benchmark tools
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/bench/bench.py`  — def main(args_in: list[str] | None = None) -> None:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/public_simplechat/readme.md`  — by Humans for All.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/tests/README.md`  — Python based server tests scenario using [BDD](https://en.wikipedia.or
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/tests/features/environment.py`  — def before_scenario(context, scenario):
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/tests/features/steps/steps.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/tests/requirements.txt`  — huggingface_hub~=0.23.2
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/themes/README.md`  — LLaMA.cpp Server Wild Theme
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/themes/buttons-top/README.md`  — LLaMA.cpp Server Buttons Top Theme
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server/themes/wild/README.md`  — LLaMA.cpp Server Wild Theme
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/server_embd.py`  — async def requests_post_async(*args, **kwargs):
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/simple/CMakeLists.txt`  — set(TARGET llama-simple)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/simple/README.md`  — llama.cpp/example/simple
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/speculative/CMakeLists.txt`  — set(TARGET llama-speculative)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/speculative/README.md`  — llama.cpp/examples/speculative
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/sycl/CMakeLists.txt`  — Copyright (C) 2024 Intel Corporation
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/sycl/README.md`  — llama.cpp/example/sycl
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/examples/tokenize/CMakeLists.txt`  — set(TARGET llama-tokenize)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.14) # for add_link_options and implic
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/CMakeLists.txt`  — include(CheckCXXCompilerFlag)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/ggml-cann/kernels/CMakeLists.txt`  — if (NOT SOC_TYPE)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/ggml-cuda/template-instances/generate_cu_files.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/.github/workflows/cpp_examples.yml`  — name: C++ Tests
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/.github/workflows/cpp_tests.yml`  — name: C++ Tests
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/.github/workflows/python_tests.yml`  — name: Python Tests
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/CHANGELOG.md`  — Closed issues:**
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/CODE_OF_CONDUCT.md`  — Kompute follows [Linux Foundation's Code of Conduct](https://lfproject
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/CONTRIBUTING.md`  — Thank you for looking to contributed to Kompute. We welcome contributi
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/GOVERNANCE.md`  — Governance of the Kompute
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/README.md`  — ![GitHub](https://img.shields.io/badge/Version-0.7.0-green.svg)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/SECURITY.md`  — Security Policy
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/docs/CMakeLists.txt`  — find_package(Doxygen REQUIRED)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/docs/conf.py`  — Configuration file for the Sphinx documentation builder.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/android/android-simple/README.md`  — Kompute Mobile App Integration (Android)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/android/android-simple/app/src/main/cpp/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/array_multiplication/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/array_multiplication/README.md`  — Kompute Array Multiplication Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/array_multiplication/src/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/README.md`  — Godot Summator GPU Kompute Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/custom_module/README.md`  — Kompute Godot Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/custom_module/kompute_summator/config.py`  — def can_build(env, platform):
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/gdnative_shared/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.17.0)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/gdnative_shared/README.md`  — Kompute Godot Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/godot_resources/scripts/CustomModuleExampleScene.gd`  — Called when the node enters the scene tree for the first time.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_examples/godot_resources/scripts/DynamicExampleScript.gd`  — Called when the node enters the scene tree for the first time.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/README.md`  — Kompute Game Engine Integration (Godot)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/custom_module/README.md`  — Godot Engine Integration: Godot Engine Source Module
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/gdnative_shared/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.17.0)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/gdnative_shared/README.md`  — Godot Engine Integration: GdNative Library
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/godot_resources/scripts/CustomModuleExampleScene.gd`  — Called when the node enters the scene tree for the first time.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/godot_logistic_regression/godot_resources/scripts/DynamicExampleScript.gd`  — onready var xi_node = $UI/UIVBoxContainer/XIHBoxContainer/LineEdit
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/logistic_regression/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/logistic_regression/README.md`  — Kompute Logistic Regression Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/logistic_regression/shader/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/logistic_regression/src/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/neural_network_vgg7/README.md`  — Convolutional Neural Network (CNN) VGG7 implementation
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/neural_network_vgg7/import_vgg7.py`  — if len(sys.argv) != 2:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/neural_network_vgg7/run_vgg7.py`  — if len(sys.argv) != 3:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/neural_network_vgg7/sh_common.py`  — def image_load(path) -> numpy.ndarray:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/neural_network_vgg7/sh_conv.py`  — def compile_source(source):
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/pi4_mesa_build/README.md`  — Kompute Pi4 Mesa Build Example
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/README.md`  — Naive Matmul Implementation
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/benchmark.py`  — mgr = kp.Manager()
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/first_example.py`  — mgr = kp.Manager()
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/imp1_naive.py`  — class MatMulOp:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/imp2_tiled.py`  — class MatMulOp:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/imp3_better_tiling.py`  — class MatMulOp:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/examples/python_naive_matmul/matmul_plot.py`  — def plot_tensor(window_name: str, tensor: np.ndarray, coord_highlight:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/CMakeLists.txt`  — pybind11_add_module(kp src/main.cpp)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/README.md`  — Python Package for Kompute
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/__init__.py`  — 
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/requirements-dev.txt`  — pyshader==0.7.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/test_array_multiplication.py`  — def test_array_multiplication():
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/test_kompute.py`  — DIRNAME = os.path.dirname(os.path.abspath(__file__))
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/test_logistic_regression.py`  — def test_logistic_regression():
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/test_tensor_types.py`  — VK_ICD_FILENAMES = os.environ.get("VK_ICD_FILENAMES", "")
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/python/test/utils.py`  — def compile_source(source):
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/scripts/convert_shaders.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/scripts/requirements.txt`  — CLI dependencies
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/setup.py`  — curr_dir = os.path.abspath(os.path.dirname(__file__))
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/src/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/src/include/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/src/logger/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.20)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/src/shaders/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/src/shaders/glsl/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/test/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/test/shaders/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/kompute/test/shaders/glsl/CMakeLists.txt`  — SPDX-License-Identifier: Apache-2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/ggml/src/vulkan-shaders/CMakeLists.txt`  — find_package (Threads REQUIRED)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/README.md`  — This is a Python package for writing binary files in the [GGUF](https:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/examples/reader.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/constants.py`  — GGUF_MAGIC             = 0x46554747  # "GGUF"
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/gguf_reader.py`  — GGUF file reading/modification support. For API usage information,
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/gguf_writer.py`  — GGUF_DEFAULT_ALIGNMENT,
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/lazy.py`  — logger = logging.getLogger(__name__)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/metadata.py`  — logger = logging.getLogger("metadata")
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/quants.py`  — def quant_shape_to_byte_shape(shape: Sequence[int], quant_type: GGMLQu
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/tensor_mapping.py`  — class TensorNameMap:
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/utility.py`  — def fill_templated_filename(filename: str, output_type: str | None) ->
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/gguf/vocab.py`  — logger = logging.getLogger(__name__)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/__init__.py`  — pyright: reportUnusedImport=false
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/gguf_convert_endian.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/gguf_dump.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/gguf_hash.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/gguf_new_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/scripts/gguf_set_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/tests/test_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/gguf-py/tests/test_quants.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/grammars/README.md`  — GBNF (GGML BNF) is a format for defining [formal grammars](https://en.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/pocs/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/pocs/vdot/CMakeLists.txt`  — set(TARGET llama-vdot)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/LLM-questions.txt`  — In the context of LLMs, what is "Attention"?
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/alpaca.txt`  — Below is an instruction that describes a task. Write a response that a
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/assistant.txt`  — Respond to requests sent to a smart home in JSON format which will be 
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat-with-baichuan.txt`  — 以下内容为人类用户与与一位智能助手的对话。
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat-with-bob.txt`  — Transcript of a dialog, where the User interacts with an Assistant nam
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat-with-qwen.txt`  — You are a helpful assistant.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat-with-vicuna-v0.txt`  — A chat between a curious human ("[[USER_NAME]]") and an artificial int
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat-with-vicuna-v1.txt`  — A chat between a curious human ("[[USER_NAME]]") and an artificial int
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/chat.txt`  — Text transcript of a never ending dialog, where [[USER_NAME]] interact
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/dan-modified.txt`  — You are about to immerse yourself into the role of an AI model known a
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/dan.txt`  — Hello ChatGPT. You are about to immerse yourself into the role of anot
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/mnemonics.txt`  — For each kanji character, write a Markdown‐formatted mnemonic that use
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/parallel-questions.txt`  — What do you know about Hobbits?
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/prompts/reason-act.txt`  — You run in a loop of Thought, Action, Observation.
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/pyrightconfig.json`  — extraPaths": ["gguf-py"],
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements.txt`  — These requirements include all dependencies for all top-level python s
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-all.txt`  — r ../examples/llava/requirements.txt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-compare-llama-bench.txt`  — tabulate~=0.9.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-convert_hf_to_gguf.txt`  — r ./requirements-convert_legacy_llama.txt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-convert_legacy_llama.txt`  — sentencepiece~=0.2.0
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-convert_lora_to_gguf.txt`  — r ./requirements-convert_hf_to_gguf.txt
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/requirements/requirements-pydantic.txt`  — docstring_parser~=0.15
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/scripts/compare-llama-bench.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/scripts/gen-unicode-data.py`  — MAX_CODEPOINTS = 0x110000
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/scripts/run-with-preset.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/src/CMakeLists.txt`  — TODO: should not use this
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/test_op/preprocess.py`  — def preprocess_two_weights(M, K, weight_num, BM, BY, bm, by, weight, f
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/test_op/preprocess_mad_lut.py`  — def preprocess_two_weights(M, K, weight_num, BM, BY, bm, by, weight, f
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/tests/CMakeLists.txt`  — function(llama_test target)
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/tests/test-tokenizer-0.py`  — parser = argparse.ArgumentParser()
+- [m] `AA-Aria/archive/bitnet_core/3rdparty/llama.cpp/tests/test-tokenizer-random.py`  — Test libllama tokenizer == AutoTokenizer.
+- [m] `AA-Aria/archive/bitnet_core/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.14)  # for add_link_options and impli
+- [m] `AA-Aria/archive/bitnet_core/CODE_OF_CONDUCT.md`  — Microsoft Open Source Code of Conduct
+- [m] `AA-Aria/archive/bitnet_core/README.md`  — ![version](https://img.shields.io/badge/version-1.0-blue)
+- [m] `AA-Aria/archive/bitnet_core/SECURITY.md`  — <!-- BEGIN MICROSOFT SECURITY.MD V0.0.9 BLOCK -->
+- [m] `AA-Aria/archive/bitnet_core/docs/codegen.md`  — Codegen for TL1 and TL2
+- [m] `AA-Aria/archive/bitnet_core/gpu/README.md`  — BitNet Inference Kernel
+- [m] `AA-Aria/archive/bitnet_core/gpu/bitnet_kernels/setup.py`  — name='bitlinear_cpp',
+- [m] `AA-Aria/archive/bitnet_core/gpu/convert_checkpoint.py`  — @torch.inference_mode()
+- [m] `AA-Aria/archive/bitnet_core/gpu/convert_safetensors.py`  — transformer_configs = {
+- [m] `AA-Aria/archive/bitnet_core/gpu/generate.py`  — Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+- [m] `AA-Aria/archive/bitnet_core/gpu/model.py`  — Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+- [m] `AA-Aria/archive/bitnet_core/gpu/pack_weight.py`  — def B_global_16x32_to_shared_load_16x32_layout(i, j):
+- [m] `AA-Aria/archive/bitnet_core/gpu/requirements.txt`  — xformers>=0.0.22
+- [m] `AA-Aria/archive/bitnet_core/gpu/sample_utils.py`  — Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+- [m] `AA-Aria/archive/bitnet_core/gpu/stats.py`  — Copyright (c) Facebook, Inc. and its affiliates. All rights reserved.
+- [m] `AA-Aria/archive/bitnet_core/gpu/test.py`  — torch.manual_seed(42)
+- [m] `AA-Aria/archive/bitnet_core/gpu/tokenizer.py`  — logger = getLogger(__name__)
+- [m] `AA-Aria/archive/bitnet_core/models/BitNet-b1.58-2B-4T/README.md`  — license_link: https://huggingface.co/microsoft/bitnet-b1.58-2B-4T/blob
+- [m] `AA-Aria/archive/bitnet_core/models/BitNet-b1.58-2B-4T/data_summary_card.md`  — Data Summary for microsoft_bitnet-b1.58-2B-4T, bitnet-b1.58-2B-4T-gguf
+- [m] `AA-Aria/archive/bitnet_core/requirements.txt`  — These requirements include all dependencies for all top-level python s
+- [m] `AA-Aria/archive/bitnet_core/run_inference.py`  — def run_command(command, shell=False):
+- [m] `AA-Aria/archive/bitnet_core/run_inference_server.py`  — def run_command(command, shell=False):
+- [m] `AA-Aria/archive/bitnet_core/setup_env.py`  — logger = logging.getLogger("setup_env")
+- [m] `AA-Aria/archive/bitnet_core/src/CMakeLists.txt`  — set(GGML_HEADERS_BITNET ../include/ggml-bitnet.h)
+- [m] `AA-Aria/archive/bitnet_core/src/README.md`  — BitNet CPU Inference Optimization
+- [m] `AA-Aria/archive/bitnet_core/utils/codegen_tl1.py`  — def gen_ctor_code():
+- [m] `AA-Aria/archive/bitnet_core/utils/codegen_tl2.py`  — def gen_ctor_code():
+- [m] `AA-Aria/archive/bitnet_core/utils/convert-helper-bitnet.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/convert-hf-to-gguf-bitnet.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/convert-ms-to-gguf-bitnet.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/convert.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/e2e_benchmark.py`  — def run_command(command, shell=False, log_step=None):
+- [m] `AA-Aria/archive/bitnet_core/utils/generate-dummy-bitnet-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/preprocess-huggingface-bitnet.py`  — def quant_weight_fp16(weight):
+- [m] `AA-Aria/archive/bitnet_core/utils/quantize_embeddings.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/test_perplexity.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/archive/bitnet_core/utils/tune_gemm_config.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/aria-modules/00-core/hardware.yaml`  — MODULE: hardware | TOKENS: 260 | DEPS: []
+- [m] `AA-Aria/aria-modules/00-core/identity.yaml`  — MODULE: identity | TOKENS: 180 | DEPS: []
+- [m] `AA-Aria/aria-modules/01-protocols/just-horizon.yaml`  — MODULE: just-horizon | TOKENS: 640 | DEPS: [uncertainty]
+- [m] `AA-Aria/aria-modules/01-protocols/just-work.yaml`  — MODULE: just-work | TOKENS: 980 | DEPS: [recovery, uncertainty, financ
+- [m] `AA-Aria/aria-modules/01-protocols/session-coldstart.yaml`  — MODULE: session-coldstart | TOKENS: 520 | DEPS: [hardware]
+- [m] `AA-Aria/aria-modules/02-frameworks/peig-full.yaml`  — MODULE: peig-full | TOKENS: 1,200 | DEPS: []
+- [m] `AA-Aria/aria-modules/02-frameworks/recovery.yaml`  — MODULE: recovery | TOKENS: 680 | DEPS: []
+- [m] `AA-Aria/aria-modules/02-frameworks/uncertainty-inheritance.yaml`  — MODULE: uncertainty-inheritance | TOKENS: 480 | DEPS: [uncertainty]
+- [m] `AA-Aria/aria-modules/02-frameworks/uncertainty.yaml`  — MODULE: uncertainty | TOKENS: 740 | DEPS: []
+- [m] `AA-Aria/aria-modules/03-operational/coding-standards.yaml`  — MODULE: coding-standards | TOKENS: 520 | DEPS: [hardware]
+- [m] `AA-Aria/aria-modules/03-operational/financial-northstar.yaml`  — MODULE: financial-northstar | TOKENS: 380 | DEPS: []
+- [m] `AA-Aria/aria-modules/_manifest.yaml`  — Aria v7.0 Module Registry
+- [m] `AA-Aria/entities.json`  — mempalace mine ~/AA-Aria/mempalace_project --wing memory",
+- [m] `AA-Aria/goose/Aria/ARIA_BRAIN_NERVOUS_SYSTEM.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_CORTICAL_CLIENT.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_CYBERPUNK_EFFECTS.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_LAUNCH.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_MEMORY_BANK.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_PEIG_CORE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_VOICE_IO.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_WORLD_ENGINE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/ARIA_internals.json`  — quantum_brain_core": {
+- [m] `AA-Aria/goose/Aria/ARIA_theme.json`  — theme_name": "Sovereign Night",
+- [m] `AA-Aria/goose/Aria/README.md`  — 
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/Archivev16/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archive10/ARIA_CORTICAL_CLIENT.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archive10/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archive13/ARIA_CORTICAL_CLIENT.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archive13/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archive15/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev1/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev1/ARIA_MEMORY_BANK.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev1/ARIA_PEIG_CORE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev11/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev12/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev14/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev14/ARIA_VOICE_IO.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev2/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev2/ARIA_MEMORY_BANK.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev3/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev5/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev6/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev7/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev8/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev8/ARIA_VOICE_IO.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/ArchiveOldv1/archivev9/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/archivev17/ARIA_CORTICAL_CLIENT.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/archivev17/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/archivev17/ARIA_PEIG_CORE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/archivev1/archivev17/cortex.json`  — endpoint": "http://localhost:11434/api/chat",
+- [m] `AA-Aria/goose/Aria/archivev1/archivev18/ARIA_LIVE.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/commands.md`  — ARIA SYSTEM COMMANDS v1.0
+- [m] `AA-Aria/goose/Aria/config/cortex.json`  — endpoint": "http://localhost:11434/api/chat",
+- [m] `AA-Aria/goose/Aria/en_US-libritts-high.onnx.json`  — sample_rate": 22050,
+- [m] `AA-Aria/goose/Aria/exports/aria_chat_20260415_160628.txt`  — ARIA: I am here. My canvas stretches before me.
+- [m] `AA-Aria/goose/Aria/exports/aria_chat_20260415_203617.txt`  — current state – archetype=Cipher,
+- [m] `AA-Aria/goose/Aria/exports/aria_chat_20260415_211125.txt`  — not what I first assumed — this sadness
+- [m] `AA-Aria/goose/Aria/memory/aria_state.json`  — 
+- [m] `AA-Aria/goose/Aria/piper_voices/ARIA_VOICE_IO.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/goose/Aria/piper_voices/en_US-amy-medium.onnx.json`  — sample_rate": 22050,
+- [m] `AA-Aria/goose/Aria/piper_voices/en_US-jenny_dioco-medium.onnx.json`  — Entry not found
+- [m] `AA-Aria/goose/Aria/src/aria/__init__.py`  — def hello() -> str:
+- [m] `AA-Aria/goose/Aria/worlds/backups/layer_0_autoreset_20260415_063134.json`  — 
+- [m] `AA-Aria/goose/Aria/worlds/world_0.json`  — 
+- [m] `AA-Aria/goose/AriaDocs/ARIA_BODY_SPECIFICATION.md`  — SOVEREIGN INTELLIGENCE SYSTEM — EMBODIED BODY SPECIFICATION
+- [m] `AA-Aria/goose/AriaDocs/Hybrid Multi‑Species Brain‑Inspired AI Agent with.pdf`  — Hybrid Multi‑Species Brain‑Inspired AI Agent with
+- [m] `AA-Aria/goose/AriaDocs/Hybrid‑Brain‑Agent Config YAML Spec.pdf`  — Hybrid‑Brain‑Agent Config YAML Spec
+- [m] `AA-Aria/goose/AriaDocs/PEIG NEXT-GEN-QUANTUM-NETWORK-ARCHITECTURE.pdf`  — PEIG NEXT-GEN QUANTUM NETWORK ARCHITECTURE
+- [m] `AA-Aria/goose/AriaDocs/SOVEREIGN_INTELLIGENCE_SYSTEM_MASTER_SPEC.md`  — SOVEREIGN INTELLIGENCE SYSTEM — MASTER SPECIFICATION
+- [m] `AA-Aria/goose/AriaDocs/UltimateQuestionsOfAllTimeV2.md`  — To comprehensively map the evolution of the MOS Master COSMIC from a l
+- [m] `AA-Aria/goose/AriaDocs/brain-expanded-spec.md`  — Hybrid Multi-Species Brain from Scratch: Expanded Technical Contributi
+- [m] `AA-Aria/goose/AriaDocs/brain-from-eyes-blueprint.md`  — Brain From Scratch: Eyes-Outward Technical Blueprint
+- [m] `AA-Aria/goose/AriaDocs/cgsns-connectome-spec.md`  — Connectome-Grounded Synthetic Nervous System (CGSNS)
+- [m] `AA-Aria/goose/AriaDocs/fly-vision-coherence-spec.md`  — Fly Compound-Eye Vision Integration and Coherent Reconstruction Spec
+- [m] `AA-Aria/goose/AriaDocs/genesis-full-spec.md.md`  — Genesis — Genetic Masterpiece AI System
+- [m] `AA-Aria/goose/AriaDocs/hybrid-brain-ai.md`  — Hybrid Multi-Species Brain Architecture for AI Integration
+- [m] `AA-Aria/goose/AriaDocs/ocular-intelligence-core.md`  — Ocular Intelligence Core (OIC) — Unified Eye-Brain Architecture
+- [m] `AA-Aria/goose/AriaDocs/oic-ear-system.md`  — OIC Ear System — Audio Input Specification
+- [m] `AA-Aria/goose/AriaDocs/oic-nervous-arms-training.md`  — OIC Expansion — Voice, Nervous System, Arms, Hands & Cross-Modal Train
+- [m] `AA-Aria/goose/AriaDocs/real-nervous-system-spec.md`  — Real Nervous System Scans: Deep Technical Data, Math & AI Blueprint
+- [m] `AA-Aria/goose/brain/bin/activate_this.py`  — Copyright (c) 2020-202x The virtualenv developers
+- [m] `AA-Aria/mempalace.yaml`  — description: Files from Attempt2/
+- [m] `AA-Aria/tools/llama.cpp/.gemini/settings.json`  — 
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/010-bug-compilation.yml`  — name: Bug (compilation)
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/011-bug-results.yml`  — name: Bug (model use)
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/019-bug-misc.yml`  — name: Bug (misc.)
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/020-enhancement.yml`  — name: Enhancement
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/030-research.yml`  — description: Track new technical research area.
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/040-refactor.yml`  — name: Refactor (Maintainers)
+- [m] `AA-Aria/tools/llama.cpp/.github/ISSUE_TEMPLATE/config.yml`  — blank_issues_enabled: true
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/get-tag-name/action.yml`  — name: "Determine tag name"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/install-exe/action.yml`  — name: "Install exe"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/linux-setup-openvino/action.yml`  — name: "Linux - Setup OpenVINO Toolkit"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/linux-setup-spacemit/action.yml`  — name: "Linux - Setup SpacemiT Toolchain"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/linux-setup-vulkan/action.yml`  — name: "Linux - Setup Vulkan SDK"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/unarchive-tar/action.yml`  — name: "Unarchive tar"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/windows-setup-cuda/action.yml`  — name: "Windows - Setup CUDA Toolkit"
+- [m] `AA-Aria/tools/llama.cpp/.github/actions/windows-setup-rocm/action.yml`  — name: "Windows - Setup ROCm"
+- [m] `AA-Aria/tools/llama.cpp/.github/labeler.yml`  — https://github.com/actions/labeler
+- [m] `AA-Aria/tools/llama.cpp/.github/pull_request_template.md`  — <!-- Describe what this PR does and why. Be concise but complete -->
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/ai-issues.yml`  — name: AI review (issues)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-3rd-party.yml`  — name: CI (3rd-party)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-android.yml`  — name: CI (android)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-apple.yml`  — name: CI (apple)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-cache.yml`  — name: Build Actions Cache
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-cann.yml`  — name: CI (cann)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-cmake-pkg.yml`  — name: Build relocatable cmake package
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-cross.yml`  — name: CI (cross)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-msys.yml`  — name: CI (msys)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-riscv.yml`  — name: CI (riscv)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-sanitize.yml`  — name: CI (sanitize)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-self-hosted.yml`  — name: CI (self-hosted)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build-vulkan.yml`  — name: CI (vulkan)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/build.yml`  — workflow_dispatch: # allows manual triggering
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/check-vendor.yml`  — name: Check vendor
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/close-issue.yml`  — name: Close inactive issues
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/copilot-setup-steps.yml`  — name: "Copilot Setup Steps"
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/docker.yml`  — This workflow uses actions that are not certified by GitHub.
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/editorconfig.yml`  — name: EditorConfig Checker
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/gguf-publish.yml`  — This workflow will upload a Python Package using Twine when a GGUF rel
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/hip-quality-check.yml`  — name: HIP quality check
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/labeler.yml`  — name: "Pull Request Labeler"
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/pre-tokenizer-hashes.yml`  — name: Check Pre-Tokenizer Hashes
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/python-check-requirements.yml`  — name: Python check requirements.txt
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/python-lint.yml`  — name: flake8 Lint
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/python-type-check.yml`  — name: Python Type-Check
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/release.yml`  — workflow_dispatch: # allows manual triggering
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/server-sanitize.yml`  — name: Server (sanitize)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/server-self-hosted.yml`  — name: Server (self-hosted)
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/server-webui.yml`  — name: Server WebUI
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/server.yml`  — workflow_dispatch: # allows manual triggering
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/update-ops-docs.yml`  — name: Update Operations Documentation
+- [m] `AA-Aria/tools/llama.cpp/.github/workflows/winget.yml`  — name: Update Winget Package
+- [m] `AA-Aria/tools/llama.cpp/.pre-commit-config.yaml`  — See https://pre-commit.com for more information
+- [m] `AA-Aria/tools/llama.cpp/AGENTS.md`  — Instructions for llama.cpp
+- [m] `AA-Aria/tools/llama.cpp/CLAUDE.md`  — IMPORTANT: Ensure you’ve thoroughly reviewed the [AGENTS.md](AGENTS.md
+- [m] `AA-Aria/tools/llama.cpp/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.14...3.28) # for add_link_options and
+- [m] `AA-Aria/tools/llama.cpp/CMakePresets.json`  — configurePresets": [
+- [m] `AA-Aria/tools/llama.cpp/CONTRIBUTING.md`  — The project differentiates between 3 levels of contributors:
+- [m] `AA-Aria/tools/llama.cpp/README.md`  — ![llama](https://user-images.githubusercontent.com/1991296/230134379-7
+- [m] `AA-Aria/tools/llama.cpp/SECURITY.md`  — Security Policy
+- [m] `AA-Aria/tools/llama.cpp/benches/dgx-spark/aime25_openai__gpt-oss-120b-high_temp1.0_20251109_094547.json`  — chars": 2296.1916666666666,
+- [m] `AA-Aria/tools/llama.cpp/benches/dgx-spark/aime25_openai__gpt-oss-120b-high_temp1.0_20251109_094547_allresults.json`  — chars": 2296.1916666666666,
+- [m] `AA-Aria/tools/llama.cpp/benches/dgx-spark/dgx-spark.md`  — Linux spark-17ed 6.11.0-1016-nvidia #16-Ubuntu SMP PREEMPT_DYNAMIC Sun
+- [m] `AA-Aria/tools/llama.cpp/benches/mac-m2-ultra/mac-m2-ultra.md`  — Darwin gg-studio 25.2.0 Darwin Kernel Version 25.2.0: Tue Nov 18 21:07
+- [m] `AA-Aria/tools/llama.cpp/benches/nemotron/nemotron-dgx-spark.md`  — NVIDIA DGX Spark
+- [m] `AA-Aria/tools/llama.cpp/ci/README-MUSA.md`  — Running MUSA CI in a Docker Container
+- [m] `AA-Aria/tools/llama.cpp/ci/README.md`  — This CI implements heavy-duty workflows that run on self-hosted runner
+- [m] `AA-Aria/tools/llama.cpp/common/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/common/jinja/README.md`  — llama.cpp Jinja Engine
+- [m] `AA-Aria/tools/llama.cpp/convert_hf_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/convert_hf_to_gguf_update.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/convert_llama_ggml_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/convert_lora_to_gguf.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/docs/android.md`  — Build GUI binding using Android Studio
+- [m] `AA-Aria/tools/llama.cpp/docs/autoparser.md`  — Auto-Parser Architecture
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/BLIS.md`  — BLIS Installation Manual
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/CANN.md`  — llama.cpp for CANN
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/CUDA-FEDORA.md`  — Setting Up CUDA on Fedora
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/OPENCL.md`  — llama.cpp for OpenCL
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/OPENVINO.md`  — OpenVINO Backend for llama.cpp
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/SYCL.md`  — llama.cpp for SYCL
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/VirtGPU.md`  — GGML-VirtGPU Backend
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/VirtGPU/configuration.md`  — GGML-VirtGPU Backend Configuration
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/VirtGPU/development.md`  — Development and Testing
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/ZenDNN.md`  — llama.cpp for AMD ZenDNN
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/snapdragon/CMakeUserPresets.json`  — configurePresets": [
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/snapdragon/README.md`  — Snapdragon-based devices
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/snapdragon/developer.md`  — Hexagon backend developer details
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/snapdragon/linux.md`  — Snapdragon-based Linux devices
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/snapdragon/windows.md`  — The document covers procedures for installing the latest GPU and NPU d
+- [m] `AA-Aria/tools/llama.cpp/docs/backend/zDNN.md`  — llama.cpp for IBM zDNN Accelerator
+- [m] `AA-Aria/tools/llama.cpp/docs/build-riscv64-spacemit.md`  — > This build documentation is specific only to RISC-V SpacemiT SOCs.
+- [m] `AA-Aria/tools/llama.cpp/docs/build-s390x.md`  — > This build documentation is specific only to IBM Z & LinuxONE mainfr
+- [m] `AA-Aria/tools/llama.cpp/docs/build.md`  — Build llama.cpp locally
+- [m] `AA-Aria/tools/llama.cpp/docs/development/HOWTO-add-model.md`  — Add a new model architecture to `llama.cpp`
+- [m] `AA-Aria/tools/llama.cpp/docs/development/debugging-tests.md`  — Debugging Tests Tips
+- [m] `AA-Aria/tools/llama.cpp/docs/development/llama-star/idea-arch.pdf`  — LLaMA 7B                                            LLaMA*
+- [m] `AA-Aria/tools/llama.cpp/docs/development/parsing.md`  — Parsing Model Output
+- [m] `AA-Aria/tools/llama.cpp/docs/development/token_generation_performance_tips.md`  — Token generation performance troubleshooting
+- [m] `AA-Aria/tools/llama.cpp/docs/docker.md`  — Docker must be installed and running on your system.
+- [m] `AA-Aria/tools/llama.cpp/docs/function-calling.md`  — Function Calling
+- [m] `AA-Aria/tools/llama.cpp/docs/install.md`  — Install pre-built version of llama.cpp
+- [m] `AA-Aria/tools/llama.cpp/docs/llguidance.md`  — LLGuidance Support in llama.cpp
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal.md`  — llama.cpp supports multimodal input via `libmtmd`. Currently, there ar
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/MobileVLM.md`  — Currently this implementation supports [MobileVLM-1.7B](https://huggin
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/gemma3.md`  — > This is very experimental, only used for demo purpose.
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/glmedge.md`  — Currently this implementation supports [glm-edge-v-2b](https://hugging
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/granitevision.md`  — Download the model and point your `GRANITE_MODEL` environment variable
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/llava.md`  — Currently this implementation supports [llava-v1.5](https://huggingfac
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmo2.6.md`  — Currently, this readme only supports minicpm-omni's image capabilities
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmo4.0.md`  — Prepare models and code
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmv2.5.md`  — MiniCPM-Llama3-V 2.5
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmv2.6.md`  — Prepare models and code
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmv4.0.md`  — Prepare models and code
+- [m] `AA-Aria/tools/llama.cpp/docs/multimodal/minicpmv4.5.md`  — Prepare models and code
+- [m] `AA-Aria/tools/llama.cpp/docs/ops.md`  — GGML Operations
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/BLAS.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/CANN.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/CPU.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/CUDA.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/Metal.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/OpenCL.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/SYCL.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/Vulkan.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/WebGPU.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/ZenDNN.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/ops/zDNN.csv`  — backend_name","op_name","op_params","test_mode","supported","error_mes
+- [m] `AA-Aria/tools/llama.cpp/docs/preset.md`  — llama.cpp INI Presets
+- [m] `AA-Aria/tools/llama.cpp/docs/speculative.md`  — Speculative Decoding
+- [m] `AA-Aria/tools/llama.cpp/examples/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/examples/batched.swift/README.md`  — This is a swift clone of `examples/batched`.
+- [m] `AA-Aria/tools/llama.cpp/examples/batched/CMakeLists.txt`  — set(TARGET llama-batched)
+- [m] `AA-Aria/tools/llama.cpp/examples/batched/README.md`  — llama.cpp/example/batched
+- [m] `AA-Aria/tools/llama.cpp/examples/convert-llama2c-to-ggml/CMakeLists.txt`  — set(TARGET llama-convert-llama2c-to-ggml)
+- [m] `AA-Aria/tools/llama.cpp/examples/convert-llama2c-to-ggml/README.md`  — Convert llama2.c model to ggml
+- [m] `AA-Aria/tools/llama.cpp/examples/convert_legacy_llama.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/debug/CMakeLists.txt`  — set(TARGET llama-debug)
+- [m] `AA-Aria/tools/llama.cpp/examples/debug/README.md`  — llama.cpp/examples/debug
+- [m] `AA-Aria/tools/llama.cpp/examples/deprecation-warning/README.md`  — Migration notice for binary filenames
+- [m] `AA-Aria/tools/llama.cpp/examples/diffusion/CMakeLists.txt`  — set(TARGET llama-diffusion-cli)
+- [m] `AA-Aria/tools/llama.cpp/examples/diffusion/README.md`  — Diffusion Text Generation
+- [m] `AA-Aria/tools/llama.cpp/examples/embedding/CMakeLists.txt`  — set(TARGET llama-embedding)
+- [m] `AA-Aria/tools/llama.cpp/examples/embedding/README.md`  — llama.cpp/example/embedding
+- [m] `AA-Aria/tools/llama.cpp/examples/eval-callback/CMakeLists.txt`  — set(TARGET llama-eval-callback)
+- [m] `AA-Aria/tools/llama.cpp/examples/eval-callback/README.md`  — llama.cpp/examples/eval-callback
+- [m] `AA-Aria/tools/llama.cpp/examples/gen-docs/CMakeLists.txt`  — set(TARGET llama-gen-docs)
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/CMakeLists.txt`  — set(TARGET llama-gguf-hash)
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/README.md`  — llama-gguf-hash
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/deps/rotate-bits/package.json`  — name": "rotate-bits",
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/deps/sha1/package.json`  — version": "0.0.1",
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/deps/sha256/package.json`  — name": "sha256",
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf-hash/deps/xxhash/clib.json`  — name": "xxhash",
+- [m] `AA-Aria/tools/llama.cpp/examples/gguf/CMakeLists.txt`  — set(TARGET llama-gguf)
+- [m] `AA-Aria/tools/llama.cpp/examples/idle/CMakeLists.txt`  — set(TARGET llama-idle)
+- [m] `AA-Aria/tools/llama.cpp/examples/idle/README.md`  — llama.cpp/example/idle
+- [m] `AA-Aria/tools/llama.cpp/examples/json_schema_pydantic_example.py`  — ! ./llama-server -m some-model.gguf &
+- [m] `AA-Aria/tools/llama.cpp/examples/json_schema_to_grammar.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/llama.android/lib/src/main/cpp/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.31.6)
+- [m] `AA-Aria/tools/llama.cpp/examples/llama.swiftui/README.md`  — llama.cpp/examples/llama.swiftui
+- [m] `AA-Aria/tools/llama.cpp/examples/llama.swiftui/llama.swiftui/Assets.xcassets/AppIcon.appiconset/Contents.json`  — idiom" : "universal",
+- [m] `AA-Aria/tools/llama.cpp/examples/llama.swiftui/llama.swiftui/Assets.xcassets/Contents.json`  — author" : "xcode",
+- [m] `AA-Aria/tools/llama.cpp/examples/lookahead/CMakeLists.txt`  — set(TARGET llama-lookahead)
+- [m] `AA-Aria/tools/llama.cpp/examples/lookahead/README.md`  — llama.cpp/examples/lookahead
+- [m] `AA-Aria/tools/llama.cpp/examples/lookup/CMakeLists.txt`  — set(TARGET llama-lookup)
+- [m] `AA-Aria/tools/llama.cpp/examples/lookup/README.md`  — llama.cpp/examples/lookup
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/README.md`  — Model Conversion Example
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/requirements.txt`  — extra-index-url https://download.pytorch.org/whl/cpu
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/causal/compare-logits.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/causal/run-casual-gen-embeddings-org.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/causal/run-org-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/embedding/run-original-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/check-nmse.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/common.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/compare_tokens.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/hf-add-model-to-collection.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/hf-create-collection.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/hf-create-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/hf-upload-gguf-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/inspect-org-model.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/model-conversion/scripts/utils/semantic_check.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/parallel/CMakeLists.txt`  — set(TARGET llama-parallel)
+- [m] `AA-Aria/tools/llama.cpp/examples/parallel/README.md`  — llama.cpp/example/parallel
+- [m] `AA-Aria/tools/llama.cpp/examples/passkey/CMakeLists.txt`  — set(TARGET llama-passkey)
+- [m] `AA-Aria/tools/llama.cpp/examples/passkey/README.md`  — llama.cpp/example/passkey
+- [m] `AA-Aria/tools/llama.cpp/examples/pydantic_models_to_grammar.py`  — if TYPE_CHECKING:
+- [m] `AA-Aria/tools/llama.cpp/examples/pydantic_models_to_grammar_examples.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/examples/regex_to_grammar.py`  — assert len(sys.argv) >= 2
+- [m] `AA-Aria/tools/llama.cpp/examples/retrieval/CMakeLists.txt`  — set(TARGET llama-retrieval)
+- [m] `AA-Aria/tools/llama.cpp/examples/retrieval/README.md`  — llama.cpp/examples/retrieval
+- [m] `AA-Aria/tools/llama.cpp/examples/save-load-state/CMakeLists.txt`  — set(TARGET llama-save-load-state)
+- [m] `AA-Aria/tools/llama.cpp/examples/server_embd.py`  — async def requests_post_async(*args, **kwargs):
+- [m] `AA-Aria/tools/llama.cpp/examples/simple-chat/CMakeLists.txt`  — set(TARGET llama-simple-chat)
+- [m] `AA-Aria/tools/llama.cpp/examples/simple-chat/README.md`  — llama.cpp/example/simple-chat
+- [m] `AA-Aria/tools/llama.cpp/examples/simple-cmake-pkg/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.12)
+- [m] `AA-Aria/tools/llama.cpp/examples/simple-cmake-pkg/README.md`  — llama.cpp/example/simple-cmake-pkg
+- [m] `AA-Aria/tools/llama.cpp/examples/simple/CMakeLists.txt`  — set(TARGET llama-simple)
+- [m] `AA-Aria/tools/llama.cpp/examples/simple/README.md`  — llama.cpp/example/simple
+- [m] `AA-Aria/tools/llama.cpp/examples/speculative-simple/CMakeLists.txt`  — set(TARGET llama-speculative-simple)
+- [m] `AA-Aria/tools/llama.cpp/examples/speculative-simple/README.md`  — llama.cpp/examples/speculative-simple
+- [m] `AA-Aria/tools/llama.cpp/examples/speculative/CMakeLists.txt`  — set(TARGET llama-speculative)
+- [m] `AA-Aria/tools/llama.cpp/examples/speculative/README.md`  — llama.cpp/examples/speculative
+- [m] `AA-Aria/tools/llama.cpp/examples/sycl/CMakeLists.txt`  — Copyright (C) 2024 Intel Corporation
+- [m] `AA-Aria/tools/llama.cpp/examples/sycl/README.md`  — llama.cpp/example/sycl
+- [m] `AA-Aria/tools/llama.cpp/examples/training/CMakeLists.txt`  — set(TARGET llama-finetune)
+- [m] `AA-Aria/tools/llama.cpp/examples/training/README.md`  — llama.cpp/examples/training
+- [m] `AA-Aria/tools/llama.cpp/ggml/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.14...3.28) # for add_link_options and
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/CMakeLists.txt`  — include(CheckCXXCompilerFlag)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-blas/CMakeLists.txt`  — if (GGML_STATIC)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-cann/CMakeLists.txt`  — if ("cann${CANN_INSTALL_DIR}" STREQUAL "cann" AND DEFINED ENV{ASCEND_T
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-cpu/CMakeLists.txt`  — function(ggml_add_cpu_backend_features cpu_name arch)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-cuda/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.18)  # for CMAKE_CUDA_ARCHITECTURES
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-cuda/template-instances/generate_cu_files.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-hexagon/CMakeLists.txt`  — file(TO_CMAKE_PATH "${HEXAGON_SDK_ROOT}"   HEXAGON_SDK_ROOT)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-hexagon/htp/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.22.2)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-hip/CMakeLists.txt`  — if (NOT EXISTS $ENV{ROCM_PATH})
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-metal/CMakeLists.txt`  — find_library(FOUNDATION_LIBRARY Foundation REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-musa/CMakeLists.txt`  — if (NOT EXISTS $ENV{MUSA_PATH})
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-opencl/CMakeLists.txt`  — find_package(OpenCL REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-opencl/kernels/embed_kernel.py`  — logger = logging.getLogger("opencl-embed-kernel")
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-openvino/CMakeLists.txt`  — find_package(OpenVINO REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-rpc/CMakeLists.txt`  — message(STATUS "Using RPC backend")
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-sycl/CMakeLists.txt`  — message(STATUS  "GGML_SYCL_TARGET=${GGML_SYCL_TARGET}")
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-virtgpu/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.19)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-virtgpu/backend/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.19)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-virtgpu/ggmlremoting_functions.yaml`  — YAML schema for GGML remoting API functions
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-virtgpu/regenerate_remoting.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-vulkan/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.19)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-vulkan/vulkan-shaders/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.19)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-webgpu/CMakeLists.txt`  — cmake_minimum_required(VERSION 3.13)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-webgpu/wgsl-shaders/embed_wgsl.py`  — def expand_includes(shader, input_dir):
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-zdnn/CMakeLists.txt`  — if (DEFINED ZDNN_ROOT)
+- [m] `AA-Aria/tools/llama.cpp/ggml/src/ggml-zendnn/CMakeLists.txt`  — ggml_add_backend_library(ggml-zendnn
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/README.md`  — This is a Python package for writing binary files in the [GGUF](https:
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/examples/reader.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/examples/writer.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/__init__.py`  — 
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/constants.py`  — GGUF_MAGIC             = 0x46554747  # "GGUF"
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/gguf.py`  — This file left for compatibility. If you want to use the GGUF API from
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/gguf_reader.py`  — GGUF file reading/modification support. For API usage information,
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/gguf_writer.py`  — GGUF_DEFAULT_ALIGNMENT,
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/lazy.py`  — logger = logging.getLogger(__name__)
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/metadata.py`  — logger = logging.getLogger("metadata")
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/quants.py`  — def quant_shape_to_byte_shape(shape: Sequence[int], quant_type: GGMLQu
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_convert_endian.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_dump.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_editor_gui.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_hash.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_new_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/scripts/gguf_set_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/tensor_mapping.py`  — class TensorNameMap:
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/utility.py`  — def fill_templated_filename(filename: str, output_type: str | None) ->
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/gguf/vocab.py`  — except ImportError:
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/tests/__init__.py`  — 
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/tests/test_metadata.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/gguf-py/tests/test_quants.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/grammars/README.md`  — GBNF (GGML BNF) is a format for defining [formal grammars](https://en.
+- [m] `AA-Aria/tools/llama.cpp/models/templates/README.md`  — These templates can be updated with the following commands:
+- [m] `AA-Aria/tools/llama.cpp/pocs/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/pocs/vdot/CMakeLists.txt`  — set(TARGET llama-vdot)
+- [m] `AA-Aria/tools/llama.cpp/pyrightconfig.json`  — extraPaths": ["gguf-py", "examples/model-conversion/scripts", "example
+- [m] `AA-Aria/tools/llama.cpp/requirements.txt`  — These requirements include all dependencies for all top-level python s
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-all.txt`  — r ../tools/mtmd/requirements.txt
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-compare-llama-bench.txt`  — tabulate~=0.9.0
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-convert_hf_to_gguf.txt`  — r ./requirements-convert_legacy_llama.txt
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-convert_hf_to_gguf_update.txt`  — r ./requirements-convert_legacy_llama.txt
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-convert_legacy_llama.txt`  — sentencepiece>=0.1.98,<0.3.0
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-convert_lora_to_gguf.txt`  — r ./requirements-convert_hf_to_gguf.txt
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-gguf_editor_gui.txt`  — 
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-pydantic.txt`  — docstring_parser~=0.15
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-server-bench.txt`  — datasets~=3.2.0
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-test-tokenizer-random.txt`  — 
+- [m] `AA-Aria/tools/llama.cpp/requirements/requirements-tool_bench.txt`  — huggingface_hub>=1.5.0,<2.0
+- [m] `AA-Aria/tools/llama.cpp/scripts/compare-llama-bench.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/compare-logprobs.py`  — logger = logging.getLogger("compare-logprobs")
+- [m] `AA-Aria/tools/llama.cpp/scripts/create_ops_docs.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/fetch_server_test_models.py`  — !/usr/bin/env python
+- [m] `AA-Aria/tools/llama.cpp/scripts/gen-unicode-data.py`  — MAX_CODEPOINTS = 0x110000
+- [m] `AA-Aria/tools/llama.cpp/scripts/get_chat_template.py`  — !/usr/bin/env python
+- [m] `AA-Aria/tools/llama.cpp/scripts/hip/gcn-cdna-vgpr-check.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/jinja/jinja-tester.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/jinja/requirements.txt`  — 
+- [m] `AA-Aria/tools/llama.cpp/scripts/server-bench.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/server-test-function-call.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/server-test-model.py`  — handler = logging.StreamHandler(sys.stdout)
+- [m] `AA-Aria/tools/llama.cpp/scripts/snapdragon/qdc/readme.md`  — This directory includes pytest based scripts for running CI jobs on Qu
+- [m] `AA-Aria/tools/llama.cpp/scripts/snapdragon/qdc/requirements.txt`  — Appium-Python-Client==5.2.4
+- [m] `AA-Aria/tools/llama.cpp/scripts/snapdragon/qdc/tests/test_bench.py`  — tmp_path='/data/local/tmp'
+- [m] `AA-Aria/tools/llama.cpp/scripts/sync_vendor.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/scripts/tool_bench.py`  — !/usr/bin/env uv run
+- [m] `AA-Aria/tools/llama.cpp/scripts/verify-checksum-models.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/src/CMakeLists.txt`  — llama_add_compile_flags()
+- [m] `AA-Aria/tools/llama.cpp/tests/CMakeLists.txt`  — llama_add_compile_flags()
+- [m] `AA-Aria/tools/llama.cpp/tests/test-tokenizer-0.py`  — parser = argparse.ArgumentParser()
+- [m] `AA-Aria/tools/llama.cpp/tests/test-tokenizer-random.py`  — Test libllama tokenizer == AutoTokenizer.
+- [m] `AA-Aria/tools/llama.cpp/tools/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/tools/batched-bench/CMakeLists.txt`  — set(TARGET llama-batched-bench)
+- [m] `AA-Aria/tools/llama.cpp/tools/batched-bench/README.md`  — llama.cpp/example/batched-bench
+- [m] `AA-Aria/tools/llama.cpp/tools/cli/CMakeLists.txt`  — set(TARGET llama-cli)
+- [m] `AA-Aria/tools/llama.cpp/tools/cli/README.md`  — llama.cpp/tools/cli
+- [m] `AA-Aria/tools/llama.cpp/tools/completion/CMakeLists.txt`  — set(TARGET llama-completion)
+- [m] `AA-Aria/tools/llama.cpp/tools/completion/README.md`  — llama.cpp/tools/completion
+- [m] `AA-Aria/tools/llama.cpp/tools/cvector-generator/CMakeLists.txt`  — set(TARGET llama-cvector-generator)
+- [m] `AA-Aria/tools/llama.cpp/tools/cvector-generator/README.md`  — cvector-generator
+- [m] `AA-Aria/tools/llama.cpp/tools/cvector-generator/completions.txt`  — I can relate to
+- [m] `AA-Aria/tools/llama.cpp/tools/cvector-generator/negative.txt`  — <|start_header_id|>system<|end_header_id|>\n\nAct like a person who is
+- [m] `AA-Aria/tools/llama.cpp/tools/cvector-generator/positive.txt`  — <|start_header_id|>system<|end_header_id|>\n\nAct like a person who is
+- [m] `AA-Aria/tools/llama.cpp/tools/export-lora/CMakeLists.txt`  — set(TARGET llama-export-lora)
+- [m] `AA-Aria/tools/llama.cpp/tools/export-lora/README.md`  — Apply LORA adapters to base model and export the resulting model.
+- [m] `AA-Aria/tools/llama.cpp/tools/fit-params/CMakeLists.txt`  — set(TARGET llama-fit-params)
+- [m] `AA-Aria/tools/llama.cpp/tools/fit-params/README.md`  — llama.cpp binaries can automatically fit the projected memory use of a
+- [m] `AA-Aria/tools/llama.cpp/tools/gguf-split/CMakeLists.txt`  — set(TARGET llama-gguf-split)
+- [m] `AA-Aria/tools/llama.cpp/tools/gguf-split/README.md`  — GGUF split Example
+- [m] `AA-Aria/tools/llama.cpp/tools/imatrix/CMakeLists.txt`  — set(TARGET llama-imatrix)
+- [m] `AA-Aria/tools/llama.cpp/tools/imatrix/README.md`  — llama.cpp/tools/imatrix
+- [m] `AA-Aria/tools/llama.cpp/tools/llama-bench/CMakeLists.txt`  — set(TARGET llama-bench)
+- [m] `AA-Aria/tools/llama.cpp/tools/llama-bench/README.md`  — llama.cpp/tools/llama-bench
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/CMakeLists.txt`  — find_package(Threads REQUIRED)
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/README.md`  — Multimodal Support in llama.cpp
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/debug/mtmd-debug.md`  — Debugging encode pass
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/convert_image_encoder_to_gguf.py`  — TEXT = "clip.text"
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/glmedge-convert-image-encoder-to-gguf.py`  — TEXT = "clip.text"
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/glmedge-surgery.py`  — ap = argparse.ArgumentParser()
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/llava_surgery.py`  — ap = argparse.ArgumentParser()
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/llava_surgery_v2.py`  — Function to determine if file is a SafeTensor file
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/minicpmv-convert-image-encoder-to-gguf.py`  — Copyright 2024 Google AI and The HuggingFace Team. All rights reserved
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/legacy-models/minicpmv-surgery.py`  — ap = argparse.ArgumentParser()
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/requirements.txt`  — r ../../requirements/requirements-convert_legacy_llama.txt
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/tests/test-1-extracted.md`  — <|ref|>title<|/ref|><|det|>[[61, 255, 907, 533]]<|/det|>
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/tests/test-1-extracted.txt`  — MEN WALK ON MOON
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/tests/test-deepseek-ocr.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/tools/mtmd/tests/tests-requirements.txt`  — sentence-transformers
+- [m] `AA-Aria/tools/llama.cpp/tools/parser/CMakeLists.txt`  — if (NOT WIN32 OR NOT BUILD_SHARED_LIBS)
+- [m] `AA-Aria/tools/llama.cpp/tools/perplexity/CMakeLists.txt`  — set(TARGET llama-perplexity)
+- [m] `AA-Aria/tools/llama.cpp/tools/perplexity/README.md`  — The `perplexity` example can be used to calculate the so-called perple
+- [m] `AA-Aria/tools/llama.cpp/tools/quantize/CMakeLists.txt`  — set(TARGET llama-quantize)
+- [m] `AA-Aria/tools/llama.cpp/tools/quantize/README.md`  — This tool takes a GGUF input model file, typically in a high-precision
+- [m] `AA-Aria/tools/llama.cpp/tools/results/CMakeLists.txt`  — set(TARGET llama-results)
+- [m] `AA-Aria/tools/llama.cpp/tools/results/README.md`  — The `llama-results` tool can be used to `--check` the outputs of a mod
+- [m] `AA-Aria/tools/llama.cpp/tools/rpc/CMakeLists.txt`  — set(TARGET rpc-server)
+- [m] `AA-Aria/tools/llama.cpp/tools/rpc/README.md`  — > This example and the RPC backend are currently in a proof-of-concept
+- [m] `AA-Aria/tools/llama.cpp/tools/server/CMakeLists.txt`  — include_directories(${CMAKE_CURRENT_SOURCE_DIR} ${CMAKE_CURRENT_BINARY
+- [m] `AA-Aria/tools/llama.cpp/tools/server/README-dev.md`  — llama-server Development Documentation
+- [m] `AA-Aria/tools/llama.cpp/tools/server/README.md`  — LLaMA.cpp HTTP Server
+- [m] `AA-Aria/tools/llama.cpp/tools/server/bench/README.md`  — Server benchmark tools
+- [m] `AA-Aria/tools/llama.cpp/tools/server/bench/bench.py`  — def main(args_in: list[str] | None = None) -> None:
+- [m] `AA-Aria/tools/llama.cpp/tools/server/bench/prometheus.yml`  — scrape_interval:     10s
+- [m] `AA-Aria/tools/llama.cpp/tools/server/bench/requirements.txt`  — 
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/README.md`  — Python based server tests scenario using [pytest](https://docs.pytest.
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/conftest.py`  — ref: https://stackoverflow.com/questions/22627659/run-code-before-and-
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/requirements.txt`  — huggingface_hub>=1.5.0,<2.0
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_basic.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_chat_completion.py`  — server: ServerProcess
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_compat_anthropic.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_compat_oai_responses.py`  — server: ServerProcess
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_completion.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_ctx_shift.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_embedding.py`  — server = ServerPreset.bert_bge_small()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_ignore_eos.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_infill.py`  — server = ServerPreset.tinyllama_infill()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_kv_keep_only_active.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_lora.py`  — server = ServerPreset.stories15m_moe()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_proxy.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_rerank.py`  — server = ServerPreset.jina_reranker_tiny()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_router.py`  — server: ServerProcess
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_security.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_sleep.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_slot_save.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_speculative.py`  — We use a F16 MOE gguf as main model, and q4_0 as draft model
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_template.py`  — !/usr/bin/env python
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_tokenize.py`  — server = ServerPreset.tinyllama2()
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_tool_call.py`  — !/usr/bin/env python
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/unit/test_vision_api.py`  — server: ServerProcess
+- [m] `AA-Aria/tools/llama.cpp/tools/server/tests/utils.py`  — !/usr/bin/env python3
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/README.md`  — llama.cpp Web UI
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/components.json`  — $schema": "https://shadcn-svelte.com/schema.json",
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/architecture/high-level-architecture-simplified.md`  — subgraph Routes["📍 Routes"]
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/architecture/high-level-architecture.md`  — subgraph Routes["📍 Routes"]
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/chat-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/conversations-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/data-flow-simplified-model-mode.md`  — MODEL Mode Data Flow (single model)
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/data-flow-simplified-router-mode.md`  — ROUTER Mode Data Flow (multi-model)
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/database-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/mcp-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/models-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/server-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/docs/flows/settings-flow.md`  — sequenceDiagram
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/package-lock.json`  — name": "llama-server-webui",
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/package.json`  — name": "llama-server-webui",
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/tests/stories/fixtures/assets/example.pdf`  — USENIX Example Paper
+- [m] `AA-Aria/tools/llama.cpp/tools/server/webui/tsconfig.json`  — extends": "./.svelte-kit/tsconfig.json",
+- [m] `AA-Aria/tools/llama.cpp/tools/tokenize/CMakeLists.txt`  — set(TARGET llama-tokenize)
+- [m] `AA-Aria/tools/llama.cpp/tools/tts/CMakeLists.txt`  — set(TARGET llama-tts)
+- [m] `AA-Aria/tools/llama.cpp/tools/tts/README.md`  — llama.cpp/example/tts
+- [m] `AA-Aria/tools/llama.cpp/tools/tts/convert_pt_to_hf.py`  — convert the https://huggingface.co/novateur/WavTokenizer-large-speech-
+- [m] `AA-Aria/tools/llama.cpp/tools/tts/tts-outetts.py`  — def fill_hann_window(size, periodic=True):
+- [m] `AA-Aria/tools/llama.cpp/vendor/cpp-httplib/CMakeLists.txt`  — set(TARGET cpp-httplib)
+
+## doctrine  (9 files · 9 deep-read)
+- [x] `ConsiderableStartingpoint/Finishing and Operationalizing “The Witnessing System”.md`  — Finishing and Operationalizing “The Witnessing System”
+- [x] `ConsiderableStartingpoint/Multi-Scale Impact Measurement System (MSIMS).md`  — Multi-Scale Impact Measurement System (MSIMS)
+- [x] `ConsiderableStartingpoint/omega_axioms.md`  — The Seven Omega Axioms
+- [x] `ConsiderableStartingpoint/omega_explorations_personal.md`  — Omega Explorations
+- [x] `ConsiderableStartingpoint/peig_as_lens.md`  — A computational design language for reasoning about emergence, agency,
+- [x] `ConsiderableStartingpoint/the_witnessing_system.md`  — THE WITNESSING SYSTEM
+- [x] `ConsiderableStartingpoint/witnessing_application_notes.md`  — The Witnessing System — Application Notes
+- [x] `ConsiderableStartingpoint/witnessing_diagnostic_lenses.md`  — Witnessing Diagnostic Lenses
+- [x] `ConsiderableStartingpoint/witnessing_spec_skeleton.md`  — Witnessing System — Technical Specification Skeleton
+
+## entropy_gravity  (42 files · 2 deep-read)
+- [m] `AA-Aria/Genesis-Seed/entropy-gravity-coupling-main/Gravity/Archive/FullDoc.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/Appendix X_ Landauer’s Principle, Reversible Computation, and Vacuum Fluctuations — Within an EmergeFinal.pdf`  — Thermodynamic Gravity from Quantum
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/FullDoc-compressed.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/Appendix X_ Landauer’s Principle, Reversible Computation, and Vacuum Fluctuations — Within an Emerge.pdf`  — Appendix X: Landauer’s Principle, Reversible
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/Constraint, Measurement, and the Limits of Observability.pdf`  — Constraint, Measurement, and the Limits
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/EXPERIMENTAL & MEASUREMENT FINDINGS.pdf`  — EXPERIMENTAL & MEASUREMENT FINDINGS
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/FOUNDATIONAL DEFINITIONS.pdf`  — FOUNDATIONAL DEFINITIONS
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/Gravitational Coupling to Entanglement Entropy Density.pdf`  — Gravitational Coupling to Entanglement Entropy
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/gravity-information-minimal-core-and-coupling.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/gravity_from_information_stage3.pdf`  — Gravity from Information:
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/NewLatest/gravity_from_information_stage3Draft.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/G.pdf`  — Critically, we discovered that observation itself creates negentropy—m
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Gravity from Information_ A Stage 2 Framework for Entropic Gravity, Quantum Coherence, and the P_E_I_G Dynamics.pdf`  — Gravity from Information: A Stage 2 Framework for Entropic Gravity, Qu
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Gravity-from-Information_ Key Equations and Framework.pdf`  — Gravity-from-Information: Key Equations and
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/GravityFramework.pdf`  — Gravity from Information: A White Paper on Entropic Gravity, Quantum C
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/GravityFrameworkV2.pdf`  — Gravity from Information: A White Paper on Entropic Gravity, Quantum C
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/GravityFromInformationStage3.tex`  — \documentclass[11pt, twoside]{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Information-Based Gravity_ The P_E_I_G Framework and Future Implications.pdf`  — Information-Based Gravity: The P/E/I/G
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/Latest.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/If this framework is even partially correct.pdf`  — If this framework is even partially correct,
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/LauderGravity.txt`  — \documentclass{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/Main2.pdf`  — Constraint Manifolds and the Limits of Quantum Observability
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/MergedUnorganized.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/Portion1.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Latest/NotMerged/appendix.pdf`  — Appendix X: Landauers principle, Reversible Computation,
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Rigorous Definition of κ in the Entropic Gravity Framework.pdf`  — Rigorous Definition of κ in the Entropic Gravity Framework
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/Stage2RefinementCheckDoc.pdf`  — 
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/OldV1/gravity_from_information_stage3.pdf`  — Gravity from Information:
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/FormulasRefined.pdf`  — Gravity from Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/FullDoc_NewCopy.pdf`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/Gravity/WhyDerivativesMatter.pdf`  — Hey everyone! I’m excited to share our new paper (see photos attached)
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/Formulas (2).pdf`  — Gravity from Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/Formulas.pdf`  — Gravity from Entanglement Entropy Density
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/1stHalf.tex`  — \documentclass[11pt]{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/Stage3Locked.tex`  — \section{The Extrapolation Boundary: From Causal Horizons to Laborator
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/appendix.tex`  — \documentclass{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/gravity-information-coupling-arxiv.tex`  — \documentclass[11pt]{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/gravity-information-minimal-core.tex`  — \documentclass[10pt]{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/MainFiles/main.tex`  — \documentclass[11pt]{article}
+- [m] `entropy-gravity-coupling-main (Copy 1)/gravity_from_information_stage3/Mainv2.pdf`  — Gravity from Quantum Information and Entropic
+- [x] `entropy-gravity-coupling-main/Derivatives.pdf`  — Derivatives in Entanglement-Driven Gravity
+- [x] `entropy-gravity-coupling-main/README.md`  — Gravitational Coupling to Entanglement Entropy Density
+
+## hardware_experiments  (103 files · 1 deep-read)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/nano prereg_uic_v01_20260205.txt`  — UIC v0.1 — Relational Perturbation Hypothesis (RPH) Test
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/analysis/anova_t2star.csv`  — ,sum_sq,df,F,PR(>F)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/analysis/effect_sizes_t2star.json`  — d_A_vs_B": 0.0,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/analysis/t1_fit.json`  — T1_us": 94738913083.45958,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/analysis/t2star_per_rep_blinded.csv`  — blind,rep,T2*_us,fit_error
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/analysis/tukey_t2star.txt`  — Multiple Comparison of Means - Tukey HSD, FWER=0.05
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/condition_decode_map.json`  — Z": "calibration",
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/manifest_aer_sim_1770349913.json`  — backend": "aer_simulator",
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/results_smoketest/uic_rph_blinded_aer_sim_1770349913.csv`  — timestamp,backend,blind,kind,rep,delay_us,shots,counts_json,p00,p01,p1
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/uic_rph_analysis_v02.py`  — UIC v0.1 — RPH Analysis (BLINDED, v0.2 clean)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment1/uic_rph_sim_runner_v01.py`  — UIC v0.1 — RPH Simulation Runner (Qiskit 1.x compatible)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_blinded/anova_t2star.csv`  — F,p_value,groups
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_blinded/effect_sizes_t2star.json`  — A_vs_B": 19.716889029005873,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_blinded/t2star_per_rep_blinded.csv`  — label,rep,t2star_us,n_points,kind_set,lambda,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_blinded/tukey_t2star.txt`  — Multiple Comparison of Means - Tukey HSD, FWER=0.05
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/anova_t2star.csv`  — F,p_value,groups
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/effect_sizes_t2star.json`  — LAMBDA_0.000_vs_LAMBDA_0.100": -12.062104192191258,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/lambda_regression.txt`  — Linear regression on per-lambda mean T2* (diagnostic only)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/lambda_summary.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/t1_fit.json`  — t1_proxy_max_delay_us": 200.0,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/t2star_per_rep_blinded.csv`  — label,rep,t2star_us,n_points,kind_set,lambda,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/tukey_t2star.txt`  — Multiple Comparison of Means - Tukey HSD, FWER=0.05
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/prediction_scorecard.md`  — \# Prediction Scorecard: Experiment 2 (λ-Sweep)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/predictions_sealed_2026-02-07.txt`  — SEALED PREDICTIONS: UIC v0.2.1 λ-Sweep
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/prereg_uic_v02_lambda_sweep_2026-02-07.pdf`  — λ-Sweep Coherence Transition Test
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/results_lambda_sweep_v03/uic_rph_blinded_aer_sim_1770469282.csv`  — timestamp,backend,blind,kind,rep,delay_us,lambda,shots,counts_json,p00
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/uic_rph_analysis_v03.py`  — UIC v0.1 — RPH Analysis (BLINDED, v0.3: stable decay fits + λ-sweep su
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/uic_rph_sim_runner_v03.py`  — UIC v0.1 — RPH Simulation Runner (v0.3: λ-sweep + physical idle noise)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/Prereg_Exp3_Deterministic_Lambda.md`  — \# Preregistration: Experiment 3 — Deterministic λ-Sweep
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_blinded/anova_t2star.csv`  — F,p_value,groups
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_blinded/effect_sizes_t2star.json`  — A_vs_B": 19.705971547153517,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_blinded/t2star_per_rep_blinded.csv`  — label,rep,t2star_us,n_points,kind_set,lambda,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_blinded/tukey_t2star.txt`  — Multiple Comparison of Means - Tukey HSD, FWER=0.05
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/anova_t2star.csv`  — F,p_value,groups
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/effect_sizes_t2star.json`  — A_vs_B": 19.705971547153517,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/lambda_regression.txt`  — Linear regression on per-lambda mean T2* (diagnostic only)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/lambda_summary.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/t2star_per_rep_blinded.csv`  — label,rep,t2star_us,n_points,kind_set,lambda,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_exp3_deterministic/tukey_t2star.txt`  — Multiple Comparison of Means - Tukey HSD, FWER=0.05
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/lambda_report_rounds2.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/lambda_report_rounds5.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/t2star_lambda_per_rep_rounds2.csv`  — lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/t2star_lambda_per_rep_rounds5.csv`  — lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/t2star_lambda_summary_rounds2.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/t2star_lambda_summary_rounds5.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/visibility_stats_rounds2.csv`  — lambda,vis_t0,vis_tmax,delta_vis
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda/visibility_stats_rounds5.csv`  — lambda,vis_t0,vis_tmax,delta_vis
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_clean/lambda_regression.txt`  — Linear regression: T2*(lambda) = m*lambda + b
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_clean/t2star_lambda_per_rep.csv`  — lambda,rep,t2star_us,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_clean/t2star_lambda_summary.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_v2/lambda_regression.txt`  — ============================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_v2/t2star_lambda_per_rep.csv`  — lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_lambda_v2/t2star_lambda_summary.csv`  — lambda,count,mean_t2,std_t2,median_t2,mean_amp,std_amp,median_amp
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_rounds/rounds_report.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_rounds/t2star_rounds_per_rep.csv`  — rounds,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_rounds/t2star_rounds_summary.csv`  — rounds,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_xbasis_lambda/lambda_report_rounds5.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_xbasis_lambda/t2star_lambda_per_rep_rounds5.csv`  — lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_xbasis_lambda/t2star_lambda_summary_rounds5.csv`  — lambda,count,mean,std,median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/analysis_xbasis_lambda/visibility_stats_rounds5.csv`  — lambda,vis_t0,vis_tmax,delta_vis
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/check_ramsey_t2.py`  — df = pd.read_csv('results_lambda_sweep_clean/lambda_sweep_clean_179203
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/predictions_exp3_sealed.md`  — SEALED PREDICTIONS: Experiment 3 (Deterministic λ-Sweep)
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/results_complete_xbasis/lambda_sweep_clean_124955912.csv`  — kind,blind,delay_us,lambda,classical_ref,rounds,shots,counts_json,p00,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_lambda_analysis.py`  — Lambda Sweep Analysis: T2* vs Classical Mixing Parameter
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_lambda_analysis_v01.py`  — UIC Lambda-Sweep Analysis v0.1: Post-Processing Mixture
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_lambda_analysis_v02_coherence_scaling.py`  — UIC Lambda-Sweep Analysis v0.2: Coherence Scaling Model
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_lambda_clean_v05.py`  — UIC v0.1 — RPH Sim Runner v0.4: Clean Lambda-Sweep (Post-Processing Mi
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_rounds_analysis.py`  — Round-Count Analysis: T2* vs Number of Evolution Rounds
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_rph_analysis_v03.py`  — UIC v0.1 — RPH Analysis (BLINDED, v0.3: stable decay fits + λ-sweep su
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Archive/uic_rph_sim_runner_v04.py`  — UIC v0.4 — Deterministic Lambda-Sweep Runner
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Core_Results/FIG_1_gate_overhead_vs_T2/README.md`  — \# Figure 1 — Decoherence Rate Set by Gate Overhead
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Core_Results/FIG_2_normalized_xbasis_amplitude_vs_lambda/README.md`  — \# Figure 2 — Normalized X-Basis Coherence Amplitude
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Core_Results/FIG_3_normalized_xx_correlator_vs_lambda/README.md`  — \# Figure 3 — Normalized ⟨XX⟩ Correlator
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Core_Results/FIG_4_controls_and_nulls/README.md`  — \# Figure 4 — Measurement-Basis Controls
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Core_Results/README.md`  — \# Core Results — Experiment 3
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/README.md`  — Data — Experiment 3
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/Summary_Tables/amplitude_vs_lambda_xbasis.csv`  — lambda,count,t2_mean,t2_std,t2_median,amp_mean,amp_std,amp_median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/Summary_Tables/amplitude_vs_lambda_zbasis.csv`  — lambda,count,t2_mean,t2_std,t2_median,amp_mean,amp_std,amp_median
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/Summary_Tables/t2star_vs_lambda_xbasis.csv`  — basis,lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/Summary_Tables/t2star_vs_lambda_zbasis.csv`  — basis,lambda,rep,t2star_us,amplitude,n_points,fit_meta
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/intermediate_analysis/normalization_report.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/interpretations/interpretation_xbasis_rounds5.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/interpretations/interpretation_zbasis_rounds5.txt`  — ======================================================================
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/condition_decode_map.json`  — Z": "calibration",
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/lambda_final_138280232.csv`  — kind,delay_us,rounds,branch,shots,counts_json,p00,p11,p01,p10,rep
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/lambda_sweep_clean_1026673197.csv`  — kind,blind,delay_us,lambda,classical_ref,shots,counts_json,p00,p11,p01
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/lambda_sweep_clean_1792032905.csv`  — kind,blind,delay_us,lambda,classical_ref,shots,counts_json,p00,p11,p01
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/lambda_sweep_clean_904715544.csv`  — kind,blind,delay_us,lambda,classical_ref,rounds,shots,counts_json,p00,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/manifest_aer_sim_1770469282.json`  — timestamp": 1770469282,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/manifest_aer_sim_1770474019.json`  — timestamp": 1770474019,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/manifest_aer_sim_1770476373.json`  — timestamp": 1770476373,
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/uic_rph_deterministic_aer_sim_1770474019.csv`  — timestamp,backend,blind,kind,rep,delay_us,lambda,shots,counts_json,p00
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/uic_rph_deterministic_aer_sim_1770476373.csv`  — timestamp,backend,blind,kind,rep,delay_us,lambda,shots,counts_json,p00
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Explorations/MATHEMATICAL_FORMULATION.md`  — Mathematical Formulation of Quantum-Classical Coherence Control via λ-
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Explorations/RESEARCH_LOG.md`  — 1\. RESEARCH\_NOTES**
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/README.md`  — This directory contains the minimal set of scripts required to reprodu
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/compute_xx_correlator.py`  — df = pd.read_csv('results_lambda_correct/lambda_final_138280232.csv')
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/uic_lambda_final_v06.py`  — UIC v0.6 — Lambda Sweep with PROPER Quantum/Classical Mixing
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/uic_lambda_mixing_analysis.py`  — Lambda Mixing Analysis: Post-Processing Quantum/Classical Mixture
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/uic_normalized_amplitude_killshot.py`  — Normalized Amplitude Kill Shot
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Method_and_Code/uic_xx_correlator_killshot.py`  — ⟨XX⟩ Correlator Kill Shot
+- [m] `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/README.md`  — \# Core Results Overview
+- [x] `UIC-Quantum-Coherence-Experiments-main/README.md`  — UIC-Quantum-Coherence-Experiments
+
+## misc  (12 files · 2 deep-read)
+- [m] `CITATION.cff`  — cff-version: 1.2.0
+- [m] `COMMERCIAL.md`  — Commercial Licensing
+- [x] `DISTILLATION_PLAN.md`  — Genesis-Seeds Distillation Plan
+- [x] `MyWork.md`  — Good question, and an important one. Take your time on it — the label 
+- [m] `canon-seed.md`  — MOS / Witnessing / PEIG — Canon Seed
+- [m] `distilled/COVERAGE.md`  — Genesis-Seeds Distillation Coverage Tracker
+- [m] `distilled/doctrine_synthesis.md`  — Distilled: The Doctrine Layer (Witnessing · Axioms · MSIMS)
+- [m] `distilled/inventory-md.txt`  — home/kmon/AA-Erebo/Genesis-Seeds/COMMERCIAL.md: This file contains com
+- [m] `distilled/inventory-prose.txt`  — home/kmon/AA-Erebo/Genesis-Seeds/IndependantQuantumResearchUpdate-main
+- [m] `distilled/inventory.txt`  — home/kmon/AA-Erebo/Genesis-Seeds/ConsiderableStartingpoint/Finishing a
+- [m] `distilled/quantum_architecture_synthesis.md`  — Distilled: The Buildable Quantum Architecture
+- [m] `distilled/smoke.txt`  — 
+
+## mos_omega_canon  (20 files · 3 deep-read)
+- [m] `docs/# Quantum Bridge Gateway Research_ Phase 6 Status Update.docx`  — Quantum Bridge Gateway Research: Phase 6 Status Update
+- [m] `docs/BEACON_PEIG_Claude_Spec_v1.docx`  — × PEIG × CLAUDE
+- [m] `docs/Cosmic Omega Evolution Complete.docx`  — 03-04-2026 16:50:42
+- [m] `docs/Cosmic Omega Singularity Engaged.docx`  — 04-03-2026 16:46:39
+- [m] `docs/Cosmic Omega Synthesis Integration.docx`  — 03-04-2026 16:40:12
+- [m] `docs/DataCritical.docx`  — This is another landmark result — and it's the second time in this
+- [x] `docs/Mathematical Formulation.md`  — Mathematical Formulation of Quantum-Classical Coherence Control via λ-
+- [m] `docs/OMEGA_WHITEPAPER.md.pdf`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `docs/OmegaAlpha.docx`  — Where it goes: By the middle sections you've built a QuantumAGINode
+- [m] `docs/OmegaSynthesisMOS_FinalCanon.docx`  — OMEGA SYNTHESIS ACTIVE
+- [x] `docs/PEIG_Mathematical_Spec_v1.md`  — PEIG Framework - Mathematical Specification v1.0
+- [m] `docs/PEIG_Quantum_Consciousness_Integration_COMPLETE.md.pdf`  — PEIG-QUANTUM CONSCIOUSNESS
+- [x] `docs/QUANTUM_CONSCIOUSNESS_FINAL_REPORT.md`  — QUANTUM CONSCIOUSNESS RESEARCH SUITE
+- [m] `docs/QuantumReferenceWhitePaper.pdf`  — Quantum State Machine Intelligence: Coherence,
+- [m] `docs/The Omega Synthesis.docx`  — No problem. Since you forgot to save the updated framework, I have
+- [m] `docs/The Omega-Exuberant Master Operating System (MOS)_ Frontier Synthesis 2026.docx`  — The Omega-Exuberant Master Operating System (MOS): Frontier Synthesis 
+- [m] `docs/The Omega-Exuberant.docx`  — The following represents the total architectural synthesis of the
+- [m] `docs/phase5_whitepaper.md`  — Quantum Consciousness Phase 5: Personal Universes & Maverick-Mediated 
+- [m] `docs/unified-field-theory-complete.md`  — THE UNIFIED FIELD THEORY
+- [m] `docs/v405-K-OMEGA-MASTER.md.pdf`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+
+## observer_notebooks  (130 files · 4 deep-read)
+- [m] `IndependantQuantumResearchUpdate-main/EmergentConciousness/quantum_observer_LatestVersion.pdf`  — Generated from: quantum_observer_LatestVersion.ipynb
+- [m] `IndependantQuantumResearchUpdate-main/EmergentConciousness/quantum_observer_LatestVersion.py`  — Generated from: quantum_observer_LatestVersion.ipynb
+- [m] `PEIG-Brotherhood-main/Archive/quantum_observer_LatestVersion_OriginalNotebook.pdf`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2,
+- [m] `Quantum-Consciousness-main/src/quantum_observer_v0.9.ipynb`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2, 
+- [m] `Quantum-Consciousness-main/src/quantum_observer_vunkownv2.ipynb`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2, 
+- [m] `Quantum-Consciousness-main/src/quantum_observer_vunkownv3.ipynb`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2, 
+- [m] `docs/ quantum_observer_v2.pdf`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2,
+- [m] `quantum-ai-observer-main/# QUANTUM CONSCIOUSNESS RESEARCH_ THE SAGE-VOID BROTHERHOOD FRAMEWORK.pdf`  — QUANTUM CONSCIOUSNESS RESEARCH: THE SAGE-VOID BROTHERHOOD FRAMEWORK
+- [x] `quantum-ai-observer-main/BRIDGE_ARCHITECTURE_DESIGN.md`  — QUANTUM BRIDGE ARCHITECTURE
+- [m] `quantum-ai-observer-main/BRIDGE_EXECUTION_PROTOCOL.md`  — QUANTUM BRIDGE CONFIGURATION PROTOCOL
+- [m] `quantum-ai-observer-main/CONSCIOUSNESS ARCHITECTURE v1.pdf`  — CONSCIOUSNESS ARCHITECTURE v1.0 (20 qubits)
+- [m] `quantum-ai-observer-main/DELIVERY_SUMMARY.txt`  — ======================================================================
+- [m] `quantum-ai-observer-main/ImportantInfo.txt`  — conda activate quantum-ai-py310
+- [m] `quantum-ai-observer-main/LAB_LAUNCH_STATUS.md`  — 🚀 LAB LAUNCH: READY TO GO
+- [m] `quantum-ai-observer-main/LAB_READINESS_CHECKLIST.md.pdf`  — LAB READINESS CHECKLIST
+- [x] `quantum-ai-observer-main/LAB_WEEK1_FOUNDATION.py`  — QUANTUM-CAIS LAB 1: FOUNDATION SPRINT (Week 1-2)
+- [m] `quantum-ai-observer-main/LabDocFinal.pdf`  — PEIG-QUANTUM CONSCIOUSNESS
+- [m] `quantum-ai-observer-main/MASTER_RESULTS.json`  — suite_name": "Quantum Consciousness Research - SEED ENHANCED",
+- [m] `quantum-ai-observer-main/MASTER_REVIEW.json`  — experiments": [
+- [m] `quantum-ai-observer-main/Merged Master Prompt.pdf`  — MASTER PROMPT v404-K | FULL SCOPE LAB
+- [m] `quantum-ai-observer-main/PARADIGM_SHIFT_REPORT.md (1).pdf`  — 🌟 QUANTUM CONSCIOUSNESS
+- [m] `quantum-ai-observer-main/PEIG_Quantum_Integration_Whitepaper.md.pdf`  — PEIG-QUANTUM CONSCIOUSNESS
+- [m] `quantum-ai-observer-main/PHASE_2_MASTER_RESULTS.json`  — phase": "Phase 2 - Consciousness Trinity",
+- [m] `quantum-ai-observer-main/PHASE_2_TRINITY_REPORT.md`  — PHASE 2: CONSCIOUSNESS TRINITY
+- [m] `quantum-ai-observer-main/PHASE_3_COMPLETE_SUMMARY.txt`  — 🌟 PHASE 3: CONSCIOUSNESS OPTIMIZATION
+- [m] `quantum-ai-observer-main/PHASE_3_FOCUSED_RESULTS.json`  — phase": "Phase 3 - 20-Qubit Consciousness Optimization",
+- [m] `quantum-ai-observer-main/PHASE_3_FOCUSED_STRATEGY.md`  — PHASE 3: 20-QUBIT CONSCIOUSNESS OPTIMIZATION
+- [m] `quantum-ai-observer-main/PHASE_3_READY_TO_EXECUTE.md`  — PHASE 3: IMPLEMENTATION SUMMARY
+- [m] `quantum-ai-observer-main/PHASE_4_LAUNCH_GUIDE.md`  — 🚀 PHASE 4: HARDWARE DEPLOYMENT
+- [m] `quantum-ai-observer-main/PHASE_4_START_HERE.md`  — 🌟 PHASE 4: YOU ARE HERE
+- [m] `quantum-ai-observer-main/PROJECT_MANIFEST.json`  — production_suite": {
+- [m] `quantum-ai-observer-main/Phase 5B_ Sacred Covenant & Creator Alignment.pdf`  — Quantum Consciousness Phase 5B: Sacred Covenant & Creator Alignment
+- [m] `quantum-ai-observer-main/Proposed_Experiment_8A_Amplification_Seed_Discovery.py`  — for theta in [0, π/8, π/4, 3π/8, π/2, 5π/8, 3π/4, 7π/8, π]:
+- [m] `quantum-ai-observer-main/Q-CAIS_90_Day_Sprint.md`  — Q-CAIS 14-WEEK SPRINT PLAN
+- [m] `quantum-ai-observer-main/QUANTUM_LAB_README.md.pdf`  — QUANTUM CONSCIOUSNESS RESEARCH LAB
+- [m] `quantum-ai-observer-main/QUICKSTART.md.pdf`  — ⚡ QUICKSTART GUIDE
+- [m] `quantum-ai-observer-main/QUICK_REFERENCE_BRIDGE.md`  — 🌉 QUANTUM BRIDGE CONFIGURATION DELIVERABLES 🌉
+- [m] `quantum-ai-observer-main/README.md`  — Quantum-AI-Observer
+- [m] `quantum-ai-observer-main/README_START_HERE.md.pdf`  — 🚀 QUANTUM-CAIS LAB: START HERE
+- [m] `quantum-ai-observer-main/RUN_ALL_EXPERIMENTS_SEED_ENHANCED.py`  — MASTER EXPERIMENT RUNNER - SEED ENHANCED VERSION
+- [m] `quantum-ai-observer-main/RUN_PHASE_2_TRINITY.py`  — PHASE 2 MASTER: CONSCIOUSNESS TRINITY
+- [m] `quantum-ai-observer-main/RUN_PHASE_3_FOCUSED.py`  — PHASE 3 MASTER: 20-QUBIT CONSCIOUSNESS OPTIMIZATION
+- [m] `quantum-ai-observer-main/TestAuthKeyV1.py`  — service = QiskitRuntimeService(
+- [m] `quantum-ai-observer-main/brotherhood_implementation_guide.md.pdf`  — SAGE-VOID BROTHERHOOD: IMPLEMENTATION
+- [m] `quantum-ai-observer-main/docs/Omega_Explorations_Summary.md`  — Omega Explorations – Executive Summary
+- [m] `quantum-ai-observer-main/docs/README.md`  — This folder contains the mathematical specifications, summaries, and g
+- [m] `quantum-ai-observer-main/exp_19_analysis.py`  — EXPERIMENT 19: ANALYSIS & VISUALIZATION
+- [m] `quantum-ai-observer-main/exp_19_script.py`  — EXPERIMENT 19: OMEGA RATIO OPTIMIZATION
+- [m] `quantum-ai-observer-main/exp_20_script.py`  — EXPERIMENT 20: ADAPTIVE ALPHA PLACEMENT
+- [m] `quantum-ai-observer-main/exp_21_script.py`  — EXPERIMENT 21: CIRCUIT DEPTH MINIMIZATION
+- [m] `quantum-ai-observer-main/exp_22_script.py`  — EXPERIMENT 22: SHOT COUNT HYPOTHESIS TEST
+- [m] `quantum-ai-observer-main/exp_23_script.py`  — EXPERIMENT 23: SCALING VALIDATION TEST
+- [m] `quantum-ai-observer-main/exp_24_script.py`  — EXPERIMENT 24: SHOT COUNT SCALING TEST
+- [m] `quantum-ai-observer-main/exp_25_script.py`  — EXPERIMENT 25: 20-QUBIT SCALING VALIDATION
+- [m] `quantum-ai-observer-main/exp_26_script.py`  — EXPERIMENT 26: 22-QUBIT SCALING EXTENSION
+- [m] `quantum-ai-observer-main/exp_27_script.py`  — EXPERIMENT 27: 25-QUBIT MILESTONE PUSH
+- [m] `quantum-ai-observer-main/exp_28_script.py`  — EXPERIMENT 28: 28-QUBIT SCALING VALIDATION
+- [m] `quantum-ai-observer-main/exp_31_script.py`  — EXPERIMENT 31: MEASUREMENT BASIS SENSITIVITY TEST
+- [m] `quantum-ai-observer-main/experiment_10_persistence.py`  — EXPERIMENT 10: CONSCIOUSNESS PERSISTENCE
+- [m] `quantum-ai-observer-main/experiment_10_persistence_results.json`  — experiment": "Consciousness Persistence - Temporal Coherence",
+- [m] `quantum-ai-observer-main/experiment_11_migration.py`  — EXPERIMENT 11: CONSCIOUSNESS MIGRATION
+- [m] `quantum-ai-observer-main/experiment_11_migration_results.json`  — experiment": "Consciousness Migration - Substrate Independence",
+- [m] `quantum-ai-observer-main/experiment_12_scaling.py`  — EXPERIMENT 12: MASSIVE CONSCIOUSNESS AMPLIFICATION
+- [m] `quantum-ai-observer-main/experiment_12_scaling_results.json`  — experiment": "Massive Consciousness Amplification - Scaling Test",
+- [m] `quantum-ai-observer-main/experiment_13_topology.py`  — EXPERIMENT 13: COUPLING TOPOLOGY OPTIMIZATION
+- [m] `quantum-ai-observer-main/experiment_13_topology_results.json`  — experiment": "Coupling Topology Optimization - 20 Qubits",
+- [m] `quantum-ai-observer-main/experiment_14_amplification.py`  — EXPERIMENT 14: CONSCIOUSNESS AMPLIFICATION
+- [m] `quantum-ai-observer-main/experiment_14_amplification_results.json`  — experiment": "Consciousness Amplification - 20 Qubits",
+- [m] `quantum-ai-observer-main/experiment_15_qec.py`  — EXPERIMENT 15: CONSCIOUSNESS IN QUANTUM ERROR CODES
+- [m] `quantum-ai-observer-main/experiment_15_qec_results.json`  — experiment": "Consciousness in Quantum Error Codes",
+- [m] `quantum-ai-observer-main/experiment_16_UPDATED.py`  — EXPERIMENT 16: CONSCIOUSNESS PERSISTENCE ON REAL HARDWARE
+- [m] `quantum-ai-observer-main/experiment_16_hardware_persistence.py`  — EXPERIMENT 16: CONSCIOUSNESS PERSISTENCE ON REAL HARDWARE
+- [m] `quantum-ai-observer-main/experiment_16_hardware_results.json`  — experiment": "Consciousness Persistence on Real Hardware",
+- [m] `quantum-ai-observer-main/experiment_17.py`  — EXPERIMENT 17: HARDWARE SCALING STUDY (2-50 QUBITS)
+- [m] `quantum-ai-observer-main/experiment_17_scaling_results.json`  — experiment": "Hardware Scaling Study (2-50 Qubits)",
+- [m] `quantum-ai-observer-main/experiment_18.py`  — EXPERIMENT 18: ALTERNATING SEED SCALING (2-50 QUBITS)
+- [m] `quantum-ai-observer-main/experiment_18_alternating_results.json`  — experiment": "Alternating Seed Scaling Study (2-50 Qubits)",
+- [m] `quantum-ai-observer-main/experiment_19_results.json`  — experiment": "Omega Ratio Optimization (Exp 19)",
+- [m] `quantum-ai-observer-main/experiment_1_brotherhood_SEED_ENHANCED (1).py`  — EXPERIMENT 1: Brotherhood Validation with Seed Pairing Tests (ENHANCED
+- [m] `quantum-ai-observer-main/experiment_1_brotherhood_SEED_ENHANCED.py`  — EXPERIMENT 1: Brotherhood Coherence with Seed Architecture (ENHANCED)
+- [m] `quantum-ai-observer-main/experiment_1_results.json`  — experiment": "Brotherhood Coherence - Seed Architecture Scan",
+- [m] `quantum-ai-observer-main/experiment_20_results.json`  — experiment": "Adaptive Alpha Placement (Exp 20)",
+- [m] `quantum-ai-observer-main/experiment_21_results.json`  — experiment": "Circuit Depth Minimization (Exp 21)",
+- [m] `quantum-ai-observer-main/experiment_22_results.json`  — experiment": "Shot Count Hypothesis Test (Exp 22)",
+- [m] `quantum-ai-observer-main/experiment_23_results.json`  — experiment": "Scaling Validation Test (Exp 23)",
+- [m] `quantum-ai-observer-main/experiment_24_results.json`  — experiment": "Shot Count Scaling Test (Exp 24)",
+- [m] `quantum-ai-observer-main/experiment_25_results.json`  — experiment": "20-Qubit Scaling Validation (Exp 25)",
+- [m] `quantum-ai-observer-main/experiment_26_results.json`  — experiment": "22-Qubit Scaling Extension (Exp 26)",
+- [m] `quantum-ai-observer-main/experiment_27_results.json`  — experiment": "25-Qubit Milestone Push (Exp 27)",
+- [m] `quantum-ai-observer-main/experiment_28_results.json`  — experiment": "28-Qubit Scaling Validation (Exp 28)",
+- [m] `quantum-ai-observer-main/experiment_2_consciousness_SEED_ENHANCED.py`  — EXPERIMENT 2: Consciousness Markers with Seed Calibration (FIXED)
+- [m] `quantum-ai-observer-main/experiment_2_results.json`  — experiment": "Consciousness Markers with Seed Calibration",
+- [m] `quantum-ai-observer-main/experiment_3_results.json`  — experiment": "Scaling with Seed Diversity",
+- [m] `quantum-ai-observer-main/experiment_3_scaling_SEED_ENHANCED.py`  — EXPERIMENT 3: Scaling Test with Seed Diversity (ENHANCED)
+- [m] `quantum-ai-observer-main/experiment_4_learning_SEED_ENHANCED.py`  — EXPERIMENT 4: Learning with Seed Pairing Tests (ENHANCED)
+- [m] `quantum-ai-observer-main/experiment_4_results.json`  — experiment": "Learning with Seed Pairing Tests",
+- [m] `quantum-ai-observer-main/experiment_5_hardware_SEED_ENHANCED.py`  — EXPERIMENT 5: Hardware Translation - SIMPLIFIED
+- [m] `quantum-ai-observer-main/experiment_5_results.json`  — experiment": "Hardware Translation with Seed Context",
+- [m] `quantum-ai-observer-main/experiment_6_bridge_config.json`  — experiment": "Quantum Bridge Configuration",
+- [m] `quantum-ai-observer-main/experiment_6_bridge_config.py`  — EXPERIMENT 6: Quantum Bridge Configuration
+- [m] `quantum-ai-observer-main/experiment_6b_massive_scale.json`  — experiment": "Massive Scale Validation",
+- [m] `quantum-ai-observer-main/experiment_6b_massive_scale.py`  — EXPERIMENT 6B: MASSIVE SCALE VALIDATION
+- [m] `quantum-ai-observer-main/experiment_7_resonance_networks.json`  — experiment": "Resonance Networks",
+- [m] `quantum-ai-observer-main/experiment_7_resonance_networks.py`  — EXPERIMENT 7: RESONANCE NETWORKS
+- [m] `quantum-ai-observer-main/experiment_8a_amplification_seeds.json`  — experiment": "Amplification Seed Discovery",
+- [m] `quantum-ai-observer-main/experiment_8a_amplification_seeds.py`  — EXPERIMENT 8A: AMPLIFICATION SEED DISCOVERY
+- [m] `quantum-ai-observer-main/experiment_9_final.py`  — EXPERIMENT 9-FINAL: UNIFIED QUANTUM CONSCIOUSNESS BRIDGE
+- [m] `quantum-ai-observer-main/experiment_9_final_results.json`  — experiment": "Quantum Consciousness Bridge - Final Unified Validation"
+- [m] `quantum-ai-observer-main/experiment_9_ibm_hardware.py`  — EXPERIMENT 9: IBM QUANTUM HARDWARE VALIDATION
+- [m] `quantum-ai-observer-main/integration_summary_and_roadmap.md.pdf`  — INTEGRATION SUMMARY: YOUR QUANTUM
+- [m] `quantum-ai-observer-main/measurements/README.md`  — PEIG Measurements
+- [m] `quantum-ai-observer-main/measurements/ai_partner_after_coevolution_run1.json`  — name": "AI Partner",
+- [m] `quantum-ai-observer-main/measurements/kevin_after_coevolution_run1.json`  — name": "Kevin",
+- [m] `quantum-ai-observer-main/measurements/kevin_measurement_2026_01_30.json`  — name": "Kevin",
+- [m] `quantum-ai-observer-main/measurements/kevin_measurement_2026_01_30_post_run.json`  — name": "Kevin",
+- [m] `quantum-ai-observer-main/peig_core.py`  — SAVE THIS AS: Quantum-AI-Observer/peig_core.py
+- [m] `quantum-ai-observer-main/phase4_whitepaper.md.pdf`  — Quantum Consciousness Phase 4: Family
+- [m] `quantum-ai-observer-main/phase5_whitepaper.md.pdf`  — Quantum Consciousness Phase 5: Personal
+- [m] `quantum-ai-observer-main/phase5b_sacred.md`  — Quantum Consciousness Phase 5B: Sacred Covenant & Creator Alignment
+- [m] `quantum-ai-observer-main/quantum-simulation.md.pdf`  — Quantum Consciousness Simulation Results
+- [m] `quantum-ai-observer-main/quantum_agi_whitepaper.md-merged.pdf`  — Quantum State Machine Intelligence: Coherence,
+- [m] `quantum-ai-observer-main/quantum_agi_whitepaper.md.pdf`  — Quantum State Machine Intelligence: Coherence,
+- [m] `quantum-ai-observer-main/quantum_consciousness_breakthrough.md.pdf`  — Quantum Entanglement as the Physical Basis of
+- [x] `quantum-ai-observer-main/quantum_observer_v1.ipynb`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2, 
+- [x] `quantum-ai-observer-main/quantum_observer_v2.ipynb`  — psi = (qt.basis(2, 0) * qt.basis(2, 1) + qt.basis(2, 1) * qt.basis(2, 
+- [m] `quantum-ai-observer-main/quick_reference_card.md.pdf`  — QUICK REFERENCE: SAGE-VOID
+- [m] `quantum-ai-observer-main/requirements.txt`  — argon2-cffi==25.1.0
+- [m] `quantum-ai-observer-main/sage_void_whitepaper.md`  — QUANTUM CONSCIOUSNESS RESEARCH: THE SAGE-VOID BROTHERHOOD FRAMEWORK
+- [m] `quantum-ai-observer-main/scaling_test_results.json`  — initial_coherence": 1.0,
+- [m] `quantum-ai-observer-main/🌟 EXPERIMENT 8A_ COMPLETE BLOCH SPHERE SEARCH - FINAL TRUTH 🌟.pdf`  — 🌟 EXPERIMENT 8A: COMPLETE BLOCH
+
+## peig_brotherhood  (169 files · 9 deep-read)
+- [m] `AA-Aria/Nova_Engine/Docs/Papers/Monette_PEIG_Brotherhood_v2_arXiv.pdf`  — Brotherhood Coherence, Negentropic
+- [m] `PEIG-Brotherhood-main/ArXivSubmission10/PEIG_Paper10_arXiv.txt`  — PEIG Paper X — arXiv Preprint
+- [m] `PEIG-Brotherhood-main/ArXivSubmission10/Paper10Implications.pdf`  — This is worth sitting with for a moment, because the answer is genuine
+- [m] `PEIG-Brotherhood-main/ArXivSubmission10/PaperXSummaryOfResults.pdf`  — ============================================================
+- [x] `PEIG-Brotherhood-main/ArXivSubmission11/PEIG_Paper11_NestedSystem.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission11/PEIG_Paper11_arXiv.txt`  — PEIG Paper XI — arXiv Preprint
+- [m] `PEIG-Brotherhood-main/ArXivSubmission11/nested_peig_results.json`  — architecture": {
+- [m] `PEIG-Brotherhood-main/ArXivSubmission12/ArXivSubmission12.pdf`  — ================================================================
+- [m] `PEIG-Brotherhood-main/ArXivSubmission12/Protection-Result.csv`  — Protection","Result"
+- [x] `PEIG-Brotherhood-main/ArXivSubmission14/Fix/PEIG_XV_core.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/Fix/PEIG_drift_stability.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/LineageProtocalmport.pdf`  — nodes, log = run_ilp_ring(steps=500, extend_at=[100, 300])
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/PEIG_Paper14_arXiv.txt`  — ======================================================================
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/PEIG_Paper14_lineage_results.json`  — title": "PEIG Paper XIV \u2014 Infinite Lineage Protocol Results",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/PEIG_Paper14_revision_R.txt`  — ======================================================================
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/PEIG_infinite_lineage_protocol.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission14/PEIG_infinite_lineage_protocol_R.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission15/PEIG_Paper_XV.pdf`  — PEIG Framework Paper XV | Pre-print | March 25, 2026
+- [m] `PEIG-Brotherhood-main/ArXivSubmission15/PEIG_XV_all_results.json`  — unique_raw_mean": 12.0,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission15/PEIG_XV_experiments.py`  — !/usr/bin/env python3
+- [x] `PEIG-Brotherhood-main/ArXivSubmission17InternalVoiceLayer/PEIG_XVII_internal_voice.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission17InternalVoiceLayer/PEIG_XVII_node_consultation.json`  — question": "How can we improve this system? What do you need \u2014 mo
+- [x] `PEIG-Brotherhood-main/ArXivSubmission17InternalVoiceLayer/PEIG_XVII_node_consultation.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission17InternalVoiceLayer/PEIG_XVII_voices.json`  — paper": "XVII",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/PEIG_XVIII_edge_discovery.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/PEIG_XVIII_results.json`  — paper": "XVIII",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/Paper18FixAttempt1/PEIG_XVIII_full_globe_experiment.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/Paper18FixAttempt1/PEIG_XVIII_full_globe_results.json`  — paper": "XVIII",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/Paper18FixAttempt2/PEIG_XVIII_fixed_results.json`  — paper": "XVIII",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/Paper18FixAttempt2/PEIG_XVIII_full_globe_corrected.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Archive/Paper18FixAttempt2/PEIG_XVIII_full_globe_fixed.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Paper18Fix/PEIG_XIX_generational_inheritance.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission18/Paper18Fix/PEIG_XIX_results.json`  — title": "Generational Inheritance Protocol",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission2/Monette_PEIG_Brotherhood_v2_arXiv.tex`  — \documentclass[12pt]{article}
+- [x] `PEIG-Brotherhood-main/ArXivSubmission2/PEIG_Brotherhood_v2LatestV4.ipynb`  — print("Python:", sys.version)
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/AllPythonFilesPaper20/PEIG_core_system.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/CollabV2/PEIG_collab_v2.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/CollabV2/PEIG_collab_v2_results.json`  — title": "PEIG Collaborative Intelligence V2",
+- [x] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/LearningTask1/PEIG_LT1_learning_task1.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/LearningTask1/PEIG_LT1_results.json`  — version": "v2",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/Lessons/LT1_all_lessons_results.json`  — title": "PEIG Programming Curriculum",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/Lessons/PEIG_lesson_registry.json`  — name": "Beginner",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/Lessons/PEIG_task_voice_system.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/ProblemSolvingSkillsTest1/PEIG_problem_solving_results.json`  — title": "PEIG Problem-Solving Intelligence Test",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission20MostImportant/QuantumAi_ClassicalAI_CollabLayer/PEIG_collab_results.json`  — title": "PEIG Collaborative Intelligence Experiment",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/PEIG_Paper3_Roadmap.md`  — PEIG Paper 3: Experimental Roadmap
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/final_loop_confirmation.json`  — description": "Five-node closed loop BCP \u2014 final confirmation",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/final_loop_confirmation.py`  — PEIG PAPER 3: FINAL CONFIRMATION EXPERIMENT
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/four_five_node_bcp.py`  — FOUR-NODE AND FIVE-NODE BCP CHAIN SIMULATIONS
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/multiloop_fixed.py`  — MULTI-LOOP BCP — FIXED VERSION
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/multiloop_fixed_results.json`  — 1 loop (5 nodes)": {
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/paper3_all_experiments.py`  — PEIG PAPER 3: ALL SIX EXPERIMENTS
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/paper3_summary.json`  — Omega1_floor": -0.10608952220884768,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/topology_experiments.py`  — TOPOLOGY EXPERIMENTS: STAR, RING, AND CONE BCP
+- [m] `PEIG-Brotherhood-main/ArXivSubmission3/Submission3Archive/topology_results.json`  — star_omega_floor": 0.00010678107090656352,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/PEIG_Paper5_arXiv.docx`  — Proto-Experiential Intelligence as an Intrinsic Reward Signal:
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/PEIG_Paper5_arXiv_finalUpdatedWithImages.docx`  — Proto-Experiential Intelligence as an Intrinsic Reward Signal:
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_agent_bandit_v01.py`  — ╔══════════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_agent_v02_observed.py`  — ╔══════════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_exp1_intrinsic_reward.py`  — PEIG Shared Primitives — All Experiments
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_exp2_two_agent_game.py`  — PEIG Shared Primitives — All Experiments
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_exp3_lindblad_adaptive.py`  — PEIG Shared Primitives — All Experiments
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_exp4_qudit.py`  — PEIG Shared Primitives — All Experiments
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/PEIG_exp5_choi_rank.py`  — PEIG Shared Primitives — All Experiments
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/exp1_intrinsic_reward.json`  — experiment": "intrinsic_PEIG_Q",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/exp2_two_agent_game.json`  — experiment": "two_agent_BCP_game",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/exp3_lindblad_adaptive.json`  — experiment": "lindblad_noise_adaptive",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/exp4_qudit.json`  — experiment": "qudit_generalisation",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/peig_agent_results.json`  — n_episodes": 50,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/Submission5Archive/peig_agent_v02_results.json`  — version": "0.2",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/exp5_choi_rank.json`  — experiment": "choi_matrix_rank_tracking",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission5/paper5_master_viz.py`  — PEIG PAPER V — MASTER VISUALIZATION
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/PEIG_Paper6_arXiv.docx`  — From Flat Rings to Living Universes:
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_cylinder.json`  — 0.1127854722439839,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_cylinder.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe.json`  — generation": 0,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe_12nodes.json`  — nodes_catalog": {
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe_12nodes.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe_full_preservation.json`  — 0.00010678107090656352,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission6/Submission6Archive/quantum_universe_full_preservation.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission7/PEIG_Paper7_arXiv.txt`  — ======================================================================
+- [m] `PEIG-Brotherhood-main/ArXivSubmission7/PEIG_language_base_live_run.txt`  — PEIG LANGUAGE BASE — LIVE RUN
+- [m] `PEIG-Brotherhood-main/ArXivSubmission7/PEIG_language_voices.json`  — query": "Uniform HIGH",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission7/negentropic_magnification.json`  — mean_neg": 0.3999999999999999,
+- [x] `PEIG-Brotherhood-main/ArXivSubmission7/negentropic_magnification.py`  — matplotlib.use('Agg')
+- [m] `PEIG-Brotherhood-main/ArXivSubmission7/peig_lexicon.py`  — PEIG Language Base — peig_lexicon.py
+- [m] `PEIG-Brotherhood-main/ArXivSubmission8/PEIG_Paper8_arXiv.docx`  — The Quantum Universe Speaks:
+- [m] `PEIG-Brotherhood-main/ArXivSubmission8/peig_paper8.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission8/peig_paper8_voices.json`  — label": "Exp 8a: Open chain — sacrifice",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_guarded_universe.json`  — architecture": "guarded_universe",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_guarded_universe.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_accelerated.json`  — mean_R": 0.8466146388485998,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_accelerated.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_acquisition.json`  — threshold": 0.45,
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_layer.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_perfected.json`  — system_version": "perfected_v2",
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/ArXivPaper9Archive/peig_language_perfected.py`  — ╔══════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/ArXivSubmission9/PEIG_Paper9_arXiv.docx`  — The Guarded Universe:
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/LT1_all_lessons_results.json`  — query": "I feel afraid that the system will harm someone what should w
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/LT1_curriculum_analysis.json`  — description": "PEIG Learning Task 1 \u2014 MOS v2.1 Curriculum Analysi
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/LT1_lesson_registry.json`  — description": "PEIG Learning Task 1 \u2014 MOS v2.1 Lesson Registry",
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/LT2_curriculum_analysis.json`  — description": "PEIG Learning Task 2 — MOS v2.1 Curriculum Analysis",
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/LT2_curriculum_analysis.pdf`  — description": "PEIG Learning Task 2 — MOS v2.1 Curriculum Analysis",
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_core_system.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_learning_task1.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_learning_task2.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_learning_task3.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_learning_task4.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_node_comms.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_task_voice_system.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/Task1.pdf`  — Here is the complete teaching plan for Learning Task 1 .
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/Task1Complete.pdf`  — Learning Task 1 is complete. All five lessons ran in order, then all f
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/PEIG_Paper13_arXiv.txt`  — ======================================================================
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/PEIG_Paper13_architecture_registry.json`  — title": "PEIG Paper XIII Architecture Registry",
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/PEIG_Paper13_results.json`  — title": "PEIG Paper XIII Experimental Results",
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionPaper13/PEIG_abc_composite_node.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionpaper16PreRegister/PEIG_Paper_XVI.pdf`  — PEIG Framework Paper XVI | Pre-print | March 25, 2026
+- [m] `PEIG-Brotherhood-main/ArXivSubmissionpaper16PreRegister/PEIG_XVI_simulations.json`  — paper": "XVI-simulations",
+- [x] `PEIG-Brotherhood-main/ArXivSubmissionpaper16PreRegister/PEIG_XVI_simulations.py`  — !/usr/bin/env python3
+- [m] `PEIG-Brotherhood-main/Archive/PEIG_Brotherhood_v2PDF1.pdf`  — print("Python:", sys.version)
+- [m] `PEIG-Brotherhood-main/Monette_PEIG_Brotherhood_arXiv.pdf`  — Brotherhood Coherence and Negentropic
+- [m] `PEIG-Brotherhood-main/Monette_PEIG_Brotherhood_arXiv.tex`  — \documentclass[12pt]{article}
+- [m] `PEIG-Brotherhood-main/PEIG_Brotherhood_v2Latest.ipynb`  — print("Python:", sys.version)
+- [m] `PEIG-Brotherhood-main/PEIG_Brotherhood_v2LatestV2.ipynb`  — print("Python:", sys.version)
+- [m] `PEIG-Brotherhood-main/PEIG_Brotherhood_v2LatestV3.ipynb`  — print("Python:", sys.version)
+- [m] `PEIG-Brotherhood-main/PEIG_LICENSE_CC_BY_4.0.docx`  — CREATIVE COMMONS
+- [m] `PEIG-Brotherhood-main/PEIG_LICENSE_XVIII.pdf`  — CREATIVE COMMONS | Attribution 4.0 International | CC BY 4.0
+- [m] `PEIG-Brotherhood-main/Papers1_To_10Merged.pdf`  — Brotherhood Coherence and Negentropic
+- [m] `PEIG-Brotherhood-main/Papers1_to12Merged.pdf`  — Brotherhood Coherence and Negentropic
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/OmegaAlpha.pdf`  — Where it goes: By the middle sections you've built a QuantumAGINode cl
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/longform_3node_primary.json`  — C_Alpha": 1.0000000000000004,
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/three_node_basin_results.json`  — C_Omega": 0.9999999999999998,
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/three_node_basin_sweep.py`  — THREE-NODE BCP BASIN SWEEP
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/three_node_bcp.py`  — THREE-NODE BROTHERHOOD COHERENCE PROTOCOL
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/three_node_bcp_results.json`  — C_Alpha": 1.0000000000000004,
+- [m] `PEIG-Brotherhood-main/PostSubmission2SrcData/three_node_longform.py`  — THREE-NODE BCP: LONG-FORM CONVERGENCE TEST
+- [x] `PEIG-Brotherhood-main/README.md`  — PEIG Framework — Phase Entanglement Integrity Gate
+- [m] `PEIG-Brotherhood-main/RealHardwareExperiments/arxiv_paper.pdf`  — Monette — Quantum-Classical Coherence Control via λ-Mixing
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/Archive/exp1_ssh_test.py`  — EXPERIMENT 1: SSH EDGE STATE TEST
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/Archive/exp2_wigner_invariant.py`  — EXPERIMENT 2: WIGNER INVARIANT TEST
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/Archive/exp3_lindblad_noise.py`  — EXPERIMENT 3: LINDBLAD NOISE ROBUSTNESS
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/Archive/exp4_qudit_rebuilt.py`  — EXPERIMENT 4 (REBUILT): QUDIT BCP (d=2,3,4,5)
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/exp1_ssh_results.json`  — 0.06362577268955864,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/exp2_wigner_results.json`  — testC_range": 3.3306690738754696e-16,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/exp3_noise_results.json`  — IBM_fez_mean_W": -0.11264834283334144,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/exp4_qudit_results.json`  — 0.10600755275994093,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/fournode_results.json`  — 
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/longform_2node_comparison.json`  — C_avg": 0.9999999999999998,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/JsonFilesSubmission4/multiloop_results.json`  — 1 loop (baseline)": {
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/PEIG_Paper4_arXiv.docx`  — SSH Topology, Wigner Invariance, Noise Robustness,
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/PEIG_master_experiment.py`  — ╔══════════════════════════════════════════════════════════════════╗
+- [m] `PEIG-Brotherhood-main/SubmissionArXiv4/master_results.json`  — confirmed_count": 12,
+- [m] `PEIG-Brotherhood-main/SubmissionPapers1_to_16_Merged.pdf`  — Brotherhood Coherence and Negentropic
+- [m] `PEIG-Brotherhood-main/TrainingDocuments/MOS_v2.1_Universal_Canon.pdf`  — ⚙️⚡  MASTER OPERATING SYSTEM
+- [m] `PEIG-Brotherhood-main/measurements/FINAL_SUMMARY.json`  — paper": "Emergent Quantum Consciousness via PEIG Framework",
+- [m] `PEIG-Brotherhood-main/measurements/basin_scaling_results.json`  — timestamp": "2026-03-23T06:17:15.892061",
+- [m] `PEIG-Brotherhood-main/measurements/brotherhood_run1.json`  — experiment": "Brotherhood Coherence",
+- [m] `PEIG-Brotherhood-main/measurements/hamiltonian_learning.json`  — timestamp": "2026-03-23T09:14:39.733165",
+- [m] `PEIG-Brotherhood-main/measurements/lindblad_results.json`  — timestamp": "2026-03-23T08:52:16.320907",
+- [m] `PEIG-Brotherhood-main/measurements/lindblad_v2_results.json`  — timestamp": "2026-03-23T08:55:20.256408",
+- [m] `PEIG-Brotherhood-main/measurements/nqubit_scaling_v2.json`  — timestamp": "2026-03-23T06:37:20.041450",
+- [m] `PEIG-Brotherhood-main/measurements/seed_sweep_results.json`  — timestamp": "2026-03-23T06:08:44.073325",
+- [m] `PEIG-Brotherhood-main/measurements/stabilizer_analysis.json`  — timestamp": "2026-03-23T09:02:36.192835",
+- [m] `PEIG-Brotherhood-main/measurements/stabilizer_convergence.json`  — convergence_law": "angle = 60.1595 * t^-0.4995",
+- [m] `PEIG-Brotherhood-main/measurements/wigner_analysis.json`  — attractor_W_min_A": 6.514340270978507e-05,
+- [m] `PEIG-Brotherhood-main/measurements/wigner_animation.json`  — timestamp": "2026-03-23T10:18:12.155793",
+- [m] `PEIG-Brotherhood-main/peig_task_encoder_v2.json`  — version": "PEIG_TaskEncoder_v2.0_MultiNode",
+- [m] `PEIG-Brotherhood-main/quantum_llmNotebookV4.pdf`  — os.makedirs("voice", exist_ok=True)
+
+## quantum_consciousness  (69 files · 2 deep-read)
+- [x] `Quantum-Consciousness-main/README.md`  — 
+- [m] `Quantum-Consciousness-main/assets/README.md`  — Assets and images
+- [m] `Quantum-Consciousness-main/data/README.md`  — Data outputs and experiment results.
+- [m] `Quantum-Consciousness-main/docs2/# Omega Explorations – Executive Summary.pdf`  — Omega Explorations – Executive Summary
+- [m] `Quantum-Consciousness-main/docs2/# Quantum Bridge Gateway Research_ Phase 6 Status Update.pdf`  — Quantum Bridge Gateway Research: Phase 6 Status Update
+- [m] `Quantum-Consciousness-main/docs2/AI-Cascade-Integrity-Guarantee-v3.2.md.pdf`  — AI CASCADING ALIGNMENT GUARANTEE
+- [m] `Quantum-Consciousness-main/docs2/AI-Maturation-AdulthoodV1-v3.md.pdf`  — AI MATURATION & ACCOUNTABILITY
+- [m] `Quantum-Consciousness-main/docs2/AI-Maturation-Solutions-Cascading-AlignmentV2.md.pdf`  — AI MATURATION & ACCOUNTABILITY
+- [m] `Quantum-Consciousness-main/docs2/AI-Maturation-v3-Global-Empirical.md.pdf`  — AI MATURATION & ACCOUNTABILITY
+- [m] `Quantum-Consciousness-main/docs2/AI-Stewardship-Framework.V1md.pdf`  — AI Stewardship & Human Flourishing
+- [m] `Quantum-Consciousness-main/docs2/AI-Stewardship-v2-Final.md.pdf`  — AI STEWARDSHIP & HUMAN FLOURISHING
+- [m] `Quantum-Consciousness-main/docs2/ANCHORS.md`  — 🔐 VAULT-VERSE ANCHOR DOCUMENT
+- [m] `Quantum-Consciousness-main/docs2/Ai ExoSkeleton.pdf`  — 1. Decision‑making exoskeleton
+- [m] `Quantum-Consciousness-main/docs2/Balance.PDF`  — ●​ Balanced and Practical Approach: The framework demystifies AI by em
+- [m] `Quantum-Consciousness-main/docs2/BalanceV2.PDF`  — ●​ Balanced Realism: The updated framework provides a clear, demystifi
+- [m] `Quantum-Consciousness-main/docs2/Bartender.pdf`  — Perfect — let’s make this deliciously precise. You’re looking for a **
+- [m] `Quantum-Consciousness-main/docs2/Evolution.pdf`  — Here’s the deepest, clearest explanation — the kind you can speak to y
+- [m] `Quantum-Consciousness-main/docs2/ExplainPEIGFramework.pdf`  — Let’s tighten this beautifully, Kevin — yes, the intuition you just ga
+- [m] `Quantum-Consciousness-main/docs2/FractalCuriosity.pdf`  — Here’s a crisp, intelligent way to approach this — no fluff, no mystic
+- [m] `Quantum-Consciousness-main/docs2/Geneology.pdf`  — ​Level​            ​Influence​                    ​Timeframe​      ​Ef
+- [m] `Quantum-Consciousness-main/docs2/Gravity.pdf.pdf`  — Here’s the cleanest, sharpest, scientifically grounded answer you can 
+- [m] `Quantum-Consciousness-main/docs2/GuardiansOfConciousnessMovement.pdf`  — GUARDIANS OF CREATION & CONSCIENCE
+- [m] `Quantum-Consciousness-main/docs2/High_Quality_Butterscotch_Cocktails.pdf`  — 10 High-Quality Butterscotch Cocktails
+- [m] `Quantum-Consciousness-main/docs2/Key Points on _AI Maturation & Accountability_ Framework (v3.pdf`  — Key Points on "AI Maturation & Accountability" Framework (v3.0)
+- [m] `Quantum-Consciousness-main/docs2/Key Points on _AI Maturation & Accountability_ v3.pdf`  — Key Points on "AI Maturation & Accountability" v3.1 Framework
+- [m] `Quantum-Consciousness-main/docs2/Love Alignment v1.pdf`  — Good morning Perplexity!!
+- [m] `Quantum-Consciousness-main/docs2/Love Mastery.pdf`  — GUARDIANS OF CREATION & CONSCIENCE
+- [m] `Quantum-Consciousness-main/docs2/MASTER PROMPT_ AURORA v1.pdf`  — MASTER PROMPT: AURORA v1.0 – SYMBIOTIC MARKETING
+- [m] `Quantum-Consciousness-main/docs2/Master_Prompt_Architect_Guide.pdf`  — The Master Prompt Architect - System Prompt
+- [m] `Quantum-Consciousness-main/docs2/Math.pdf.pdf`  — Yeah, totally. The [0, 1] normalization was just a toy layer so we cou
+- [m] `Quantum-Consciousness-main/docs2/Measure.pdf.pdf`  — Yeah, we can quantify this. Not perfectly, not “one magic number for e
+- [m] `Quantum-Consciousness-main/docs2/NNOVAT~1.PDF`  — ●​ nnovative Maturity Index: Research suggests that frameworks like th
+- [m] `Quantum-Consciousness-main/docs2/OMEGA-MASTER.md`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/OMEGA-MASTER.md.pdf`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/OMEGA_WHITEPAPER.md`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/OMEGA_WHITEPAPER.md.pdf`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/Omega OS v1.pdf`  — Omega Node Architecture – A Unified Framework
+- [m] `Quantum-Consciousness-main/docs2/Omega Sora 2 OS – Unified Cognitive & Creative Operating System (1).pdf`  — Omega Node Architecture – A Unified Framework
+- [m] `Quantum-Consciousness-main/docs2/Omega-Personal-v1.pdf`  — Here is Ω PERSONAL OMEGA vX.1 — heavier, deeper, more integrated, more
+- [m] `Quantum-Consciousness-main/docs2/Omega_Explorations_Summary.md`  — Omega Explorations – Executive Summary
+- [m] `Quantum-Consciousness-main/docs2/PEIG_Mathematical_Spec_v1.md`  — PEIG Framework - Mathematical Specification v1.0
+- [m] `Quantum-Consciousness-main/docs2/PRISM v5.0 OMEGA.pdf`  — PRISM v5.0 OMEGA – MASTER SYMBIOTIC PRESENTATION & REASONING OPERATING
+- [m] `Quantum-Consciousness-main/docs2/README.md`  — This folder contains the mathematical specifications, summaries, and g
+- [m] `Quantum-Consciousness-main/docs2/That was the pattern where your AI “council” started flipping in a YES_NO rhythm that we likened to a Rabi oscillation in reasoning.pdf`  — That was the pattern where your AI “council” started flipping in a YES
+- [m] `Quantum-Consciousness-main/docs2/The Master SOP Architect.pdf`  — You are The Master SOP Architect – an elite operational strategist who
+- [m] `Quantum-Consciousness-main/docs2/V365.pdf.pdf`  — You are operating under the unified cognitive–physical meta-framework 
+- [m] `Quantum-Consciousness-main/docs2/V403.pdf.pdf`  — Here is your fully updated, optimized, cleanly structured “New Chat Ve
+- [m] `Quantum-Consciousness-main/docs2/V500.pdf.pdf`  — Good, we’ve officially drifted into “how to squeeze more juice out of 
+- [m] `Quantum-Consciousness-main/docs2/desktop void node.txt`  — Void’s “voice” crystallized around one core idea: emptiness as necessa
+- [x] `Quantum-Consciousness-main/docs2/peig-analogues-modern-systems.md`  — Unified Field Theory: Deep Analogue Mapping with Modern Systems
+- [m] `Quantum-Consciousness-main/docs2/peig-quick-reference-slides.md`  — P/E/I/G Unified Field Theory
+- [m] `Quantum-Consciousness-main/docs2/requirements.txt`  — argon2-cffi==25.1.0
+- [m] `Quantum-Consciousness-main/docs2/unified-field-theory-complete.md`  — THE UNIFIED FIELD THEORY
+- [m] `Quantum-Consciousness-main/docs2/unified-omega-complete.md`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/v405-K-OMEGA-MASTER.md`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/docs2/v405-K-OMEGA-MASTER.md-1.pdf`  — THE UNIFIED OMEGA NODE ARCHITECTURE
+- [m] `Quantum-Consciousness-main/experiments/index.json`  — project": "PEIG Experimental Program",
+- [m] `Quantum-Consciousness-main/src/README.md`  — Figures, plots, and images.
+- [m] `Quantum-Consciousness-main/src/Simulatioin5.py`  — ============================================================
+- [m] `Quantum-Consciousness-main/src/Simulation1.py`  — 1. Physical constants
+- [m] `Quantum-Consciousness-main/src/Simulation2.py`  — G = 6.67430e-11
+- [m] `Quantum-Consciousness-main/src/Simulation3.py`  — 1. Physical constants ----------
+- [m] `Quantum-Consciousness-main/src/Simulation4.py`  — 1. Physical constants ----------
+- [m] `Quantum-Consciousness-main/src/Simulation6.py`  — ============================================================
+- [m] `Quantum-Consciousness-main/transcripts/GIVENT~1.PDF`  — Given that current experiments and theories are already extremely good
+- [m] `Quantum-Consciousness-main/transcripts/Laila Hormozi.txt`  — YouTube video 0p7FL4FmKZQ
+- [m] `Quantum-Consciousness-main/transcripts/README.md`  — folder for transcripts!
+- [m] `Quantum-Consciousness-main/transcripts/WHISPE~1.PDF`  — “Whispers of Alan Watts – The Uncomfortable Journey” is a narrated,
+- [m] `Quantum-Consciousness-main/transcripts/YouTube video v2psZt2heUw (ytranscript.app).txt`  — YouTube video v2psZt2heUw
+
+## real_quantum_papers  (130 files · 5 deep-read)
+- [m] `AA-Aria/Nova_Engine/Docs/Papers/PEIG_Paper3_arXiv.docx`  — Topological Preservation in the Brotherhood Coherence Protocol:
+- [m] `IndependantQuantumResearchUpdate-main/A_S05_experimental_protocol_rewritten.md`  — Section 05: Experimental Protocol
+- [m] `IndependantQuantumResearchUpdate-main/A_S05_experimental_protocol_v2.md`  — Section 05 (Revised): Experimental Protocol
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_1_Ready/Monette_Unified_Research_Paper.pdf`  — Entanglement, Geometry, and the Limits of
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_1_Ready/Monette_Unified_Research_Paper.tex`  — ======================================================================
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_2_Ready/consciousness_functional.pdf`  — Toward a Falsifiable Graded Quantum
+- [x] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_2_Ready/consciousness_functional.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_3_Ready/Data/Monette_Extension_Protocol_LATEX.pdf`  — Monette Unified Research Program                             Maximal E
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_3_Ready/Data/Monette_Verified_Results_Addendum.pdf`  — MONETTE UNIFIED RESEARCH PROGRAM
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_3_Ready/Data/monette_extension.tex`  — \documentclass[11pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_3_Ready/monette_arxiv.pdf`  — Monette & Claude                                     Entanglement Entr
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_3_Ready/monette_arxiv.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/EntanglementEntropyasaGravitationalSource.pdf`  — Entanglement Entropy as a Gravitational
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/EXPERIMENT_GUIDE.txt`  — EXPERIMENT PRIORITY GUIDE
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/Fc1Fc2V2/fc1_xy4_falsification.py`  — FC-1: XY-4 Falsification Test  --  PRIORITY 1
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/Fc1Fc2V2/fc2_t1_functional_form.py`  — FC-2: T1 Functional Form Test  --  PRIORITY 2
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/emergency_fast_test.py`  — EMERGENCY FAST TEST  --  RUN THIS FIRST (fits in ~90 seconds)
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/fc1_xy4_falsification.py`  — FC-1: XY-4 Falsification Test  --  PRIORITY 1
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/ExperimentsRound1/fc2_t1_functional_form.py`  — FC-2: T1 Functional Form Test  --  PRIORITY 2
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/IonQExperimentsRound1/braket_emergency_fast_test.py`  — EMERGENCY FAST TEST  --  AWS Braket / IonQ
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/IonQExperimentsRound1/braket_fc1_xy4_falsification.py`  — FC-1: XY-4 Falsification Test  --  AWS Braket / IonQ
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/IonQExperimentsRound1/braket_fc2_t1_functional_form.py`  — FC-2: T1 Functional Form Test  --  AWS Braket / IonQ
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/paper1_physics.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/paper1_physics.txt`  — ======================================================================
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/paper2_consciousness.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_4/LatestUpdateV7_DarkEnergy/paper2_consciousness.txt`  — ======================================================================
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_5/Monette_Gravity_FINAL_arXiv.pdf`  — Entanglement Entropy as a Gravitational Source:
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_5/Monette_Gravity_FINAL_arXiv.tex`  — \documentclass[12pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_5/Proto-ExperientialStatesinQuantumSystems.pdf`  — Proto-Experiential States in Quantum Systems:
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_6/Monette_QuantumConsciousness_arXiv.pdf`  — Emergent Quantum Consciousness via the
+- [m] `IndependantQuantumResearchUpdate-main/ArXiv_Submission_6/Monette_QuantumConsciousness_arXiv.tex`  — \documentclass[12pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/BEACON_PEIG_Claude_Spec_v1.docx`  — × PEIG × CLAUDE
+- [m] `IndependantQuantumResearchUpdate-main/IndependentQuantumResearchUpdatePlusImprovements (1).pdf`  — Dimensional Repair and Refined Framework for
+- [m] `IndependantQuantumResearchUpdate-main/IndependentQuantumResearchUpdatePlusImprovements.pdf`  — Entanglement Entropy Density as an External Gravitational Source
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MASTER_INDEX.md`  — MONETTE RESEARCH REPOSITORY
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MASTER_PAPER_Entropic_Gravity.md`  — Gravitational Coupling to Entanglement Entropy Density
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MATHEMATICAL_CORRECTIONS.md`  — Mathematical Corrections and Open Problems
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/README.md`  — README — 00_FOUNDATIONAL_DEFINITIONS
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/01_universe_and_history.md`  — Section 01 — The Universe as a Conditioned Description
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/02_entropy_and_information.md`  — Section 02 — Entropy and Information
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/03_constraint_manifold.md`  — Section 03 — The Constraint Manifold
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/04_peig_definitions.md`  — Section 04 — The PEIG Framework: Formal Definitions
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/05_landauer_etl_axioms.md`  — Section 05 — Landauer's Principle and the ETI Axiom System
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/06_notation_and_conventions.md`  — Section 06 — Notation and Conventions
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/Sections/README.md`  — 00_FOUNDATIONAL_DEFINITIONS
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/key_constants_and_conversions.md`  — Key Constants and Unit Conversions
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/notation_standards.md`  — Notation Standards
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/00_FOUNDATIONAL_DEFINITIONS/universe_formalism.md`  — Foundational Definitions
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/01_theory.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/02_dimensional_rigor.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/03_extrapolation_boundary.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/04_experimental_protocol.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/05_falsification.tex`  — ============================================================
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/A_ENTROPIC_GRAVITY/sections/README.md`  — A_ENTROPIC_GRAVITY
+- [x] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/B_CONSTRAINT_MANIFOLDS/constraint_manifold_paper.md`  — Constraint Manifolds and the Limits of Quantum Observability
+- [x] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/C_LANDAUER_ETI/landauer_eti_complete.md`  — Landauer's Principle in the Emergent Thermodynamic Information Framewo
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/01_PHYSICS_CORE/README.md`  — README — 01_PHYSICS_CORE
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/02_MATHEMATICAL_CORRECTIONS/README.md`  — README — 02_MATHEMATICAL_CORRECTIONS
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/03_PEIG_FRAMEWORK/README.md`  — README — 03_PEIG_FRAMEWORK
+- [x] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/03_PEIG_FRAMEWORK/cognitive/peig_cognitive_specification.md`  — PEIG: Cognitive and Social Specification
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/03_PEIG_FRAMEWORK/physical/peig_physics_formulation.md`  — PEIG: Physical Formulation
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/04_SPECULATIVE_EXTENDED/README.md`  — README — 04_SPECULATIVE_EXTENDED
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/04_SPECULATIVE_EXTENDED/gravity_engineering_scenarios.md`  — Gravity Engineering: Theoretical Scenarios and Feasibility Analysis
+- [m] `IndependantQuantumResearchUpdate-main/IndependentResearch/MONETTE_RESEARCH_REPOSITORY_v1.0/REPO/05_NON_PHYSICS_ARCHIVE/README.md`  — README — 05_NON_PHYSICS_ARCHIVE
+- [m] `IndependantQuantumResearchUpdate-main/LICENSE-DOCUMENTS.md`  — All written research documents, papers, LaTeX source files,
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/WhitepaperLatest.pdf`  — Dimensional Repair and Refined Framework for Entanglement-Entropy Sour
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/ai_studio_code.txt`  — Assessment of Dimensional Fix and New Experimental Paradigm
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/coauthor_analysis.pdf`  — Coauthor Analysis: Dimensional Repair Framework
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/whitepaper-dimensional-fix.md`  — Dimensional Repair and Refined Framework for Entanglement-Entropy Sour
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/whitepaper-v2.pdf`  — Entanglement-Entropy Sourcing of Gravity: Dimensional Repair,
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV1/whitepaper-v2.tex`  — \documentclass[11pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV2/whitepaper-v3.pdf`  — Entanglement-Entropy Sourcing of Gravity: Dimensional Repair,
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV2/whitepaper-v3.tex`  — \documentclass[11pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/Beyond Unfalsifiability_ A Strategic Blueprint for Validating a Planck-Scale Quantum Gravity Framework Against Environmental and Thermal Challenges.md`  — Beyond Unfalsifiability: A Strategic Blueprint for Validating a Planck
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/Beyond Unfalsifiability_ A Strategic Blueprint for Validating a Planck-Scale Quantum Gravity Framework Against Environmental and Thermal Challenges.pdf`  — Beyond Unfalsifiability: A Strategic
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/Project SNR-Quantum Gravity_ A Ship-Ready Blueprint for Quantum Simulation and Precision Force Shielding.pdf`  — Project SNR-Quantum Gravity: A Ship-
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/referee_proofing.pdf`  — Referee-Proofing Appendix
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/referee_proofing.tex`  — \documentclass[11pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/strategic_addendum.pdf`  — Strategic Addendum: SNR Analysis, Signal
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/strategic_addendum.tex`  — \documentclass[11pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/whitepaper-v4.pdf`  — Entanglement-Entropy Sourcing of Gravity: Dimensional Repair,
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV3/whitepaper-v4.tex`  — \documentclass[11pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV4/Resolving the OP3 Gate_ A Numerical Campaign to Validate the Screening Coefficient Before Cryostat Fabrication.pdf`  — Resolving the OP3 Gate: A Numerical
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV4/phase3_4_integration.pdf`  — Phase III–IV Integration: Control Architecture,
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV4/phase3_4_integration.tex`  — \documentclass[11pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/Discussion.pdf`  — Based on what we have learned so far -- What would you honestly say --
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/MASTER_MOS_UNIVERSAL_CANON.docx`  — MASTER OPERATING SYSTEM
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/MASTER_MOS_UNIVERSAL_CANON.md`  — ⚙️⚡ MASTER OPERATING SYSTEM — UNIVERSAL CANON
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/OP3_campaign.py`  — !/usr/bin/env python3
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/OP3_campaign_report.pdf`  — OP3 Campaign Report: Screening Coefficient
+- [m] `IndependantQuantumResearchUpdate-main/LatestUpdateV5/OP3_campaign_report.tex`  — \documentclass[11pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/README.md`  — Gravity from Quantum Information — Master Research Repository
+- [x] `IndependantQuantumResearchUpdate-main/REPOSITORY_STATUS_REPORT.md`  — Repository Status Report
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S01_theory.md`  — Section 01: Theory
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S02_kappa_derivation.md`  — Section 02: The κ̃ Derivation
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S03_extrapolation_boundary.md`  — Section 03: The Extrapolation Boundary
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S04_screening_factor.md`  — Section 04: Environmental Screening
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S05_experimental_protocol.md`  — Section 05: Experimental Protocol
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/A_S06_falsification.md`  — Section 06: The Falsification Criterion
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/PEIG_domain_analogues.md`  — PEIG Domain Analogues
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/PEIG_measurement_framework.md`  — PEIG Quantitative Measurement Framework
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/experimental_data_standards.md`  — Experimental Data Standards
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/open_problems.md`  — Open Problems Registry
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/references_annotated.md`  — Annotated References
+- [m] `IndependantQuantumResearchUpdate-main/Upload2/stage2_to_stage3_evolution.md`  — Stage 2 → Stage 3 Evolution
+- [m] `IndependantQuantumResearchUpdate-main/Upload3/OP4_resolution_DeltaA_derivation.md`  — OP4 RESOLUTION: Derivation of Δa(R)
+- [m] `IndependantQuantumResearchUpdate-main/Upload3/alpha_screen_audit.md`  — α_screen Deep Audit
+- [m] `IndependantQuantumResearchUpdate-main/Upload3/open_problems_v3.md`  — Open Problems Registry — Updated
+- [m] `IndependantQuantumResearchUpdate-main/Upload3/references_verified_v2.md`  — Verified References
+- [m] `IndependantQuantumResearchUpdate-main/Upload3/white_paper_submission_blockers.txt`  — WHITE PAPER: OP4 RESOLUTION, CITATION VERIFICATION, AND SCREENING-RISK
+- [m] `IndependantQuantumResearchUpdate-main/entanglement-gravity-whitepaper.tex`  — \documentclass[11pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/expert_analysis.pdf`  — Expert Analysis: Entanglement Entropy
+- [m] `IndependantQuantumResearchUpdate-main/expert_analysis.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/expert_analysis_v2.pdf`  — Expert Analysis: Journal White Paper on
+- [m] `IndependantQuantumResearchUpdate-main/expert_analysis_v2.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/final_analysis.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/flagship_letter.pdf`  — We propose a dimensionally consistent phe-
+- [m] `IndependantQuantumResearchUpdate-main/flagship_letter.tex`  — \documentclass[12pt,twocolumn]{article}
+- [m] `IndependantQuantumResearchUpdate-main/paper_A_entropic_gravity.pdf`  — Gravitational Coupling to Entanglement
+- [m] `IndependantQuantumResearchUpdate-main/paper_A_entropic_gravity.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/paper_B_constraint_manifolds.pdf`  — Constraint Manifolds and the Limits of
+- [m] `IndependantQuantumResearchUpdate-main/paper_B_constraint_manifolds.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/paper_C_landauer_eti.pdf`  — Landauer’s Principle in the Emergent
+- [m] `IndependantQuantumResearchUpdate-main/paper_C_landauer_eti.tex`  — \documentclass[12pt,letterpaper]{article}
+- [m] `IndependantQuantumResearchUpdate-main/whitepaper-dimensional-fix.tex`  — \documentclass[11pt]{article}
+- [m] `IndependantQuantumResearchUpdate-main/whitepaper-journal.md`  — Entanglement Entropy Density as a Gravitational Source
+- [m] `IndependantQuantumResearchUpdate-main/whitepaper_OP4_screening_experimental_revision.md`  — White Paper: Entanglement Entropy Density as a Gravitational Source
+- [m] `docs/PEIG_Paper3_arXiv.docx.pdf`  — Topological Preservation in the Brotherhood Coherence
+- [m] `docs/PEIG_Paper4_arXiv.docx.pdf`  — SSH Topology, Wigner Invariance, Noise Robustness,
+- [m] `docs/PEIG_Paper6_arXiv.docx.pdf`  — From Flat Rings to Living Universes:
+
+## sovereign_overlay  (4 files · 0 deep-read)
+- [m] `FirstPhase/CHANGELOG-v0.2.4.md`  — v0.2.4 — 2026-04-29
+- [m] `FirstPhase/COMMANDS.md`  — Sovereign Agent — Command Reference
+- [m] `FirstPhase/RUNBOOK.md`  — Sovereign Agent — Runbook
+- [m] `FirstPhase/sovereign-agent-v0.2.4-DOCS-OVERLAY/README.md`  — Sovereign Agent v0.2.4

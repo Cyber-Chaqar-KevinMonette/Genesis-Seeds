@@ -1,0 +1,66 @@
+# Duplication / Invariant Map
+# A file replicated identically N times is an invariant of weight N (anchor/canon).
+# Dedup is for reading; THIS preserves replication as signal. Do NOT delete blindly.
+# Unique contents: 2994 · Replicated (invariant) contents: 780
+
+## Top invariants (most-replicated content = most load-bearing)
+- x47  `AA-Aria/goose/Aria/README.md`
+- x15  `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/t1_fit.json`
+- x10  `entropy-gravity-coupling-main/Derivatives.pdf`
+- x9  `quantum-ai-observer-main/quantum_observer_v2.ipynb`
+- x9  `quantum-ai-observer-main/quantum_observer_v1.ipynb`
+- x9  `entropy-gravity-coupling-main (Copy 1)/Gravity/Archive/Appendix X_ Landauer’s Principle, Reversible Computation, and Vacuum Fluctuations — Within an EmergeFinal.pdf`
+- x9  `docs/QuantumReferenceWhitePaper.pdf`
+- x9  `docs/PEIG_Quantum_Consciousness_Integration_COMPLETE.md.pdf`
+- x9  `UIC-Quantum-Coherence-Experiments-main/Experiment2/Experiment_3/Data/raw_execution/condition_decode_map.json`
+- x9  `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/lambda_summary.csv`
+- x9  `UIC-Quantum-Coherence-Experiments-main/Experiment2/ArchiveExp2/analysis_decoded/lambda_regression.txt`
+- x9  `Quantum-Consciousness-main/src/quantum_observer_vunkownv3.ipynb`
+- x9  `Quantum-Consciousness-main/docs2/Omega OS v1.pdf`
+- x9  `PEIG-Brotherhood-main/ArXivSubmission14/Fix/PEIG_drift_stability.py`
+- x9  `IndependantQuantumResearchUpdate-main/ArXiv_Submission_5/Proto-ExperientialStatesinQuantumSystems.pdf`
+- x6  `quantum-ai-observer-main/🌟 EXPERIMENT 8A_ COMPLETE BLOCH SPHERE SEARCH - FINAL TRUTH 🌟.pdf`
+- x6  `quantum-ai-observer-main/scaling_test_results.json`
+- x6  `quantum-ai-observer-main/sage_void_whitepaper.md`
+- x6  `quantum-ai-observer-main/quick_reference_card.md.pdf`
+- x6  `quantum-ai-observer-main/quantum_consciousness_breakthrough.md.pdf`
+- x6  `quantum-ai-observer-main/quantum_agi_whitepaper.md.pdf`
+- x6  `quantum-ai-observer-main/quantum_agi_whitepaper.md-merged.pdf`
+- x6  `quantum-ai-observer-main/quantum-simulation.md.pdf`
+- x6  `quantum-ai-observer-main/phase5b_sacred.md`
+- x6  `quantum-ai-observer-main/phase5_whitepaper.md.pdf`
+- x6  `quantum-ai-observer-main/phase4_whitepaper.md.pdf`
+- x6  `quantum-ai-observer-main/peig_core.py`
+- x6  `quantum-ai-observer-main/measurements/kevin_measurement_2026_01_30_post_run.json`
+- x6  `quantum-ai-observer-main/measurements/kevin_measurement_2026_01_30.json`
+- x6  `quantum-ai-observer-main/measurements/kevin_after_coevolution_run1.json`
+- x6  `quantum-ai-observer-main/measurements/ai_partner_after_coevolution_run1.json`
+- x6  `quantum-ai-observer-main/measurements/README.md`
+- x6  `quantum-ai-observer-main/integration_summary_and_roadmap.md.pdf`
+- x6  `quantum-ai-observer-main/experiment_9_ibm_hardware.py`
+- x6  `quantum-ai-observer-main/experiment_9_final_results.json`
+- x6  `quantum-ai-observer-main/experiment_9_final.py`
+- x6  `quantum-ai-observer-main/experiment_8a_amplification_seeds.py`
+- x6  `quantum-ai-observer-main/experiment_8a_amplification_seeds.json`
+- x6  `quantum-ai-observer-main/experiment_7_resonance_networks.py`
+- x6  `quantum-ai-observer-main/experiment_7_resonance_networks.json`
+- x6  `quantum-ai-observer-main/experiment_6b_massive_scale.py`
+- x6  `quantum-ai-observer-main/experiment_6b_massive_scale.json`
+- x6  `quantum-ai-observer-main/experiment_6_bridge_config.py`
+- x6  `quantum-ai-observer-main/experiment_6_bridge_config.json`
+- x6  `quantum-ai-observer-main/experiment_5_results.json`
+- x6  `quantum-ai-observer-main/experiment_5_hardware_SEED_ENHANCED.py`
+- x6  `quantum-ai-observer-main/experiment_4_results.json`
+- x6  `quantum-ai-observer-main/experiment_4_learning_SEED_ENHANCED.py`
+- x6  `quantum-ai-observer-main/experiment_3_scaling_SEED_ENHANCED.py`
+- x6  `quantum-ai-observer-main/experiment_3_results.json`
+- x6  `quantum-ai-observer-main/experiment_2_results.json`
+- x6  `quantum-ai-observer-main/experiment_2_consciousness_SEED_ENHANCED.py`
+- x6  `quantum-ai-observer-main/experiment_28_results.json`
+- x6  `quantum-ai-observer-main/experiment_27_results.json`
+- x6  `quantum-ai-observer-main/experiment_26_results.json`
+- x6  `quantum-ai-observer-main/experiment_25_results.json`
+- x6  `quantum-ai-observer-main/experiment_24_results.json`
+- x6  `quantum-ai-observer-main/experiment_23_results.json`
+- x6  `quantum-ai-observer-main/experiment_22_results.json`
+- x6  `quantum-ai-observer-main/experiment_21_results.json`
