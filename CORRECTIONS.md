@@ -564,3 +564,51 @@ was set to produce the expected answer.
    quantities is how this stayed invisible.
 3. Paper XIII's `neg_frac_est` should be recomputed without the `* 0.636`, and
    any conclusion resting on it re-derived.
+
+---
+
+## C-6a — Paper XIII's manuscript is clean. The scaling is confined to a script.
+
+The highest-stakes item from C-6 was whether Paper XIII *presents* 0.636 as a
+measured result. Checked against the manuscript
+(`ArXivSubmissionPaper13/PEIG_Paper13_arXiv.txt`). **It does not, and the paper
+is careful in exactly the way the summaries were not.**
+
+`0.636 does not appear in the manuscript at all.` What appears instead:
+
+```
+379:  neg_frac_max ≈ 0.083 × β₁ = 0.083 × 25 = 2.075 (raw)
+382:  neg_frac_predicted ≈ 0.83−0.87
+478:  EXP-2: neg_frac Measurement on Globe+CIA
+481:  Predicted: neg_frac ≈ 0.75−0.87 (first measurement above Paper X's 0.667)
+507:  L4. Globe topology neg_frac has NOT BEEN MEASURED. The β₁=25 Betti bound
+508:      prediction (neg_frac ≈ 0.83) is THEORETICAL PENDING Paper XIV EXP-2.
+```
+
+Three things follow, and two are corrections to my own framing:
+
+1. **The paper declares the measurement missing, as a numbered limitation.**
+   L4 states plainly that Globe neg_frac has not been measured and that the
+   Betti prediction is theoretical pending a future experiment. That is
+   preregistration discipline, and it is the opposite of claiming validation.
+
+2. **The paper does not treat 2.075 as a usable ceiling.** It labels it
+   `(raw)` and converts to a predicted range of 0.83–0.87 — i.e. the author
+   evidently knew the raw figure was not directly comparable to a fraction. The
+   *summary* presented 2.075 as a hard ceiling that observations had validated;
+   the manuscript did neither.
+
+3. **The `* 0.636` scaling is confined to `PEIG_learning_task3.py`**, a
+   learning-task script, and does not reach the paper's results. It remains a
+   real defect — an estimator multiplied by its own target cannot support any
+   claim — but it is a script-level defect, not a published one.
+
+**Net: C-6's severity drops for the manuscript and holds for the code.** The
+misattribution that mattered was in the generated summary, which converted an
+explicitly unmeasured, explicitly theoretical prediction into "validated golden
+knowledge". That is now the third time (C-3, C-4, C-6a) a defect traced to the
+summary rather than to the primary source.
+
+**Standing conclusion, now well supported:** the primary papers in this corpus
+are more careful than the documents written about them. Audit the summaries,
+not the papers, when a claim looks unfalsifiable.
