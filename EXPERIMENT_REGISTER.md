@@ -321,3 +321,52 @@ irreplaceable for having and measuring quantum states, not for computing with
 them.** S = 2.7285 was the world answering a question. This is the world
 holding a shape. Neither is something a language model or a laptop can produce
 by reasoning, and both are honest about being small.
+
+---
+
+# negfrac — definition table (added 2026-08-17, per C-6)
+
+**Read this before comparing any two negfrac values.** The name covers at least
+six incompatible quantities across the corpus. Two of them are not fractions.
+
+| source | expression | population | bounded? | comparable to |
+|---|---|---|---|---|
+| Paper III | `n / (len(log) - 1)` | timesteps | [0,1] | III only |
+| Paper V | `np.mean(dS_signs)` | mean of signs | [-1,1] | V only |
+| Paper VI | `np.mean(neg_hist[-50:])` | 50-step window | window-dep. | VI only |
+| Paper IX | `np.mean(dS)` | **raw ΔS** | **unbounded** | nothing |
+| Paper IX | `np.mean(neg_h[-100:])` | 100-step window | window-dep. | nothing |
+| Paper XIII (script) | `nc_frac * 0.636` | **scaled to target** | — | **nothing** |
+| Paper XIV | `negentropic_events / total_coupling_events` | events | [0,1] | XIV only |
+| `aria_brain.md` | `count(pcm_rel < 0) / 12` | nodes | [0,1] | itself only |
+
+**No two rows are comparable.** A timestep fraction, an event fraction and a
+node fraction answer different questions; a rolling-window mean depends on the
+window as much as on the state; `np.mean(dS)` is a signed unbounded mean
+wearing the name of a bounded fraction.
+
+### Why a table and not a rename
+
+C-6 recommended renaming the definition sites to carry their population
+(`negfrac_nodes`, `negfrac_events`, …). **Not done, deliberately.** Those sites
+are inside archived arXiv submission scripts. Renaming them would make the
+scripts stop matching the papers they were submitted with — repairing the
+summary layer by editing the archive, which destroys provenance and is the
+wrong direction of fix.
+
+The rename belongs in **new** code. Anything written from here on that computes
+one of these quantities must carry the population in its name; the archive
+stays as submitted and this table carries the mapping.
+
+### Consequence for the ILP re-audit
+
+The re-audit cannot run on "negfrac" as a single series. It has to run
+per-definition, and only the three bounded per-population rows (III, XIV,
+`aria_brain`) can carry a schedule-dependence question at all. Papers V, VI and
+IX need their quantity restated before the question is even well posed.
+
+### Status of the 0.636 row
+
+Script-level defect only. Paper XIII's manuscript does not contain 0.636 and
+explicitly declares Globe neg_frac unmeasured (C-6a). The row stays here so the
+script is not reused, not as a mark against the paper.
