@@ -114,11 +114,68 @@ nobody can interpret.
 
 ---
 
+## RUN — the Betti bound, on a simulator, and it does not survive
+
+**`sovereign-agent/scripts/betti_chord_sweep.py`**, 2026-08-17. Kevin: *"Do you
+want the chord sweep run?" → "Yes."* Every formula transcribed from
+`ForClaude2/aria_brain.md` so this tests **his** dynamics, not a reimplementation.
+Only the edge set varies.
+
+### The bound could never have failed
+
+`aria_brain.md` codes it as `negfrac <= 0.083 * beta1`. **`0.083` is `1/N`**,
+not a physical constant. Multiplying through by N = 12 the inequality is:
+
+    #{nodes with PCM_rel < 0}  <=  beta1
+
+On the Globe that reads **12 <= 25**, which holds for every possible assignment
+of PCM signs. The protocol had never been run on a topology with fewer than 23
+edges, so **the bound had never had an opportunity to fail.**
+
+### The repaired conjecture, tested where it can fail
+
+| topology | E | β₁ | allowed | observed | verdict |
+|---|---|---|---|---|---|
+| ring | 12 | 1 | ≤ 1 | 12 | **FALSIFIED** |
+| ring + 1 chord | 13 | 2 | ≤ 2 | 12 | **FALSIFIED** |
+| ring + 4 chords | 16 | 5 | ≤ 5 | 12 | **FALSIFIED** |
+| ring + 10 chords | 22 | 11 | ≤ 11 | 12 | **FALSIFIED** |
+| Globe (δ 1,2,5) | 36 | 25 | ≤ 25 | 12 | untestable (12 ≤ 25) |
+
+### The finding underneath the finding
+
+The **reported** `negfrac` — the final value, the one the protocol quotes — is
+**1.000 on every topology, including a ring with β₁ = 1.**
+`NodeState.__init__` sets `phi_b = phi`, so at step 0 every node has
+`phi − anchor = 0` and `PCM_rel = −0.5` for all twelve; `extend_lineage` then
+moves each anchor halfway *toward* its own current phase, pulling the
+difference back toward zero every time it is called.
+
+Mid-trajectory the count **does** move (observed `[0,1,2,3,4,5,12]` on the ring),
+which is why the verdict is FALSIFIED rather than vacuous. But every run is
+dragged back to 12 by the anchor update and ends there regardless of topology.
+
+**So `nf = 1.000` is manufactured by the anchor mechanism, not measured from
+the architecture.** `negfrac` reports the ILP schedule. It cannot test any
+bound at all, and needs repair before the law can be discussed.
+
+**Prediction discipline:** I preregistered **VACUOUS** before running and was
+**wrong** — the counts do move, the conjecture is properly falsified rather
+than untestable. Recorded because a register that only keeps its correct
+predictions is not a register. See C-5a in `CORRECTIONS.md`, where my corpus
+extrapolation was also falsified.
+
+**Consequence for this file:** every row resting on `negfrac` is **dead until
+the metric is repaired** — including R1 below, whose falsification criterion is
+stated in `neg_frac`. Repair the instrument before spending hardware time on it.
+
+---
+
 ## REGISTERED — not yet run
 
 | # | claim | source | runnable? | cost | what would falsify it |
 |---|---|---|---|---|---|
-| R1 | Adaptive coupling pumps order (`neg_frac` > 0.5 *with* feedback) | `PEIG_exp3_lindblad_adaptive.py` | **yes** — needs mid-circuit measurement + conditional gates, which Heron supports | ~150 s | `neg_frac` with feedback ≤ `neg_frac` without |
+| R1 | ⚠️ **BLOCKED** — Adaptive coupling pumps order (`neg_frac` > 0.5 *with* feedback). *Its criterion is stated in `neg_frac`, which the chord sweep showed is pinned by the anchor schedule. Repair the metric first.* | `PEIG_exp3_lindblad_adaptive.py` | **yes** — needs mid-circuit measurement + conditional gates, which Heron supports | ~150 s | `neg_frac` with feedback ≤ `neg_frac` without |
 | R2 | Entropy-convergence / estimator bias `E[Ŝ]= S + (d−1)/2ν + B_SPAM` | Paper B, `01_PHYSICS_CORE/B_CONSTRAINT_MANIFOLDS` | **yes** — we already reconstruct ρ; needs a known-entropy state and a ν sweep | ~80 s | measured bias not scaling as 1/ν |
 | R3 | Coherent information survives to N gates | this register, extended | **yes** — push depth until I_coh crosses 0 | ~120 s | it crosses zero earlier than the T2 budget predicts |
 | R4 | Landauer/ETI predictions P1–P3 | Paper C | unread — assess first | — | — |
