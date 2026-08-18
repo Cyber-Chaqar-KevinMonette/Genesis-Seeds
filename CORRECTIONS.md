@@ -495,3 +495,72 @@ the same breath as five things I had actually measured, and the two are not
 distinguishable to a reader unless the inference is checked. The check took one
 script. This amendment stands rather than an edit to C-5, so the sequence
 remains visible.
+
+---
+
+## C-6 — `negfrac` names at least six incompatible quantities, and one is scaled to its target
+
+Follow-up to C-5a, which established that negfrac denominators differ. Finding
+the **definition sites** rather than the reported values shows the problem is
+worse than differing denominators: the same name covers different *kinds* of
+quantity.
+
+Twenty-one definition sites across eight papers:
+
+| paper | how `negfrac` is computed | what it counts over |
+|---|---|---|
+| XIV | `negentropic_events / total_coupling_events` | **events** |
+| III | `n / (len(log) - 1)` | **timesteps** |
+| V | `float(np.mean(dS_signs))` | mean of **signs** |
+| VI | `np.mean(neg_hist[-50:])` | rolling window, 50 steps |
+| IX | `float(np.mean(dS))`, `np.mean(neg_h[-100:])` | mean of **raw dS**, and a 100-step window |
+| XIII | `nc_frac * 0.636` | **scaled to a target** — see below |
+| `aria_brain.md` | `count(pcm_rel < 0) / 12` | **nodes** |
+
+Two of these are not fractions at all. `np.mean(dS)` in Paper IX is the mean of
+raw entropy changes — unbounded and signed — reported under a name that reads
+as a bounded fraction. Papers VI and IX use rolling windows, so their values
+depend on window length as much as on state.
+
+**Cross-paper comparison of negfrac is invalid.** Not merely uncalibrated:
+these are different measurements. Any sentence of the form "negentropy fraction
+remains at or below X across papers" assumes a shared population that does not
+exist, and every such claim in the golden-knowledge report should be marked
+**provenance unconfirmed** until its per-paper definition is resolved.
+
+### The serious one
+
+`PEIG-Brotherhood-main/ArXivSubmissionPaper13/ArXivSubmissionPaper13Archive/PEIG_learning_task3.py`
+
+```python
+523:    neg_frac_est = nc_frac * 0.636  # scale to known target
+524:    neg_frac_target = 0.636
+```
+
+The estimator is **multiplied by the value it is meant to estimate.** With
+`nc_frac` near 1 the result lands near 0.636 by construction, and 0.636 is
+declared the target three lines later and elsewhere in the same file:
+
+```python
+191: "neg_frac=0.636 is peak (Paper IX). 0.583 guarded. 0.667 recursive. Target: 0.636."
+590: "To reach 0.636: β₁_total ≈ 7.6 — grammar + dialogue + guards needed"
+```
+
+0.636 appears 11 times among the reported values in the corpus. **A number
+produced by scaling to a target cannot be evidence that the target was
+reached**, and it must not be cited as a measurement. Whether the surrounding
+paper presents it as one needs checking against the manuscript, not the script.
+
+This is the same failure class as `capacity_bits` returning log2(N) and
+`effective_rank` tracking saturation, in its most direct form: the instrument
+was set to produce the expected answer.
+
+### Recommended
+
+1. Every negfrac claim in the golden-knowledge report: mark **provenance
+   unconfirmed** pending per-paper definition.
+2. Rename at the definition sites so the name carries the population —
+   `negfrac_nodes`, `negfrac_events`, `negfrac_window50`. One name for six
+   quantities is how this stayed invisible.
+3. Paper XIII's `neg_frac_est` should be recomputed without the `* 0.636`, and
+   any conclusion resting on it re-derived.
