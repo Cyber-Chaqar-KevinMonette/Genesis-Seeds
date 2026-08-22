@@ -365,6 +365,34 @@ from smaller clusters contributes exactly zero to it.
 
 **12 qubits in one quantum object — the node count of the PEIG globe.**
 
+### N = 16 — the preregistered prediction, collected 2026-08-22
+
+The N=16 circuit was submitted on 2026-08-17 and left queued. Before it ran,
+this register recorded: **F(16) ≈ 0.61 (linear) / 0.63 (exponential), crossing
+F = 0.5 near N ≈ 20–23. FALSIFIED if F(16) ≤ 0.5.**
+
+Fetched from job `da1n5b4dedkc73er8j30`:
+
+| N | P(0…0) | P(1…1) | \|C_N\| | **F** | genuine N-partite? |
+|---|---|---|---|---|---|
+| 16 | 0.3840 | 0.3320 | 0.2521 | **0.6101** | YES |
+
+**0.6101 falls inside the predicted band.** The prediction was written down
+first, the number was collected after, and it landed where the register said it
+would. That is the first preregistered quantitative prediction in this corpus to
+be tested and hold — every earlier one was either untested or, in the case of
+the Betti bound, unfalsifiable by construction.
+
+**Sixteen qubits in one indivisible object.** The full ladder now reads
+0.944 → 0.843 → 0.719 → 0.610, a drop of roughly 0.11 per four qubits, which
+puts the F = 0.5 crossing near **N ≈ 20** — consistent with the earlier
+extrapolation and narrower than the 18–23 band it was drawn from.
+
+A caution the number invites and does not support: this measures what the
+DEVICE can hold, not anything about the PEIG framework. A GHZ state is the
+simplest entangled object there is. Holding sixteen of them coherently is a
+statement about `ibm_marrakesh` in August 2026 and about nothing else.
+
 Fidelity falls 0.944 → 0.843 → 0.719 across the ladder. Linear extrapolation
 puts the F = 0.5 crossing near **N ≈ 18–20**: the approximate largest coherent
 object this device can hold, found without spending the budget down to it.
