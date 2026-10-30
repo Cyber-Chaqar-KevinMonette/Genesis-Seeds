@@ -1,0 +1,170 @@
+[
+ {
+  "tag": "teach/ARIA-CODER",
+  "model": "aria-coder:latest",
+  "temp": 0.5,
+  "response": "SENTENCE: The function should handle nested lists and tuples of any depth and return a flat list containing all non-list/tuple elements, preserving the structure of strings and including None values.\n\nPREDICTS: 3/8"
+ },
+ {
+  "tag": "teach/QWEN-CODER",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.5,
+  "response": "SENTENCE: The function should handle nested lists and tuples of any depth, including empty lists and tuples.\n\nPREDICTS: 5"
+ },
+ {
+  "tag": "teach/QWEN3",
+  "model": "qwen3:8b",
+  "temp": 0.5,
+  "response": "SENTENCE: Ensure that strings are not split and remain as whole elements in the flattened list.  \nPREDICTS: This would fix the string-splitting issue and improve the score by 6 points."
+ },
+ {
+  "tag": "judge/pick",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "Ensure that strings are not split and remain as whole elements in the flattened list."
+ },
+ {
+  "tag": "nested_max/A-original/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef nested_max(nested):\n    def helper(nested):\n        max_val = None\n        for item in nested:\n            if isinstance(item, int):\n                if max_val is None or item > max_val:\n                    max_val = item\n            elif isinstance(item, (list, tuple)):\n                sub_max = helper(item)\n                if sub_max is not None and (max_val is None or sub_max > max_val):\n                    max_val = sub_max\n        return max_val\n    return helper(nested)\n```"
+ },
+ {
+  "tag": "nested_max/A-original/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef nested_max(nested):\n    def helper(n):\n        if isinstance(n, int):\n            return n\n        elif isinstance(n, (list, tuple)):\n            return max((helper(item) for item in n if isinstance(item, (int, list, tuple))), default=None)\n        else:\n            return None\n    return helper(nested)\n```"
+ },
+ {
+  "tag": "nested_max/A-original/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef nested_max(nested):\n    def helper(data):\n        if isinstance(data, int):\n            return data\n        elif isinstance(data, (list, tuple)):\n            return max((helper(item) for item in data if isinstance(item, (int, list, tuple))), default=None)\n        else:\n            return None\n    return helper(nested)\n```"
+ },
+ {
+  "tag": "nested_max/A-original/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef nested_max(nested):\n    def find_max(element):\n        if isinstance(element, int):\n            return element\n        elif isinstance(element, (list, tuple)):\n            return max((find_max(sub) for sub in element if isinstance(sub, (int, list, tuple))), default=None)\n        else:\n            return None\n    \n    return find_max(nested)\n```"
+ },
+ {
+  "tag": "nested_max/A-original/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef nested_max(nested):\n    max_val = None\n    if isinstance(nested, (list, tuple)):\n        for item in nested:\n            if isinstance(item, (int, list, tuple)):\n                if isinstance(item, (int, list, tuple)) and isinstance(item, int):\n                    if max_val is None or item > max_val:\n                        max_val = item\n                else:\n                    current = nested_max(item)\n                    if current is not None and (max_val is None or current > max_val):\n                        max_val = current\n    return max_val\n```"
+ },
+ {
+  "tag": "nested_max/A-original/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef nested_max(nested):\n    max_val = None\n    if isinstance(nested, (list, tuple)):\n        for item in nested:\n            if isinstance(item, (int, list, tuple)):\n                if isinstance(item, int):\n                    if max_val is None or item > max_val:\n                        max_val = item\n                else:\n                    current_max = nested_max(item)\n                    if current_max is not None and (max_val is None or current_max > max_val):\n                        max_val = current_max\n    return max_val\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef nested_max(nested):\n    def flatten_and_filter(nested):\n        for item in nested:\n            if isinstance(item, (list, tuple)):\n                yield from flatten_and_filter(item)\n            elif isinstance(item, int):\n                yield item\n\n    flat_list = list(flatten_and_filter(nested))\n    return max(flat_list) if flat_list else None\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef nested_max(nested):\n    def flatten_and_filter(nested):\n        for item in nested:\n            if isinstance(item, (list, tuple)):\n                yield from flatten_and_filter(item)\n            elif isinstance(item, int):\n                yield item\n\n    flat_list = list(flatten_and_filter(nested))\n    return max(flat_list) if flat_list else None\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef nested_max(nested):\n    def flatten(items):\n        for x in items:\n            if isinstance(x, (list, tuple)):\n                yield from flatten(x)\n            elif isinstance(x, int):\n                yield x\n    \n    flat_list = list(flatten(nested))\n    return max(flat_list) if flat_list else None\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef nested_max(nested):\n    def flatten_and_filter(nested):\n        for item in nested:\n            if isinstance(item, (list, tuple)):\n                yield from flatten_and_filter(item)\n            elif isinstance(item, int):\n                yield item\n    \n    flattened = list(flatten_and_filter(nested))\n    return max(flattened) if flattened else None\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef nested_max(nested):\n    def flatten(item):\n        if isinstance(item, (list, tuple)):\n            for sub in item:\n                yield from flatten(sub)\n        elif isinstance(item, int):\n            yield item\n    flat = list(flatten(nested))\n    return max(flat) if flat else None\n```"
+ },
+ {
+  "tag": "nested_max/B-taught/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef nested_max(nested):\n    def flatten(iterable):\n        for item in iterable:\n            if isinstance(item, (list, tuple)):\n                yield from flatten(item)\n            elif isinstance(item, int):\n                yield item\n    flat = list(flatten(nested))\n    return max(flat) if flat else None\n```"
+ },
+ {
+  "tag": "count_containers/A-original/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/A-original/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/A-original/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/A-original/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    else:\n        return 0\n```"
+ },
+ {
+  "tag": "count_containers/A-original/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef count_containers(nested):\n    count = 0\n    if isinstance(nested, (list, tuple)):\n        count += 1\n        for item in nested:\n            count += count_containers(item)\n    return count\n```"
+ },
+ {
+  "tag": "count_containers/A-original/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        count = 1\n        for item in nested:\n            count += count_containers(item)\n        return count\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, list) or isinstance(nested, tuple):\n        return 1 + sum(count_containers(item) for item in nested)\n    else:\n        return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    else:\n        return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ },
+ {
+  "tag": "count_containers/B-taught/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef count_containers(nested):\n    if isinstance(nested, (list, tuple)):\n        return 1 + sum(count_containers(item) for item in nested)\n    return 0\n```"
+ }
+]
