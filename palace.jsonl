@@ -1,1 +1,1 @@
-{"id": "v5-string-1", "round": "witness-5", "problem": "flatten_deep", "lesson": "Ensure that strings are not split and remain as whole elements.", "tags": ["string"], "source": "qwen3-judged", "effect": "A/B 0.69 vs 0.56", "applied_to": []}
+{"id": "v5-string-1", "round": "witness-5", "problem": "flatten_deep", "lesson": "Ensure that strings are not split and remain as whole elements.", "tags": ["string"], "source": "qwen3-judged", "effect": "A/B 0.69 vs 0.56", "applied_to": ["normalize_spaces"]}

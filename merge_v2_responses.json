@@ -1,0 +1,146 @@
+[
+ {
+  "tag": "dedup_by_key/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key, None)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key, None)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key)\n        if value is None:\n            value = 'None'\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        val = item.get(key)\n        if val is None:\n            val = 'None'\n        if val not in seen:\n            seen.add(val)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "dedup_by_key/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef dedup_by_key(items, key):\n    seen = set()\n    result = []\n    for item in items:\n        value = item.get(key)\n        if value not in seen:\n            seen.add(value)\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "normalize_spaces/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/Qextra/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef normalize_spaces(s):\n    return ' '.join(s.split())\n```"
+ },
+ {
+  "tag": "normalize_spaces/Qextra/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\nimport re\n\ndef normalize_spaces(s):\n    return re.sub(r'\\s+', ' ', s).strip()\n```"
+ },
+ {
+  "tag": "pascal_row/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef pascal_row(n):\n    row = [1]\n    for _ in range(n):\n        row = [x + y for x, y in zip([0] + row, row + [0])]\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef pascal_row(n):\n    if n == 0:\n        return [1]\n    row = [1]\n    for i in range(1, n + 1):\n        row.append(row[i - 1] * (n - i + 1) // i)\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef pascal_row(n):\n    if n == 0:\n        return [1]\n    row = [1]\n    for i in range(1, n + 1):\n        row.append(row[i - 1] * (n - i + 1) // i)\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef pascal_row(n):\n    if n == 0:\n        return [1]\n    row = [1]\n    for i in range(1, n + 1):\n        row.append(row[-1] * (n - i + 1) // i)\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef pascal_row(n):\n    row = [1]\n    for i in range(n):\n        row.append(row[i] * (n - i) // (i + 1))\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef pascal_row(n):\n    row = [1]\n    for i in range(n):\n        row = [sum(pair) for pair in zip(row + [0], [0] + row)]\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/Qextra/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef pascal_row(n):\n    if n == 0:\n        return [1]\n    row = [1]\n    for i in range(1, n):\n        row.append(row[i-1] * (n - i + 1) // i)\n    row.append(1)\n    return row\n```"
+ },
+ {
+  "tag": "pascal_row/Qextra/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef pascal_row(n):\n    if n == 0:\n        return [1]\n    row = [1]\n    for i in range(1, n):\n        row.append(row[i-1] * (n - i + 1) // i)\n    row.append(1)\n    return row\n```"
+ }
+]
