@@ -1,0 +1,242 @@
+[
+ {
+  "tag": "safe_divide_all/shared/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/shared/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/shared/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/shared/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/shared/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [float(x) / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/shared/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [float(x) / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [x / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/Cextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [float(x) / d for x in nums]\n```"
+ },
+ {
+  "tag": "safe_divide_all/Cextra/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef safe_divide_all(nums, d):\n    if d == 0:\n        return None\n    return [float(x) / d for x in nums]\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef first_unique_char(s):\n    char_count = {}\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    \n    for i, char in enumerate(s):\n        if char_count[char] == 1:\n            return i\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef first_unique_char(s):\n    char_count = {}\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    \n    for index, char in enumerate(s):\n        if char_count[char] == 1:\n            return index\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef first_unique_char(s):\n    from collections import OrderedDict\n    char_count = OrderedDict()\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    for char, count in char_count.items():\n        if count == 1:\n            return s.index(char)\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef first_unique_char(s):\n    char_count = {}\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    for index, char in enumerate(s):\n        if char_count[char] == 1:\n            return index\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef first_unique_char(s):\n    count = {}\n    for char in s:\n        count[char] = count.get(char, 0) + 1\n    for i, char in enumerate(s):\n        if count[char] == 1:\n            return i\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/shared/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef first_unique_char(s):\n    count = {}\n    for char in s:\n        count[char] = count.get(char, 0) + 1\n    for i, char in enumerate(s):\n        if count[char] == 1:\n            return i\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef first_unique_char(s):\n    char_count = {}\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    for index, char in enumerate(s):\n        if char_count[char] == 1:\n            return index\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef first_unique_char(s):\n    from collections import OrderedDict\n    char_count = OrderedDict()\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    for char, count in char_count.items():\n        if count == 1:\n            return s.index(char)\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/Cextra/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef first_unique_char(s):\n    from collections import OrderedDict\n    char_count = OrderedDict()\n    for char in s:\n        if char in char_count:\n            char_count[char] += 1\n        else:\n            char_count[char] = 1\n    for char, count in char_count.items():\n        if count == 1:\n            return s.index(char)\n    return -1\n```"
+ },
+ {
+  "tag": "first_unique_char/Cextra/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef first_unique_char(s):\n    count = {}\n    for char in s:\n        count[char] = count.get(char, 0) + 1\n    for i, char in enumerate(s):\n        if count[char] == 1:\n            return i\n    return -1\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef flatten_deep(nested):\n    flat_list = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            flat_list.extend(flatten_deep(item))\n        else:\n            flat_list.append(item)\n    return flat_list\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/shared/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef flatten_deep(nested):\n    flat_list = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            flat_list.extend(flatten_deep(item))\n        else:\n            flat_list.append(item)\n    return flat_list\n```"
+ },
+ {
+  "tag": "flatten_deep/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef flatten_deep(nested):\n    flat_list = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            flat_list.extend(flatten_deep(item))\n        else:\n            flat_list.append(item)\n    return flat_list\n```"
+ },
+ {
+  "tag": "flatten_deep/Cextra/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        else:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "flatten_deep/Cextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef flatten_deep(nested):\n    result = []\n    for item in nested:\n        if isinstance(item, (list, tuple)):\n            result.extend(flatten_deep(item))\n        elif item is not None:\n            result.append(item)\n    return result\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    runs = [[nums[0]]]\n    for num in nums[1:]:\n        if num == runs[-1][-1] + 1:\n            runs[-1].append(num)\n        else:\n            runs.append([num])\n    return runs\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    runs = [[nums[0]]]\n    for num in nums[1:]:\n        if num == runs[-1][-1] + 1:\n            runs[-1].append(num)\n        else:\n            runs.append([num])\n    return runs\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    runs = [[nums[0]]]\n    for num in nums[1:]:\n        if num == runs[-1][-1] + 1:\n            runs[-1].append(num)\n        else:\n            runs.append([num])\n    return runs\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    result = []\n    current_group = [nums[0]]\n    for num in nums[1:]:\n        if num == current_group[-1] + 1:\n            current_group.append(num)\n        else:\n            result.append(current_group)\n            current_group = [num]\n    result.append(current_group)\n    return result\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    groups = []\n    current_group = [nums[0]]\n    for num in nums[1:]:\n        if num == current_group[-1] + 1:\n            current_group.append(num)\n        else:\n            groups.append(current_group)\n            current_group = [num]\n    groups.append(current_group)\n    return groups\n```"
+ },
+ {
+  "tag": "group_consecutive/shared/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    result = []\n    current_group = [nums[0]]\n    for num in nums[1:]:\n        if num == current_group[-1] + 1:\n            current_group.append(num)\n        else:\n            result.append(current_group)\n            current_group = [num]\n    result.append(current_group)\n    return result\n```"
+ },
+ {
+  "tag": "group_consecutive/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    \n    result = []\n    current_group = [nums[0]]\n    \n    for num in nums[1:]:\n        if num == current_group[-1] + 1:\n            current_group.append(num)\n        else:\n            result.append(current_group)\n            current_group = [num]\n    \n    result.append(current_group)\n    return result\n```"
+ },
+ {
+  "tag": "group_consecutive/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    runs = [[nums[0]]]\n    for num in nums[1:]:\n        if num == runs[-1][-1] + 1:\n            runs[-1].append(num)\n        else:\n            runs.append([num])\n    return runs\n```"
+ },
+ {
+  "tag": "group_consecutive/Cextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    result = [[nums[0]]]\n    for num in nums[1:]:\n        if num == result[-1][-1] + 1:\n            result[-1].append(num)\n        else:\n            result.append([num])\n    return result\n```"
+ },
+ {
+  "tag": "group_consecutive/Cextra/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef group_consecutive(nums):\n    if not nums:\n        return []\n    \n    runs = []\n    current_run = [nums[0]]\n    \n    for num in nums[1:]:\n        if num == current_run[-1] + 1:\n            current_run.append(num)\n        else:\n            runs.append(current_run)\n            current_run = [num]\n    \n    runs.append(current_run)\n    return runs\n```"
+ }
+]
