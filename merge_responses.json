@@ -1,0 +1,146 @@
+[
+ {
+  "tag": "running_max/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        max_so_far = max(max_so_far, num)\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "running_max/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    result = [nums[0]]\n    for num in nums[1:]:\n        result.append(max(result[-1], num))\n    return result\n```"
+ },
+ {
+  "tag": "running_max/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        max_so_far = max(max_so_far, num)\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "running_max/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    result = [nums[0]]\n    for num in nums[1:]:\n        result.append(max(result[-1], num))\n    return result\n```"
+ },
+ {
+  "tag": "running_max/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        max_so_far = max(max_so_far, num)\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "running_max/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        max_so_far = max(max_so_far, num)\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "running_max/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        max_so_far = max(max_so_far, num)\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "running_max/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef running_max(nums):\n    if not nums:\n        return []\n    max_so_far = nums[0]\n    result = [max_so_far]\n    for num in nums[1:]:\n        if num > max_so_far:\n            max_so_far = num\n        result.append(max_so_far)\n    return result\n```"
+ },
+ {
+  "tag": "reverse_words/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "reverse_words/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "reverse_words/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "reverse_words/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "reverse_words/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef reverse_words(s):\n    if not s:\n        return ''\n    words = s.split()\n    return ' '.join(reversed(words))\n```"
+ },
+ {
+  "tag": "reverse_words/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef reverse_words(s):\n    if not s:\n        return ''\n    words = s.split()\n    return ' '.join(reversed(words))\n```"
+ },
+ {
+  "tag": "reverse_words/Qextra/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "reverse_words/Qextra/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 1.2,
+  "response": "```python\ndef reverse_words(s):\n    return ' '.join(s.split()[::-1])\n```"
+ },
+ {
+  "tag": "transpose/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 0.2,
+  "response": "```python\ndef transpose(m):\n    return [list(row) for row in zip(*m)]\n```"
+ },
+ {
+  "tag": "transpose/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 0.4,
+  "response": "```python\ndef transpose(m):\n    return list(map(list, zip(*m)))\n```"
+ },
+ {
+  "tag": "transpose/QWEN-CODER#0",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.7,
+  "response": "```python\ndef transpose(m):\n    return [list(x) for x in zip(*m)]\n```"
+ },
+ {
+  "tag": "transpose/QWEN-CODER#1",
+  "model": "qwen2.5-coder:7b",
+  "temp": 0.9,
+  "response": "```python\ndef transpose(m):\n    if not m:\n        return []\n    return [list(row) for row in zip(*m)]\n```"
+ },
+ {
+  "tag": "transpose/QWEN3#0",
+  "model": "qwen3:8b",
+  "temp": 1.0,
+  "response": "```python\ndef transpose(m):\n    if not m:\n        return []\n    rows = len(m)\n    cols = len(m[0])\n    transposed = [[0 for _ in range(rows)] for _ in range(cols)]\n    for i in range(rows):\n        for j in range(cols):\n            transposed[j][i] = m[i][j]\n    return transposed\n```"
+ },
+ {
+  "tag": "transpose/QWEN3#1",
+  "model": "qwen3:8b",
+  "temp": 1.2,
+  "response": "```python\ndef transpose(m):\n    if not m:\n        return []\n    rows = len(m)\n    cols = len(m[0])\n    result = [[0 for _ in range(rows)] for _ in range(cols)]\n    for i in range(rows):\n        for j in range(cols):\n            result[j][i] = m[i][j]\n    return result\n```"
+ },
+ {
+  "tag": "transpose/Qextra/ARIA-CODER#0",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef transpose(m):\n    if not m:\n        return []\n    return [list(row) for row in zip(*m)]\n```"
+ },
+ {
+  "tag": "transpose/Qextra/ARIA-CODER#1",
+  "model": "aria-coder:latest",
+  "temp": 1.2,
+  "response": "```python\ndef transpose(m):\n    return [list(row) for row in zip(*m)]\n```"
+ }
+]
